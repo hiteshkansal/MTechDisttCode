@@ -1,0 +1,431 @@
+run:
+Reading POS tagger model from E:\Disertation\APIs\stanford-postagger-full-2014-01-04\models\english-left3words-distsim.tagger ... done [1.4 sec].
+MicroMP3.txt output:
+Total correction: 0
+Feb 25, 2014 6:52:49 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable:  (U+1A, decimal: 26)
+Total correction: 0
+Total review: 52
+Total review: 51
+Most Important Features: 
+1 : time=1.024271
+2 : creative=1.2799627
+3 : battery=2.0480793
+4 : zen=2.6181056
+5 : player=7.388876
+6 : software=2.6181056
+7 : box=1.0123805
+8 : product=1.4894807
+9 : list=1.3381429
+10 : ipod=4.0144286
+11 : napster=1.0472423
+12 : song=3.7818239
+13 : micro=1.0472423
+14 : user=1.4545032
+rev: 51
+Cluster Count: 
+33
+23
+19
+14
+13
+12
+10
+8
+7
+3
+2
+2
+1
+player	 :3.6666667 Stars
+player with a count 33
+1  Second might be a problem I might have with my PC but not too sure, when the player is connected on the USB and I start playing on it and also using the windows explorer, it sometimes pauses by itself and tries to synchronise with the PC during play, which is a bit irritating.
+2  This player is fantastic in terms of audio quality, ease of use, and features.
+3  It was a good player when it worked and I loved the design.
+4  Apple, on the other hand, seems to have engaged in a blind marketing strategy that seeks to obliterate competition through utter abuse of marketing channels and un-orthodox "free player" schemes that just seem to pimp the product without pimping the features.
+5  ) The Zen Micro appears sturdy and well constructed, hefty, if you will, far better than many of its competitors. .
+6  They have a list of compatible players which I miss read.
+7  The player looks great, feels great, and sounds great.
+8  Next I wanted to update the software, after a quick firmware upgrade the player was ready to go.
+9  I know this list is horribly unreasonable, which is why it amazes me how many players lack some of these basic features.
+10  I was more excited about this player upon opening than I was about the Nomad.
+11  The accesories that come with the player are great.
+12  I visited quite a few forums and while the iPod is a great player I was concerned with the battery life and the inability to change them without breaking open the case.
+13  t simply the best player on the market for a really low price, so why look anywhere else?
+14  PC software that comes with the player is not as simple as i Tunes but its not bad at all.
+15  Feature for feature, I find it a very sweet little player; equipped with a higher end headphone system, between this and th larger Zen Ihardly use my home stereo system anymore.
+16  Verdict:  Had I not needed something with a tad bit more space, I consider this player fair game.
+17  I have visited multiple websites, and for virtually EVERY new hard-drive-based mp3 player I find, there are always user reviews that smash the new player and say something like "Just go buy an Ipod!"
+18  I've had this player for more than 4 months and I'm very happy with it.
+19  This player is absolutely phenomenal, I haven't had any problems, and if you're worried you will have problems, I suggest buying it at a retail store that has a good return policy but anyways... I find the touch pad very easy to use, and I'm surprised so many people have had problems.
+20  In conclusion, this player is beautiful.
+21  The file ripping/transfering software that comes with the player is easy to use.
+22  The back of the player is nice too, with water ripples inside the clear white coating.
+23  When it's working, it's great but it is very tempermental.
+24  The player itself is tiny , it gets a bit bulky when you put it in the hardcase, which you need to do if you don't want to get scrathes on the back(its a nice looking back too ).
+25  The voice recorder is a beautiful add-on; not even necessary, but just an example of why Apple just wants your money and Creative Labs wants to make a better player.
+26  I managed to fit about 700 tracks on the player, but many of those are 6-15 minute long classical tracks.
+27  With the iPod, if the battery has reached it's life span (after about a year), and you didn't buy the warranty from the store, you need to buy a NEW player.
+28  I imagine if I left my player untouched (no backlight) it could play for considerably more than 12 hours at a low volume level.
+29  The player looks SO much better when you're actually holding it.
+30  Overall, I've been very impressed with the player.
+battery	 :4.7916665 Stars
+battery with a count 23
+1  It beats Apple on the storage space, it beats apple on the removable battery (and batter life), and I personally like its interface more than the Ipod scroll wheel.
+2  It fits into a hand well, it has a removable battery (this is important), great sound quality, fm stereo, recorder, smooth UI, and a feature that most unipods lack... char!
+3  Smaller size, 1 gb of more space, radio, voice recording, removable battery, cooler look, all in one.
+4  I popped one of the batteries in and to my surprised it started right up.
+5  The battery is removable.
+6  I'm not gonna go into the features cause if you're reading this review, you've probably already looked at them, but I must say the DJ feature if Very cool and the removable battery is also a bonus!
+7  I ordered from Amazon and got the Limited Edition package that includes a free battery!
+8  The battery is also convenient, but could have been better, such as the Zen Touch's battery (but at least this one is removable).
+9  Speaking of battery, it's removable AND replaceable!
+10  My list of "nice to have" features is a little longer, but it also contains nothing unreasonable: backlit screen, removable battery, FM Radio feature, ID3 Tag line support, lots of storage.
+11  - Replaceable battery.
+12  A must for me, the fact that you can carry extra batteries is a big bonus.
+13  The extra spare battery is just a neat bonus.
+14  :) I was also happy that my shipment came with all the accessories (minus extra battery).
+15  I purchased this over the Ipod Mini because it had several nice features: extra 1G storage, WMA support, replaceable battery, and especially that it wasn't an Apple product with their proprietary architecture.
+16  Some other companies require you to send your player back and then charge you an additional $130 to replace their batteries.
+17  You can buy a new battery for 49.99.
+18  Here's a quote from Creative's web site (hoping to sell additional batteries):   "Carry an extra rechargeable battery for your Zen Micro for an additional 12 hours of nonstop music."
+19  Yes, there is a belt clip, but that doesn't hold the extra battery and usb cable.
+product	 :4.1304345 Stars
+product with a count 19
+1  It also has tons more features then previous creative products, and most of them are very useful such as the ability to custimize the main menu to show the stuff you want, not the default items (creativelabs.com for more on that).
+2  It may be that the next Creative product is complete junk, but you should make product decisions based on product attributes NOW, not based on a halo effect of an idealized company (Apple) or other pointless loyalties.
+3  As I wrote, this COULD have been a great product, but expect hidden charges (read gross profiteering and price gouging) as the company royally sticks you on every conceivable accessory necessary for normal daily usage.
+4  While I'm not too keen on their customer service (none of the products I have from Creative have given me issues), I can definitely recommend the Zen Micro for the simple fact that it does exactly what it is supposed to do and more...without needing any of the extra hype except word of mouth.
+5  This product is amazing and better than the Ipod you can get at the same price.
+6  It is unlikely that you will EVER get the best products just by sticking with one company.
+7  Their product may appear more enconomical, but it isn't in the long run. .
+8  The fit and finish of the product is first-rate.
+9  Update 8/11/05:  The latest release of the iPOD firmware fixes the calendar sync bug i noted below.
+10  :) I was also happy that my shipment came with all the accessories (minus extra battery).
+11  ) One outstanding positive feature is the battery. It holds a charge for a long time, longer than most other similar products and the user can replace it easily or take another along as a backup.
+12  It COULD have been a great product.
+13  i didn't get ipod because i dont especially like itunes (no music i want, but thats just me) and the creative product was cheaper; and i needed to be able to use WMA files.
+14  I really like both of them and as with any other popular products, they both have their share of negative reviews warning of their shortcomings.
+zen	 :4.375 Stars
+zen with a count 14
+1  Creative has been making computer sound equipment for decades and with the zen micro it finally has something with enough quality and, yes, charm to win a nice size of the digital player pie.
+2  I decided to go with the convienence factor and purchase a creative zen micro.
+3  I love my dark blue zen micro and would definitely recommend it.
+4  Zen micro does.
+5  I think that for its price compared to the ipod the creative zen is pretty good.
+6  00 song capacity of the disk without having to worry about the quality of your music (the Zen micro, actually starts off with about 4.7GB after loading the software).
+7  White earbuds ( i replaced those with some shure headphones, big difference), a case, a stand, a clip (which doesn't really work), and a nice little zen micro bag.
+8  Amazing.
+9  Before you run out and buy an iPod, understand something: there are REASONS the Zen is worth encountering this kind of hassle, principally excellent (for MP3) sound quality.
+10  so i admit it... i wanted a zen micro, because the appeal of the iPod was overshadowed by it's annoying trendy hipster popularity and i felt better about myself for choosing a rip off version of that trendy hipster popularity.
+11  That said, you can get more of what the Zen is capable of by donating them to your local iPod person (they're white) and getting a pair of $60-$80 aftermarket headphones.
+software	 :4.0625 Stars
+software with a count 13
+1  Plus, from the Creative discussion forums it is clear that they have some problems with excessive battery drainage with the current firmware.
+2  With the right firmware, drag and drop to and from the player like any other jump drive.
+3  To use the Creative Zen player with a subscription service, you need to go to Creative's web site, and download new software for your PC.
+4  The software is very easy to use, and the transfer is super fast!
+5  You will also need to download and install new firmware on the player.
+6  The software included is an easy installation and you have the option of using the Creative software, Windows Media Player 10, or simply Windows Explorer to move music back and forth between your Zen Touch.
+7  I downloaded the new firmware which was supposed to take care of the problem, but it hasn't worked.
+8  Its just as fast as the included Creative software, but much less invasive, and overall better looking.
+9  The first thing I did was upgrade the firmware to the version required for WMP10, it syncs flawlessly with Media Player and transfers are fast.
+10  I'm not sure whether this is related to the charge cycle of its Li-Ion battery, the better firmware, or a combination of both factors.
+11  The greatest thing about the software (in my humble) is that it reads your CD info.
+ipod	 :4.6153846 Stars
+ipod with a count 12
+1  The first was an ipod 5gb (I could kick myself for not buying it), and the other was a creative 5gb.
+2  I wanted something that looked at least almost as good as an Ipod.
+3  In fact, it's much better than the iPod in that regard.
+4  Right out of the box, I loved it, better features than the Ipod, great sound quality and no limitations on what music sources I can use.
+5  They're better than the IPOD, plus, there are seven EQ settings (including custom).
+6  It is the 'first generation' of the player, and while I still agree that it is a great alternative to the iPod, I think there are many others that would be a much better value for your buck.
+7  All of this said [as it's on it's way back to Amazon], the one song it did include provided far better sound than the IPOD.
+8  This product is amazing and better than the Ipod you can get at the same price.
+9  The Zen plays mp3, wma and wave formats, which makes it more versatile than the Ipod.
+10  Creative was defiantly giving the IPod a run for their money with this device.
+11  The Micro seeemed like an iPod for less.
+list	 :4.5454545 Stars
+list with a count 10
+1  My list of "nice to have" features is a little longer, but it also contains nothing unreasonable: backlit screen, removable battery, FM Radio feature, ID3 Tag line support, lots of storage.
+2  Functionality, menus are easy to navigate... As many have mentioned, the touch pads take some time to get used to, but I've gotten used to it.
+3  Also provides for playlists which are nice, but really only usefully set up through the PC software.
+4  They're easy to use.
+5  Utility Its got a huge list of features including an FM Recorder a Calender and contacts list.
+6  -User's guide doesn't cover a lot of important info that is covered on their website.
+7  The menu is easy to use and understand.
+8  Creating and modifying playlists is easy and clean.
+9  The menus are easy to scroll through; they are laid out naturally, and make sense.
+time	 :4.4444447 Stars
+time with a count 8
+1  If you want to purchase a real case or container or clip-on carrier for you Zen Micro, expect to purchase it separately and to dish out big time. .
+2  I bought this two months ago at a local retailer, after spending considerable time reading reviews here of this and other 5GB players.
+3  I visited quite a few forums and while the iPod is a great player I was concerned with the battery life and the inability to change them without breaking open the case.
+4  My gatekeeper programs kept fixes away a few times until I got wise to it.
+5  ) One outstanding positive feature is the battery. It holds a charge for a long time, longer than most other similar products and the user can replace it easily or take another along as a backup.
+6  Still, that's enough time that I'm still satisfied, if a bit grouchy with Creative's overhyped promises.
+song	 :4.375 Stars
+song with a count 7
+1  They've partnered with Napster to give you a! free month of the subscription service (read: all the music you want free for thirty days, when you can cancel with all your music safely hidden away.
+2  You can only copy songs you've downloaded for free or ripped from a CD.
+3  It's easy to find songs, organize songs, and also carry some essentials and diversions.
+4  At 128 the songs sound very good.
+5  But if you get that "fuzzy legal feeling" from paying for songs, at least buy them from allofmp3.com, there are no restrictions and the songs cost pennies.
+6  Initially, I was very impressed, after loading 180 songs it seemed to function very well but then it would lock up on me and a battery removal remedied this, I then downloaded the upgrades and everything seemed to be alright.
+7  It's cheaper, holds more songs and is smaller.
+box	 :2.5 Stars
+box with a count 3
+1  +looks snazzy +smaller than a pack of smokes - easily transported +ac charger included as well as a hardshell that comes with a clip and a stand adapter +USB cable !
+2  The box included a little polyester, pull-string BAG, (yes, you read right a BAG, something a boy would carry ten marbles in) and tries to pass it off as the case.
+3  Your choice of ten colors in a beautiful package.
+micro	 :5.0 Stars
+micro with a count 2
+1  For me, I get through a typical day's listening just fine, and I could probably squeeze out two days, but it really is no big deal to just charge the Micro overnight.
+2  I waited a week to make the Micro worthy of a review.
+user	 :3.3333335 Stars
+user with a count 2
+1  because the "engineers" at Creative screwed up the design of the headphone jack.
+2  What is up with nickel and dimeing consumers on the recharge cord?
+napster	 :2.5 Stars
+napster with a count 1
+1  I finally decided to purchase this player because it was compatible with Napster 2 Go....which is a subscription service, allowing me to download as much music as I want for a $14.95 flat fee.
+OverAll Rating is : 4.026145 Out of 5 Stars
+Negative summery is: 
+1  players that are currently available, but not the Zen Micro.
+
+2  Even when I set it to low, it's still very hard for me to adjust the player to where and what I want it to do.
+
+3  This is a difficult player to review because I would recommend it on a case-by-case basis.
+
+4  It's too bad, though, that !
+
+5  The player was large and bulky.
+
+6  PC software that comes with the player is not as simple as i Tunes but its not bad at all.
+
+7  Frustrated, I exchanged the player only to get another faulty one!
+
+8  I don't know, maybe I got a defective one but first, the player would not shut off, next, the player would not come on - I had to send it away to get repaired.
+
+9  I haven't seen any problems yet, but if you don't like to tinker a bit, this player can be a little challenging to set up.
+
+10  The player was not very appealing either.
+
+1  The result, while naturally encompassing the acquisition of greater market share, is a mediocre product that stands out sorely in terms of quality and value when compared in a virtual vacuum to its competitors.
+
+2  It is not a perfect product but it does have a lot going for it.
+
+3  Just because Amazon doesn't have it to sell doesn't mean the product is unavailable for review.
+
+4  It is unlikely that you will EVER get the best products just by sticking with one company.
+
+1  Still has terrible software.
+
+2  Its just as fast as the included Creative software, but much less invasive, and overall better looking.
+
+3  This proprietary software to download.
+
+1  It barely holds anything and mine just puts a bunch of thread fuzzies all over the player, because the bag is cheap and seems to be coming apart.
+
+2  The little bag it comes with is cheap and useless.
+
+1  I love my dark blue zen micro and would definitely recommend it.
+
+2  The good news is that the creative support is very responsive and after some emails and postal exchanges, i had a new zen.
+
+1  It wouldn't always work seemlessly with WMP and it often required me to restart the frozen micro by taking out the battery and restarting it.
+
+1  It's not as seamless as if you were to use an iPod, but it only takes a few seconds longer.
+
+1  Really that's all I can find wrong with it, it took some major bouncing around to get a song to skip (there is a hard drive within), and I don't forsee jogging (wich I plan to do with it tonight) to cause any problems whatsoever (if it does, I'll update this).
+
+1  I loved the Zen Micro, and thus it pains me to say this, but I have a hard time recommending something, when I've had two of them break on me in such a short time of owning them.
+
+1  I know this list is horribly unreasonable, which is why it amazes me how many players lack some of these basic features.
+
+1  This player is not compatible with Napster To Go.
+
+1  I am the type of person that will always go against the masses of blind followers so there was no way I was getting an Ipod.
+
+FINAL RESULT: 
+J: 0  9  ipod  sound  1
+J: 1  31  product  great  1
+J: 2  47  user  dimeing  1
+J: 3  49  product  enconomical  1
+J: 4  52  box  pull-string  1
+J: 5  53  time  real  1
+J: 6  53  time  big  1
+J: 7  56  time  long  1
+J: 8  56  time  longer  1
+J: 9  56  product  most  1
+J: 10  56  product  other  1
+J: 11  56  product  similar  1
+J: 12  57  battery  additional  1
+J: 13  65  player  better  1
+J: 14  65  player  many  1
+J: 15  66  product  great  1
+J: 16  70  battery  removable  1
+J: 17  79  software  proprietary  -1
+J: 18  81  user  blind  -1
+J: 19  93  player  great  1
+J: 20  93  time  open  1
+J: 21  96  battery  free  1
+J: 22  98  battery  surprised  1
+J: 23  99  software  creative  1
+J: 24  110  player  more  1
+J: 25  115  player  tiny  1
+J: 26  128  list  huge  1
+J: 27  133  list  easy  1
+J: 28  133  list  clean  1
+J: 29  136  player  usb  1
+J: 30  138  zen  creative  1
+J: 31  138  zen  good  1
+J: 32  142  zen  new  -1
+J: 33  151  product  creative  1
+J: 34  151  product  cheaper  1
+J: 35  154  player  difficult  -1
+J: 36  175  battery  removable  1
+J: 37  176  battery  new  1
+J: 38  177  player  new  1
+J: 39  182  player  better  1
+J: 40  184  player  nice  1
+J: 41  193  ipod  seamless  -1
+J: 42  196  song  free  1
+J: 43  198  song  least  1
+J: 44  205  zen  creative  1
+J: 45  205  zen  micro  1
+J: 46  207  ipod  first  1
+J: 47  207  ipod  5gb  1
+J: 48  232  time  considerable  1
+J: 49  247  player  many  1
+J: 50  249  software  upgrade  1
+J: 51  250  battery  replaceable  1
+J: 52  251  battery  extra  1
+J: 53  256  software  right  1
+J: 54  259  software  current  1
+J: 55  261  micro  overnight  1
+J: 56  266  product  latest  1
+J: 57  268  ipod  less  1
+J: 58  277  software  new  1
+J: 59  286  player  compatible  1
+J: 60  290  napster  compatible  -1
+J: 61  291  player  large  -1
+J: 62  291  player  bulky  -1
+J: 63  297  player  appealing  -1
+J: 64  319  ipod  creative  1
+J: 65  322  player  excited  1
+J: 66  325  player  ready  1
+J: 67  333  song  good  1
+J: 68  349  list  easy  1
+J: 69  351  list  easy  1
+J: 70  356  player  easy  1
+J: 71  360  song  cheaper  1
+J: 72  369  player  simple  -1
+J: 73  369  player  bad  1
+J: 74  374  zen  micro  1
+J: 75  413  product  creative  1
+J: 76  414  player  free  1
+J: 77  415  product  mediocre  -1
+J: 78  431  ipod  better  1
+J: 79  436  song  impressed  1
+J: 80  448  product  other  1
+J: 81  448  product  popular  1
+J: 82  471  ipod  great  1
+J: 83  480  micro  worthy  1
+J: 84  485  product  happy  1
+J: 85  485  battery  extra  1
+J: 86  491  list  easy  1
+J: 87  496  battery  removable  1
+J: 88  496  battery  replaceable  1
+J: 89  519  software  terrible  -1
+J: 90  526  product  amazing  1
+J: 91  526  ipod  better  1
+J: 92  537  player  impressed  1
+J: 93  541  software  better  1
+J: 94  542  player  untouched  1
+J: 95  545  software  fast  1
+J: 96  545  software  creative  1
+J: 97  545  software  invasive  -1
+J: 98  545  software  better  1
+J: 99  552  player  great  1
+J: 100  552  player  great  1
+J: 101  552  player  great  1
+J: 102  564  list  unreasonable  -1
+J: 103  564  player  many  1
+J: 104  566  player  available  -1
+J: 105  567  list  nice  1
+J: 106  567  battery  removable  1
+J: 107  569  list  easy  1
+J: 108  580  song  wrong  -1
+J: 109  584  ipod  great  1
+J: 110  592  time  hard  -1
+J: 111  606  battery  extra  1
+J: 112  607  box  cheap  -1
+J: 113  607  box  useless  -1
+J: 114  608  box  cheap  -1
+J: 115  611  zen  dark  -1
+J: 116  611  zen  micro  1
+J: 117  613  zen  amazing  1
+J: 118  618  product  perfect  -1
+J: 119  624  product  first-rate  1
+J: 120  641  zen  worth  1
+J: 121  643  zen  capable  1
+J: 122  662  time  wise  1
+J: 123  686  battery  removable  1
+J: 124  686  battery  important  1
+J: 125  692  battery  frozen  -1
+J: 126  696  player  great  1
+J: 127  697  zen  nice  1
+J: 128  697  zen  micro  1
+J: 129  702  zen  micro  1
+J: 130  717  product  creative  1
+J: 131  717  product  most  1
+J: 132  718  battery  convenient  1
+J: 133  718  battery  removable  1
+J: 134  719  player  fair  1
+J: 135  726  zen  micro  1
+J: 136  733  box  snazzy  1
+J: 137  739  list  nice  1
+J: 138  752  list  important  1
+J: 139  768  napster  compatible  1
+J: 140  789  player  hard  -1
+J: 141  814  battery  replaceable  1
+J: 142  831  song  easy  1
+J: 143  842  battery  extra  1
+J: 144  846  product  unavailable  -1
+J: 145  855  player  sweet  1
+J: 146  875  battery  additional  1
+J: 147  875  battery  extra  1
+J: 148  877  time  enough  1
+J: 149  894  box  beautiful  1
+J: 150  905  song  free  1
+J: 151  907  player  better  1
+J: 152  914  player  beautiful  1
+J: 153  919  player  phenomenal  1
+J: 154  922  software  easy  1
+J: 155  923  battery  removable  1
+J: 156  927  player  best  1
+J: 157  953  player  frustrated  -1
+J: 158  953  player  faulty  -1
+J: 159  958  player  good  1
+J: 160  959  player  bad  -1
+J: 161  968  ipod  good  1
+J: 162  975  zen  micro  1
+J: 163  979  ipod  better  1
+J: 164  982  ipod  versatile  1
+J: 165  983  software  humble  1
+J: 166  1008  user  creative  1
+J: 167  1034  player  fantastic  1
+J: 168  1036  software  new  1
+J: 169  1037  software  new  1
+J: 170  1039  player  challenging  -1
+J: 171  1058  player  new  1
+J: 172  1060  product  unlikely  -1
+J: 173  1060  product  best  1
+J: 174  1066  battery  removable  1
+J: 175  1068  product  creative  1
+J: 176  1085  player  defective  -1
+J: 177  1087  player  great  1
+j:  178
+i:  271
+BUILD SUCCESSFUL (total time: 8 minutes 0 seconds)

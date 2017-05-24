@@ -1,0 +1,1604 @@
+run:
+Reading POS tagger model from E:\Disertation\APIs\stanford-postagger-full-2014-01-04\models\english-left3words-distsim.tagger ... done [1.5 sec].
+CanonG3.txt output with :DiaperChamp.txt
+Total correction: 0
+Total correction: 0
+Total review: 51
+Total review: 49
+Total Cluster: 688
+Most Important Features: 
+feature zoom
+1 : zoom=1.6156462
+feature image
+2 : image=2.9761906
+feature quality
+3 : quality=6.802721
+feature battery
+4 : battery=2.4659865
+feature lcd
+5 : lcd=1.8707484
+feature software
+6 : software=1.3605442
+feature lens
+7 : lens=5.6122446
+feature speed
+8 : speed=1.4455782
+feature megapixel
+9 : megapixel=1.2755102
+feature color
+10 : color=1.2755102
+feature olympus
+11 : olympus=1.3605442
+feature card
+12 : card=1.8707484
+feature shutter
+13 : shutter=1.3605442
+feature canon
+14 : canon=4.846939
+feature result
+15 : result=1.4455782
+feature setting
+16 : setting=1.5306122
+feature camera
+17 : camera=19.47279
+feature flash
+18 : flash=3.8265307
+feature range
+19 : range=1.7857143
+feature mode
+20 : mode=2.7210884
+feature shot
+21 : shot=1.7857143
+feature picture
+22 : picture=9.438775
+feature film
+23 : film=2.3809524
+sent no: 7  i: 7feature: canon  prev adj: few  new verb: recommend
+sent no: 11  i: 11feature: quality  prev adj: many  new verb: like
+sent no: 45  i: 45feature: lcd  prev adj: much  new verb: bother
+sent no: 46  i: 46feature: canon  prev adj: surprise  new verb: correct
+sent no: 47  i: 47feature: canon  prev adj: digital  new verb: recommend
+sent no: 52  i: 52feature: camera  prev adj: little  new verb: love
+sent no: 74  i: 74feature: zoom  prev adj: optical  new verb: work
+sent no: 93  i: 93feature: camera  prev adj: digital  new verb: recommend
+sent no: 99  i: 99feature: card  prev adj: least  new verb: recommend
+sent no: 110  i: 110feature: battery  prev adj: other  new verb: disappoint
+sent no: 120  i: 120feature: quality  prev adj: locate  new verb: fumble
+sent no: 122  i: 122feature: speed  prev adj: shutter  new verb: fumble
+sent no: 127  i: 127feature: camera  prev adj: lexar  new verb: recommend
+sent no: 202  i: 202feature: film  prev adj: point-and-shoot  new verb: satisfy
+sent no: 210  i: 210feature: quality  prev adj: ultimate  new verb: like
+sent no: 222  i: 222feature: image  prev adj: raw  new verb: oppose
+sent no: 238  i: 238feature: camera  prev adj: most  new verb: love
+sent no: 289  i: 289feature: setting  prev adj: white  new verb: lack
+sent no: 289  i: 289feature: setting  prev adj: much  new verb: clean
+sent no: 290  i: 290feature: picture  prev adj: straight  new verb: amaze
+sent no: 292  i: 292feature: camera  prev adj: other  new verb: outperform
+sent no: 293  i: 293feature: color  prev adj: real  new verb: outperform
+sent no: 295  i: 295feature: image  prev adj: little  new verb: criticize
+sent no: 321  i: 321feature: software  prev adj: least  new verb: overlook
+sent no: 323  i: 323feature: camera  prev adj: own  new verb: beg
+sent no: 389  i: 389feature: camera  prev adj: previous  new verb: like
+sent no: 400  i: 400feature: picture  prev adj: few  new verb: lose
+sent no: 400  i: 400feature: picture  prev adj: few  new verb: regret
+sent no: 402  i: 402feature: canon  prev adj: obvious  new verb: limit
+sent no: 411  i: 411feature: quality  prev adj: long  new verb: die
+sent no: 426  i: 426feature: camera  prev adj: digital  new verb: afford
+sent no: 479  i: 479feature: camera  prev adj: digital  new verb: ruin
+sent no: 481  i: 481feature: camera  prev adj: digital  new verb: shun
+sent no: 500  i: 500feature: camera  prev adj: 4mp  new verb: surpass
+sent no: 521  i: 521feature: range  prev adj: main  new verb: lose
+sent no: 524  i: 524feature: camera  prev adj: minor  new verb: afford
+sent no: 538  i: 538feature: color  prev adj: electronic  new verb: work
+sent no: 539  i: 539feature: picture  prev adj: medical  new verb: work
+sent no: 543  i: 543feature: canon  prev adj: new  new verb: improve
+sent no: 552  i: 552feature: shot  prev adj: certain  new verb: lose
+sent no: 569  i: 569feature: lens  prev adj: previous  new verb: obstruct
+sent no: 618  i: 618feature: camera  prev adj: lock-out  new verb: depress
+sent no: 642  i: 642feature: quality  prev adj: hands-on  new verb: lack
+sent no: 644  i: 644feature: camera  prev adj: many  new verb: exploit
+rev: 50
+Cluster Count: 
+120
+43
+30
+14
+10
+9
+8
+8
+8
+7
+7
+7
+7
+6
+6
+6
+5
+5
+4
+3
+3
+2
+1
+camera	 :2.9850745 Stars
+camera with a count 120
+1  this camera is worth every penny , and i highly recommend it !
+2  the camera is very easy to use , in fact on a recent trip this past week i was asked to take a picture of a vacationing elderly group .
+3  bottom line , well made camera , easy to use , very flexible and powerful features to include the ability to use external flash and lense / filters choices .
+4  i do not know a whole lot about photography , but i am happy to know that this camera can always perform , even as i grow in skill and knowledge .
+5  in terms of the shots taken , this camera is insanely great !
+6  i know there are five mp cameras out there , but this thing does just fine for me .
+7  i am a software engineer and am very keen into technical details of everything i buy , i spend around 3 months before buying the digital camera ; and i must say , g3 worth every single cent i spent on it .
+8  i can 't write enough positive things about this great little camera !
+9  i have not played with all the features yet , but the camera is easy to use once you get used to it .
+10  overall it is the best camera on the market .
+11  [t]canon g3 ? incredible camera
+12  this camera has significantly more noise at iso 100 than the nikon 4500 .
+13  the battery life of this camera is twice that of the nikon 5000 and is better than anything else i 've seen .
+14  in a word , " awesome " is how i would describe this camera .
+15  the zoom lens unit feels fragile and it is worth buying a good camera bag if you are going put to carry it round a lot .
+16  [t]awesome pro-sumer camera
+17  even with these shortcomings , i still think it is the best digital camera available under $ 1200 .
+18  a couple of online camera review sites were extremely helpful , as they provided complete exhaustive reviews of nearly every camera made , plus provided a great number of high resolution sample images to compare amongst the models .
+19  the nikon 's are great cameras .
+20  her main focus was having a camera that is easy to understand and use .
+21  based on the cameras features and about dozen online reviews , this one seemed like the best all round deal .
+22  simply , the canon g3 is the best digital camera out there today at this price point .
+23  it can be a point-and-shoot camera , but if you do not intend to " get into " it 's finer features , i 'd suggest a less enthusiast featured choice .
+24  if you can afford this camera , you can afford to get a better strap elsewhere - a very minor quibble .
+25  the g3 is loaded with many useful features , and unlike many smaller digital cameras , it is easy to hold steady when using slower shutter speeds .
+26  olympus c5050 is a very solid camera with a metal body .
+27  [t]great camera
+28  all-in-all , i believe this is arguably the best non-slr digital camera on the market .
+29  because this camera is beautiful .
+30  [t]best non-slr digital camera under 5 megapixels
+31  its silver magnesium finish is stunning , and the sharp lines and excellent grip are better than any other camera i 've seen .
+32  nice camera but does n't take as sharp as pictures i thought they would , and again .
+33  i have only had this camera for one full day and i have to say that it is wonderful .
+34  as i said , this is the last digital camera i 'll buy , and if you are in the market one , my advice is to buy the best thing you can afford and keep it forever .
+35  i am going to have so much fun with this camera and when i learn more i will post a more accurate review .
+36  9 . in dim lit environs the g2 could easily outperform any other camera , and thankfully g3 maintains this rep .
+37  the best 4 megapixel/4x optical zoom camera available and fairly easy to use .
+38  for more info on digital cameras , go to dpreviews .
+39  i 'm one of those people that can only concentrate on one screen at a time so i 've been having trouble paying attention to the little display panel on top , but that does n't stop me from loving this camera .
+40  rather heavy for point and shoot but a great camera for semi pros .
+41  this camera is closest to perfect than any other digicam that is 4-5 megapixel .
+42  i 've only had it a week , but so far , everything about this camera is making me happy .
+43  [t]this camera is closest to perfect than any otherdigicam
+44  am i ever glad that i decided on this camera !
+45  [t]great camera but g2 will do the same for less
+46  this is by far the finest camera in its price and category i have ever used .
+47  definetely a great camera .
+48  [t]best camera i 've used
+49  2 ) 4mp is about right for the target market of this camera ( semi-serious amateur photographer )
+50  [t]fantastic digital camera
+51  the camera has a wonderful set of features .
+52  i do n't write many reviews but i 'm compelled to do so with this camera .
+53  and as i said in my review of the s330 , all of these digital cameras are easier to use with apple computers .
+54  the powershot g3 is a great camera .
+55  i am quite happy with the camera .
+56  it is a fantastic camera and well worth the price .
+57  the other cameras were great and i 'm sure many people will beg to differ from my observations , but to each his / her own .
+58  recent price drops have made the g3 the best bargain in digital cameras currently available .
+59  4mp , 4x optical zoom , takes absolutely beautiful photos with detail that challenges all of the above 5mp cameras , easy to understand and use ( has a great swivel lcd screen ) , a lot of features and add-on options , comes with great software ( not to be overlooked ) , and last but by far not least , received my fiance 's stamp of approval ( two thumbs up ! )
+60  i recommend unreservedly the powershot g3 to any potential buyer looking for a first-class digital camera at a reasonable price - there is no better camera out there - period !
+61  very comfortable camera , easy to use , and the best digital photos you 're going to get at this price .
+62  those used to 35mm cameras will find the g3 very comfortable and friendly to use .
+63  i can't use my nikon external flash on a canon camera , but i can use my metz , with the proper metz module and extension cord connected between the g3 and the 60 ct-4 .
+64  it would have been a much easier choice if this were 5mp camera .
+65  i make photographs at work , and so wanted a camera good enough to compare with what i use professionally .
+66  my girlfriend loved using this camera so much as a point and shoot that i had to pry it out of her hands most of the time .
+67  this is the perfect camera for a photo hobbiest who wants to have easy point and shoot ability as well .
+68  [t]great camera
+69  it surpasses my greatest expectations in a 4mp camera ..
+70  the canon g3 is perhaps the best 4mp camera out there .
+71  another good thing is that this camera seems to introduce much less noise in dark places than others i 've seen .
+72  everything else about the camera is great .
+73  i spent a lot of time comparing different cameras , and i realized that there is not such thing as the best digital camera .
+74  [t]excellent camera
+75  but after trying many adjustments , the camera remains unresponsive when compared to any film-based camera .
+76  the camera arrived on time and in perfect condition .
+77  however , for a $ 600 - $ 800 budget , i think this camera is an excellent choice .
+78  this is a great camera for you !
+79  the objections of the naysayers almost caused me to purchase a different camera , but , in the end , i figured i 'd give the g3 a try .
+80  i would recommend that you purchase a lexar media cf for the camera as the sandisk card that comes packaged is too small and too slow !
+81  [t]great digital camera
+82  after reading the very positive review of this camera in a leading consumer magazine , i decided to head here , to amazon , to read through the online reviews .
+83  if you do n't believe me on that , check the consumer reports review as well as the many digital camera review sites out there .
+84  this camera also has a great feel and weight to it .
+85  it does n't do you any good if a camera has all the features but you can 't access them quickly when you need them !
+86  i did a good month 's worth of research before buying this over other similar priced digital cameras , and this is the best buy for the buck .
+87  i also purchased a good sturdy tripod : the combination of the new camera , tripod and remote control enabled me to take some remarkable indoor , natural-light portraits i never would have attempted before .
+88  and i let my kids shoot as many pics as they want , let them review them on the camera and just print the good ones ( which are not many ) .
+picture	 :4.3 Stars
+picture with a count 43
+1  [t]excellent picture quality / color
+2  the technology is finally here folks , to make your photo life easier .
+3  takes excellent photos .
+4  i 'm easily enlarging pictures to 8 1/2 x 11 with no visible loss in picture quality and not even using the best possible setting as yet ( super fine ) .
+5  first and foremost , it will take better pic 's than most film camera 's .
+6  the canon computer software used to download , sort , upload and manage your digital pictures on the computer is very nice and very easy to use .
+7  this camera has a cool stitch pictures feature , to find out more just log on to canon 's website .
+8  but at the same time , it takes wonderful pictures very easily in " auto " mode , so that even an average joe like me can use it !
+9  the lcd screen pulls out and rotates in any direction for easy pictures .
+10  the pictures are fabulous and their is a ( short ) learning curve to it ; there are tons of features i have n't even gotten to .
+11  the optical zoom works great and the 14x digital zoom is a very nice addition although pictures at the highest digital zoom are a little blurry .
+12  7 . a new photostich software for stiching your pics into a panoramic view .
+13  the highest optical zoom pictures are perfect .
+14  newbies will find the full auto setting will give them perfect pictures right out of the box .
+15  in the coastal redwood forests i was able to use these additional features along with the macro-focussing option to shoot wonderful close-up photos of the trilliums and other flowers in bloom .
+16  4mp , 4x optical zoom , takes absolutely beautiful photos with detail that challenges all of the above 5mp cameras , easy to understand and use ( has a great swivel lcd screen ) , a lot of features and add-on options , comes with great software ( not to be overlooked ) , and last but by far not least , received my fiance 's stamp of approval ( two thumbs up ! )
+17  it gives great pictures , the controls are easy to use , the battery lasts forever on one single charge , the software is very user-friendly and it is beautiful in it chrome casing .
+18  very comfortable camera , easy to use , and the best digital photos you 're going to get at this price .
+19  it takes great pictures , operates quickly , and feels solid .
+20  because it can help a so-so photographer take spectacular photos !
+21  i wanted something that is able to take high quality photos but not be so bulky that i would wind up leaving it at home all the time .
+22  + they have great optics ( cp5700 has great optical zoom ) and features , not to mention take great pictures .
+23  + takes sharp 5mp photo 's , has great features and relatively easy to use .
+24  i can take better pictures with this then my rebel ti with a good lens .
+25  took hundreds of pictures and they were great .
+26  dim or bright , it would never take a picture after the birthday candles had blown out , after the tae kwon do kick broke the board .
+27  by cocking the shutter to the halfway position and getting the settings ready to shoot , i was able to produce excellent stopaction photos -- contrary to what other reviewers experienced .
+28  i was able to take great photos of the 4th of july fire works , and got some amazing shots of the kids playing with sparklers .
+29  having used it for more than a month , i can say that it consistently produces topnotch photos .
+30  in english , this means that even straight out of the box , you 'll be amazed at the pics you end up taking .
+31  i can hand this to anyone and know they will take some great photos !
+32  1 ) slr like programming and exposure control gives you latitude to be creative , yet its progam and auto exposure settings provide excellent photos if you do n't want to bother with the settings .
+33  the larger lens of the g3 gives better picture quality in low light , and the 4-times optical zooms gets you just that much closer .
+34  when i took outdoor photos with plenty of light and the objects were n't moving , the photos were awesome .
+35  the macro works great for medical photographs and the auto mode is terrific for point and shoot .
+36  and i let my kids shoot as many pics as they want , let them review them on the camera and just print the good ones ( which are not many ) .
+37  manual functionality is excellent , downloading pictures is quick and a breeze , and the quality is astounding .
+quality	 :3.6585367 Stars
+quality with a count 30
+1  this is the perfect camera for a photo hobbiest who wants to have easy point and shoot ability as well .
+2  this has made the greatest difference in the quality of my photographs : the built-in flash on any of these cameras gives you flat photos , red-eye , and annoying shadows ; a good add-on flash unit can be bounced off the ceiling or wall for pleasing , almost-natural lighting .
+3  the two limitations i knew i would have to deal with are the very long lag time before it focus-locks ( even in bright light ) , and the unsatisfactory light quality of the built-in flash .
+4  it makes up for this by being extremely easy to use with well laid out controls that can be learned quickly .
+5  i have yet to try using all of the adjustment options : shutter priority , aperature priority , light metering adjustments , etc. , but all controls are well thought out and and the manual is relatively clear .
+6  bottom line , well made camera , easy to use , very flexible and powerful features to include the ability to use external flash and lense / filters choices .
+7  canon have packed a lot in here and the options and controls are easy to use and logically laid out .
+8  i 'd highly recommend this camera for anyone who is looking for excellent quality pictures and a combination of ease of use and the flexibility to get advanced with many options to adjust if you like .
+9  it beats the competition in almost every area including battery life , enthusiast features , external flash capabilities , available storage types , image formats , and more .
+10  after doing a hands-on comparison between the nikon coolpix 5700 and sony dsc-f 717 ( both of which lack the quality , feel , or features of the g3 ) , i ultimately chose the g3 because of its outstanding image quality ( resolution and coloration are superior ) .
+11  just a little overview , powershot g3 is the flagship of canon 's powershot series and its an slr-like camera , its 4 megapixel and ( alsmost ) full manual control gives the pictures a touch of brilliance .
+12  4 megapixels is enough for anybody and the photo quality is awesome .
+13  but if you 've used a slr 35mm camera , the controls are very intuitive !
+14  the photo quality is amazing and i know i 'm going to have fun with all the features .
+15  the image quality is excellent .
+16  advanced photobugs will find more creative control than imaginable .
+17  1 ) slr like programming and exposure control gives you latitude to be creative , yet its progam and auto exposure settings provide excellent photos if you do n't want to bother with the settings .
+18  [t]pure class & quality - a work of craftmanship
+19  i love the eos based controls and easy menus .
+20  it gives great pictures , the controls are easy to use , the battery lasts forever on one single charge , the software is very user-friendly and it is beautiful in it chrome casing .
+21  very intuitive menus are a big plus on this camera .
+22  1 . the ability to selectively switch to raw format during record review gives you incredible more post-processing flexibility .
+23  for those who have this metz flash ( or the 45cl-3 ) and would like to get the absolute ultimate quality out of this g3 , the metz module you need is the sca 3102 and the connector cord is the sca 3000c .
+24  with a quick spin of the dial you can select shutter priority ( for high speed subjects ) , aperture priority ( for focal length ) or full program mode where the camera selects both for ideal photo quality .
+25  i also purchased a good sturdy tripod : the combination of the new camera , tripod and remote control enabled me to take some remarkable indoor , natural-light portraits i never would have attempted before .
+26  manual functionality is excellent , downloading pictures is quick and a breeze , and the quality is astounding .
+27  once i read the manual i was able to point and shoot without having to fumble around trying to figure out where the controls are located .
+canon	 :3.8888888 Stars
+canon with a count 14
+1  i bought a 512 mb card by simpletech and it works great with my canon .
+2  canon 's optics are better and i believe their processing algorithms are also better .
+3  i looked at both the nikon coolpix 5700 and the canon g3 , and decided on the g3 due both to ergonomics ( much more comfortable to hold and use ) and the price .
+4  a few of my work constituents owned the g2 and highly recommended the canon for picture quality .
+5  canon was an obvious choice , but i did not want to limit my decision , so started researching all brands that would take my microdrives .
+6  i 'm glad canon decided to keep the 4mp resolution and improved upon it with new technology ;
+7  i bought my canon g3 about a month ago and i have to say i am very satisfied .
+8  ( looks quite neat too suggesting that canon may have , er , canonized it a bit ).
+9  great job canon !
+10  this camera has canon 's great colorimetry , plus what you see in the lcd is what you get .
+11  despite this minor disappointment , i highly recommend the canon g3 anyone who is serious about digital photography .
+12  the g3 has a shoe which will take other powerful ( and expensive ) canon flashes that will allow bounce and reflected flash photography .
+mode	 :3.846154 Stars
+mode with a count 10
+1  the canon g3 gives tons of control for photo buffs but still has an " auto " mode that makes it very easy for the novice to use .
+2  you can move the focus range to almost anywhere in the scene with the push of a button , and it has an on-screen manual focus mode that would be really helpful if shooting a scene that is tough to automatically focus .
+3  and with the panoramic " stitch " mode , it guides you through stitching together multiple pictures to build a seamless panoramic image .
+4  night mode is clear as day .
+5  hope to get my refund in a timely manner .
+6  6 . the g2 's " color effect " exposure mode has now been removed , the replacement is a selectable " effect func " menu option available in all exposure modes .
+7  the manual mode is easy to use with fast access for the selection of shutter speed and aperture without having to fumble through menu options .
+8  the macro works great for medical photographs and the auto mode is terrific for point and shoot .
+setting	 :4.090909 Stars
+setting with a count 9
+1  for me on the fine resolution setting ( not maximum but very close ) this adds up to over 1000 images with the 1 gig card .
+2  8 . perhaps inspired by the canon 's factory white-correction settings ( which were found lacking and had to be altered by a user before the white edges from buildings etc could be cleaned out ) , the g3 has much sharper white offsets .
+3  by cocking the shutter to the halfway position and getting the settings ready to shoot , i was able to produce excellent stopaction photos -- contrary to what other reviewers experienced .
+4  you can use this camera right out of the box on the automatic setting , or slowly get comfortable with the manual settings and what they can do .
+5  there are six default settings ( off , vivid , sepia , neutral , low sharpening , b & w ) as well as a ' custom effect ' that allows you to control sharpening , contrast and saturation .
+6  i 'm easily enlarging pictures to 8 1/2 x 11 with no visible loss in picture quality and not even using the best possible setting as yet ( super fine ) .
+zoom	 :4.4444447 Stars
+zoom with a count 8
+1  the optical zoom is awesome , and the viewfinder reflects the settings of the zoom .
+2  the best 4 megapixel/4x optical zoom camera available and fairly easy to use .
+3  + they have great optics ( cp5700 has great optical zoom ) and features , not to mention take great pictures .
+4  3 ) 4x zoom is nice
+5  the optical zoom works great and the 14x digital zoom is a very nice addition although pictures at the highest digital zoom are a little blurry .
+6  the extended zoom range and faster lense put it at the top of it 's class .
+lens	 :2.0 Stars
+lens with a count 8
+1  one little minor flaw with this camera is that the lens is visible in the viewfinder , but does not detract from the image at all .
+2  they got the best lens adapter for the g3-better than canon 's .
+3  my only suggestion is to get a lens protector to help protect the shooting lens ( the lens coating will wear out after so many clean wipes ) and i 'm getting the those ( 52 mm adapter and uv lens filter ) at lensmateonline.com .
+4  the reason i rated it a four is because of that darn diopter adjustment dial. its very small and hard to turn so you can 't get an accurate adjustment ( for those of you who do n't know what a diopter adjustment is , it is to adjust the focus of the viewfinder to your eyesight . )
+5  * lens visible in optical viewfinder .
+6  i can take better pictures with this then my rebel ti with a good lens .
+7  the extended zoom range and faster lense put it at the top of it 's class .
+8  the lens is visible in the viewfinder when the lens is set to the wide angle , but since i use the lcd most of the time , this is not really much of a bother to me .
+flash	 :2.6666667 Stars
+flash with a count 8
+1  this has made the greatest difference in the quality of my photographs : the built-in flash on any of these cameras gives you flat photos , red-eye , and annoying shadows ; a good add-on flash unit can be bounced off the ceiling or wall for pleasing , almost-natural lighting .
+2  i 've been using a powershot s330 for nearly a year , and wanted to upgrade to a 4 or 5 megapixel camera with a longer zoom , more adjustability , a hot shoe for an external flash , and a remote control .
+3  the canon allows you to change lenses , and it accepts the ibm microdrive ( type ii compact flash ) , so you can have up to 1 gigabyte of storage .
+4  i also got myself a 512mb viking compact flash ( enough for 255 shots at full 4mp resolution and max picture quality ) and a used $ 250 3lb subnotebook with usb connection and tons of hard drive space for long trips so i can verify what i 've taken and that subnotebook also saves me from having to buy extra compactflash .
+5  the compact flash is delicate and i hate to swap it in fear on the connetions ( camera and cf ) bending ( can lead to cf erros ) or losing it .
+6  fortunately , the g3 has a hot shoe that can take an external flash , and fortunately for me , i already owned a one of the highest quality external flashes that money can buy : the metz 60 ct-4 .
+7  the hot shoe flash attachment allowed me to buy and use a sophisticated flash unit :
+image	 :1.6666667 Stars
+image with a count 7
+1  the results are shadow-free images that look as if theyve been exposed with the gentlest natural light you could imagine .
+2  relative to what i can easily achieve with external flash on my nikon slr , the internal flash on the g3 produces harsh , flat images with ugly hot spots .
+3  i chose the g3 because of its reputation for very high quality , clean images .
+4  overall , the g3 delivers what must be considered the best image quality of any current > 4 megapixel digicams , from a detail , tonal balance and color response point of view .
+5  and with the panoramic " stitch " mode , it guides you through stitching together multiple pictures to build a seamless panoramic image .
+6  a good choice could be cf type ii , microdrives that can store around 1 gb of images .
+lcd	 :2.692308 Stars
+lcd with a count 7
+1  4mp , 4x optical zoom , takes absolutely beautiful photos with detail that challenges all of the above 5mp cameras , easy to understand and use ( has a great swivel lcd screen ) , a lot of features and add-on options , comes with great software ( not to be overlooked ) , and last but by far not least , received my fiance 's stamp of approval ( two thumbs up ! )
+2  the moveable lcd screen is great .
+3  ( well thats only for old-school die-hard optical viewfinder fans ) use lcd instead which is brilliant and you can twist around too .
+4  - i did n't care much for the tilting lcd screen , it seemed very limited and not very useful .
+5  not perfect ( yes , the viewfinder can get obstructed in instances.but the lcd works well enough in those instances ) , not the cheapest 4.0 mp , but the best 4.0 mp .
+6  it 's great to switch to spot metering and actually see it working on the lcd screen .
+color	 :5.0 Stars
+color with a count 7
+1  a ) the picture quality ( color and sharpness of focusing ) are so great , it completely eliminated my doubt about digital imaging --- how could one eat rice one grain at a time : - ) )
+2  personally i believe it even outperforms the g2 in terms of less haze and astonishingly real colors .
+3  without any tweaking at all , if the exposure is accurate , the colors are as realistic as ive ever seen produced by film , and this is a raw image !
+4  great colors , pictures and white balance .
+5  it is also one of the few electronic items that works right out of the box .
+shutter	 :2.9166665 Stars
+shutter with a count 7
+1  once i get focus lock , i can then wait until my restless subject ( a pet or a child ) strikes an amusing pose and then fire the shutter with some reasonable probability of getting my subject still in focus .
+2  at least once youve got focus lock , the shutter release lag time for the g3 is about 1/10 of a second , which from what ive read , is better than just about anything else available .
+3  i also discovered the exposure-bracket setting , which enables you to take three exposures with one press of the shutter : the first at the camera-determined exposure , then one lighter and one darker .
+4  the g3 is loaded with many useful features , and unlike many smaller digital cameras , it is easy to hold steady when using slower shutter speeds .
+5  the tiny ( postage-stamp sized ) remote unit is wonderful : not only does it trigger the shutter , it can also be used to zoom and review pictures .
+range	 :3.3333335 Stars
+range with a count 6
+1  [t]very good choice in it 's price range
+2  what makes the focus-lock lag time something i can live with is the extreme depth of field obtainable with these point and shoot digicams at f8 .
+3  i wo n't go into the details here , as the online sites ( stevesdigicams , dpreviews ) go into great depth in their reviews , but i am very pleased with the features , the speed , the picture quality , the flexibility , the automation , and the functional conveniences this camera offers .
+4  a couple of online camera review sites were extremely helpful , as they provided complete exhaustive reviews of nearly every camera made , plus provided a great number of high resolution sample images to compare amongst the models .
+5  the g3 has most if not all of the features that you would want from a semi-pro / pro slr with a good range of manual options for those who know something about photography .
+6  excellent range of metering options as well .
+result	 :5.0 Stars
+result with a count 6
+1  the photos she took are better than the results i got from my nikon slr and range of lenses !
+2  any film zoom p and s would have given superior results with a minimal effort .
+3  messing around with images in photoshop ( a supplied software package ) and printing them on a good printer , yielded excellent results .
+4  in the hands of someone who does n't , it will yield good results on idiot program / auto mode .
+5  4 ) the great thing about digital , in general , is that you can generally see the results of your exposure settings on the lcd screen before you take the picture , not two weeks later when you get the film developed .
+battery	 :2.5 Stars
+battery with a count 6
+1  it has a beautiful design , lots of features , very easy to use , very configurable and customizable , and the battery duration is amazing !
+2  another point of note : the battery life is incredible !
+3  the canon g3 improves in almost all ways on the g1 and g2 before it , and in fact beats the nikon coolpix 5000 in performance ( picture quality and battery life ) -- which is amazing because the 5000 is a 5 megapixel camera and the canon is a 4 megapixel camera .
+4  in terms of the important accessories , i got myself an the extra litium battery .
+film	 :3.125 Stars
+film with a count 5
+1  the canon g3 improves in almost all ways on the g1 and g2 before it , and in fact beats the nikon coolpix 5000 in performance ( picture quality and battery life ) -- which is amazing because the 5000 is a 5 megapixel camera and the canon is a 4 megapixel camera .
+2  and while it is cool and fun and has no film processing costs .
+3  as of this writing , technology has not solved the focus-lock lag time problem for point-and-shoot digicams and anyone who is satisfied with it simply has never used a modern film slr .
+4  i bought it for my trip to beunos aires , and also used it at the iguazu falls , and could not have asked for more perfect performance !
+5  i am a long-time user of highly responsive film slrs and professional quality external flash equipment , just so you know my bias .
+olympus	 :4.1666665 Stars
+olympus with a count 5
+1  looks sort of like picasa software ( google it if you dont know ) in the interface and is as easy to install and operate as g2 's , but more intuitive .
+2  i challenge anyone ( who is not in direct sun at the beach at noon ) to say it is fast and responsive .
+3  i am using kingston 512mb cf which works great and is very fast .
+software	 :3.3333335 Stars
+software with a count 4
+1  i am a software engineer and am very keen into technical details of everything i buy , i spend around 3 months before buying the digital camera ; and i must say , g3 worth every single cent i spent on it .
+2  4mp , 4x optical zoom , takes absolutely beautiful photos with detail that challenges all of the above 5mp cameras , easy to understand and use ( has a great swivel lcd screen ) , a lot of features and add-on options , comes with great software ( not to be overlooked ) , and last but by far not least , received my fiance 's stamp of approval ( two thumbs up ! )
+3  it gives great pictures , the controls are easy to use , the battery lasts forever on one single charge , the software is very user-friendly and it is beautiful in it chrome casing .
+speed	 :5.0 Stars
+speed with a count 3
+1  it 's just easier for me since i can make on the fly adjustments .
+2  the manual mode is easy to use with fast access for the selection of shutter speed and aperture without having to fumble through menu options .
+3  the lens is visible in the viewfinder when the lens is set to the wide angle , but since i use the lcd most of the time , this is not really much of a bother to me .
+card	 :2.5 Stars
+card with a count 3
+1  go out and get a 256meg card , it 's worth the expense .
+2  i would recommend a larger compact-flash card , at least 128 mb .
+3  make sure you get a big compactflash card ( it comes with a 32mb ) -- the 512mb cards are pretty [ inexpensive ] here on amazon.com and can hold about 500 photos at a time !
+shot	 :1.25 Stars
+shot with a count 2
+1  i was able to take great photos of the 4th of july fire works , and got some amazing shots of the kids playing with sparklers .
+2  the catch with the canon g3 camera , ( and perhaps all of digital cameras ) is that its unresponsiveness will cause you to miss precious shots .
+megapixel	 :5.0 Stars
+megapixel with a count 1
+1  four megapixels is great .
+OverAll Rating is : 3.4506369 Out of 5 Stars
+Negative summery is: 
+1  i 've been looking to buy a digital camera for a long time and v = finally decided that now was the time .
+
+2  [t]the last digital camera i 'll buy
+
+3  i do not know a whole lot about photography , but i am happy to know that this camera can always perform , even as i grow in skill and knowledge .
+
+4  this is my first digital camera , and i am very pleased with it .
+
+5  this is my first digital camera , and what a ' toy ' it is !
+
+6  i am a software engineer and am very keen into technical details of everything i buy , i spend around 3 months before buying the digital camera ; and i must say , g3 worth every single cent i spent on it .
+
+7  i just bought the camera a few days ago .
+
+8  i can 't write enough positive things about this great little camera !
+
+9  1 ) the included lens cap is very loose on the camera .
+
+10  but there are two things i do n't like about the camera that were not mentioned in any previous reviews .
+
+11  when shopping for digital cameras i looked at the nikon cp5700 , olympus c5050 , nikon cp5000 , and the canon g3 .
+
+12  this is my first digital camera .
+
+13  even with these shortcomings , i still think it is the best digital camera available under $ 1200 .
+
+14  maybe it is my lack of experience , but i found shots with this camera very disappointing .
+
+15  the only minor nits i have with the camera are it is fairly boxy looking , it needs a wrist strap instead of a neck strap , and it is a bit slow between shots .
+
+16  [t]ok for a digital camera
+
+17  simply , the canon g3 is the best digital camera out there today at this price point .
+
+18  for those who are used to brass cameras that can be dropped , picking up a camera like the g3 is an unnerving experience .
+
+19  it can be a point-and-shoot camera , but if you do not intend to " get into " it 's finer features , i 'd suggest a less enthusiast featured choice .
+
+20  this is a camera you will need to study and use in order to fully exploit its many features .
+
+21  the g3 is loaded with many useful features , and unlike many smaller digital cameras , it is easy to hold steady when using slower shutter speeds .
+
+22  all-in-all , i believe this is arguably the best non-slr digital camera on the market .
+
+23  [t]best non-slr digital camera under 5 megapixels
+
+24  its silver magnesium finish is stunning , and the sharp lines and excellent grip are better than any other camera i 've seen .
+
+25  the little digital elphs were the best-designed , most-elegant cameras until the g3 came along and squashed them .
+
+26  i 've figured out most of its features on my own already ( because i have used digital cameras before , so i know things like symbols ) .
+
+27  one little minor flaw with this camera is that the lens is visible in the viewfinder , but does not detract from the image at all .
+
+28  please note that this is the first digital camera i have owned or used .
+
+29  these things may get a lot better in the future , but from what i 've seen in the last few years , the technology for digital cameras is n't advancing at the pace of pc 's , phones and hard drives .
+
+30  as i said , this is the last digital camera i 'll buy , and if you are in the market one , my advice is to buy the best thing you can afford and keep it forever .
+
+31  for more info on digital cameras , go to dpreviews .
+
+32  a digital camera will stay at home if its a hassle to use .
+
+33  poor quality pics , short battery life , slow time consuming uploads and printing will ruin the digital camera experience and keep you buying film .
+
+34  [t]fantastic digital camera
+
+35  the on-off button feels somewhat flimsy , and has an awkward , tiny little lock-out button that needs to be depressed to turn on the camera .
+
+36  the only two minor issues i have with the camera are the lens cap ( it is not very snug and can come off too easily ) and the lens itself ( it partially obstructs the view through the viewfinder but not views through the lcd ) .
+
+37  the moment passes , and then your new g3 camera takes the shot .
+
+38  the bottom line : if you 're serious about your digital photography , or been bitten with the bug after using a digital point-and-shoot , this may be just the camera for you .
+
+39  and as i said in my review of the s330 , all of these digital cameras are easier to use with apple computers .
+
+40  a lot of research went into digital camera 's before i made this purchase , and hands down , the g3 had everything i needed plus more .
+
+41  the other cameras were great and i 'm sure many people will beg to differ from my observations , but to each his / her own .
+
+42  recent price drops have made the g3 the best bargain in digital cameras currently available .
+
+43  ( again this is my first digital camera and maybe that is just how they all are . )
+
+44  the catch with the canon g3 camera , ( and perhaps all of digital cameras ) is that its unresponsiveness will cause you to miss precious shots .
+
+45  i recommend unreservedly the powershot g3 to any potential buyer looking for a first-class digital camera at a reasonable price - there is no better camera out there - period !
+
+46  prior to the purchase , none of my digital camera friends mentioned the delay between pressing the shutter button and the camera taking the picture .
+
+47  battery life , the drawback to most digital cameras , to quote k. reeves .
+
+48  this is my first digital camera and i could n't be happier .
+
+49  however , it seems that this is the general rule for most digital cameras .
+
+50  another good thing is that this camera seems to introduce much less noise in dark places than others i 've seen .
+
+51  i called the canon technical service center to see if i had a defective camera .
+
+52  but after trying many adjustments , the camera remains unresponsive when compared to any film-based camera .
+
+53  [t]great digital camera
+
+54  if you do n't believe me on that , check the consumer reports review as well as the many digital camera review sites out there .
+
+55  a 35mm film camera captures the moments you want , while these digital cameras ( my friends now inform me ) all seem to capture the moment immediately following the one you asked to capture .
+
+56  i did a good month 's worth of research before buying this over other similar priced digital cameras , and this is the best buy for the buck .
+
+57  my wife shuns all new technology and compained when i brought this home , but now she 's forever asking for the digital camera .
+
+58  i also purchased a good sturdy tripod : the combination of the new camera , tripod and remote control enabled me to take some remarkable indoor , natural-light portraits i never would have attempted before .
+
+1  now there is one more complaint i have about the g3 and that is the software that comes with it for processing raw images ( i only shoot in raw image mode and the first thing i did was replace the 32 mbyte cf with a 512 mbyte cf , which gives me 130 raw images , as opposed to 7 !
+
+2  relative to what i can easily achieve with external flash on my nikon slr , the internal flash on the g3 produces harsh , flat images with ugly hot spots .
+
+3  the canon software for raw images does not present you with a raw image at all , but the raw image after it has been processed by all the image-affecting settings in the camera .
+
+4  i am stunned and amazed at the quality of the raw images i am getting from this g3 ( in conjunction with my professional flash system ) , and can easily put up with the cameras limitations , because ive never seen anything better within its resolution limits .
+
+5  there 's really very little about g3 images to criticize .
+
+6  but once youve got your exposure within an acceptable range , the g3 is shown to produce utterly stunning images that i can hardly get with my nikon f100 film camera .
+
+7  what the g3 raw image software gives you is a fantasy world designed to please the uncritical .
+
+8  without any tweaking at all , if the exposure is accurate , the colors are as realistic as ive ever seen produced by film , and this is a raw image !
+
+9  maybe if you delete those files before you looked at them with the software , youd see the true , raw image that the camera actually produces .
+
+1  2 ) not very ergonomical - you 'll find even for a point-and-shoot lens )
+
+2  the zoom lens unit feels fragile and it is worth buying a good camera bag if you are going put to carry it round a lot .
+
+3  i 'm concerned that with the easily removed lens cap , i may damage the lens .
+
+4  b ) the lens cover is surely loose , i already accidentally finger-printed the len a few times , and au lens tigt and cause potential damage .
+
+5  the reason i rated it a four is because of that darn diopter adjustment dial. its very small and hard to turn so you can 't get an accurate adjustment ( for those of you who do n't know what a diopter adjustment is , it is to adjust the focus of the viewfinder to your eyesight . )
+
+6  in short , i have a new slr with an expensive lens and several film point and shoots .
+
+7  ( well thats only for old-school die-hard optical viewfinder fans ) use lcd instead which is brilliant and you can twist around too .
+
+8  not perfect ( yes , the viewfinder can get obstructed in instances.but the lcd works well enough in those instances ) , not the cheapest 4.0 mp , but the best 4.0 mp .
+
+9  to address two previous somewhat negative reviews : ( 1 ) yes , the lens barrel does obstruct part of the lower left corner in the lens viewfinder ; however , the lcd viewfinder is rather stunning and i find myself rarely using the lens viewfinder .
+
+1  poor quality pics , short battery life , slow time consuming uploads and printing will ruin the digital camera experience and keep you buying film .
+
+2  i did have ability to charge it every night , so do n't know how long it would have actually gone before dying .
+
+3  i wanted something that is able to take high quality photos but not be so bulky that i would wind up leaving it at home all the time .
+
+4  the two limitations i knew i would have to deal with are the very long lag time before it focus-locks ( even in bright light ) , and the unsatisfactory light quality of the built-in flash .
+
+5  i am stunned and amazed at the quality of the raw images i am getting from this g3 ( in conjunction with my professional flash system ) , and can easily put up with the cameras limitations , because ive never seen anything better within its resolution limits .
+
+6  i chose the g3 because of its reputation for very high quality , clean images .
+
+7  as its 4mp , you might need bigger storage to store high quality images and recording movies ( you can record 3 minutes of video ) .
+
+8  if you shoot in lots of light and desire high quality , this will be your camera .
+
+9  what this plug-in reveals is the truly stunning quality of the raw g3 hardware .
+
+10  after doing a hands-on comparison between the nikon coolpix 5700 and sony dsc-f 717 ( both of which lack the quality , feel , or features of the g3 ) , i ultimately chose the g3 because of its outstanding image quality ( resolution and coloration are superior ) .
+
+1  relative to what i can easily achieve with external flash on my nikon slr , the internal flash on the g3 produces harsh , flat images with ugly hot spots .
+
+2  i 've been using a powershot s330 for nearly a year , and wanted to upgrade to a 4 or 5 megapixel camera with a longer zoom , more adjustability , a hot shoe for an external flash , and a remote control .
+
+3  unfortunately , the neutral density filters for the metz flash are no longer available , so the first problem can't easily be solved .
+
+4  bottom line , well made camera , easy to use , very flexible and powerful features to include the ability to use external flash and lense / filters choices .
+
+5  fortunately , the g3 has a hot shoe that can take an external flash , and fortunately for me , i already owned a one of the highest quality external flashes that money can buy : the metz 60 ct-4 .
+
+6  i can't use my nikon external flash on a canon camera , but i can use my metz , with the proper metz module and extension cord connected between the g3 and the 60 ct-4 .
+
+7  it beats the competition in almost every area including battery life , enthusiast features , external flash capabilities , available storage types , image formats , and more .
+
+1  this has made the greatest difference in the quality of my photographs : the built-in flash on any of these cameras gives you flat photos , red-eye , and annoying shadows ; a good add-on flash unit can be bounced off the ceiling or wall for pleasing , almost-natural lighting .
+
+2  always remember , cameras do n't take great pictures , people do !
+
+3  there were a few flaws that i learned to deal with and took thousands of pictures around the world , losing a few that i really regretted .
+
+4  got way too many blurry pictures .
+
+5  nice camera but does n't take as sharp as pictures i thought they would , and again .
+
+6  well flash photos are never great , and there was still a lot of noise .
+
+1  - the drawbacks were that they were not user friendly for the casual photographer , the lcd screen is a little too small , cp5000 does not take photos in raw format .
+
+2  - i did n't care much for the tilting lcd screen , it seemed very limited and not very useful .
+
+3  not perfect ( yes , the viewfinder can get obstructed in instances.but the lcd works well enough in those instances ) , not the cheapest 4.0 mp , but the best 4.0 mp .
+
+4  after about a minute of trying to tell me that most people use the lcd and not the view finder , they finally admitted , it was a design flaw in the camera .
+
+5  the lens is visible in the viewfinder when the lens is set to the wide angle , but since i use the lcd most of the time , this is not really much of a bother to me .
+
+1  it was ( i sold it after a few months ) too expensive for the shots that i got .
+
+2  these things may get a lot better in the future , but from what i 've seen in the last few years , the technology for digital cameras is n't advancing at the pace of pc 's , phones and hard drives .
+
+3  the only minor nits i have with the camera are it is fairly boxy looking , it needs a wrist strap instead of a neck strap , and it is a bit slow between shots .
+
+4  i also got myself a 512mb viking compact flash ( enough for 255 shots at full 4mp resolution and max picture quality ) and a used $ 250 3lb subnotebook with usb connection and tons of hard drive space for long trips so i can verify what i 've taken and that subnotebook also saves me from having to buy extra compactflash .
+
+5  you can take pictures with the camera held above your head , way down , or beside you with no problem , allowing you to position the camera for the best shot without contorting yourself .
+
+6  as with taking digital pictures , i notice other people including myself have errors on their compactflash which results in certain shots being partially taken or lost - this is an issue that seems to effect compactflash and other digicam brand .
+
+1  poor quality pics , short battery life , slow time consuming uploads and printing will ruin the digital camera experience and keep you buying film .
+
+2  1 ) quite bulky ( it 's about the same size as my minolta vectis s-1 aps slr ) and uses a heavy battery , although not very solid as it is contructed mostly of plastic ( unlike canon 's elph line )
+
+3  i tried out some other brands in the stores , and was disappointed by the battery life of the other company ; plus what you see in the lcd ( no optical finder ) is n't what you get - not even for color ; the output was less than i expected .
+
+4  although canon 's batteries are proprietary , they last a really long time , recharge fairly quickly in the camera , plus if you want ' more power ' , you can even find a knockoff charger and spare batteries right here on amazon .
+
+1  once i get focus lock , i can then wait until my restless subject ( a pet or a child ) strikes an amusing pose and then fire the shutter with some reasonable probability of getting my subject still in focus .
+
+2  i have yet to try using all of the adjustment options : shutter priority , aperature priority , light metering adjustments , etc. , but all controls are well thought out and and the manual is relatively clear .
+
+3  i also discovered the exposure-bracket setting , which enables you to take three exposures with one press of the shutter : the first at the camera-determined exposure , then one lighter and one darker .
+
+4  the g3 is loaded with many useful features , and unlike many smaller digital cameras , it is easy to hold steady when using slower shutter speeds .
+
+1  the olympus is a bit clumsy-looking and the user-interface not as friendly as the canon , but one of the features that sold me on the g3 was the battery life - no other camera out there gives you the type of battery life as the canon g3 .
+
+2  still i am a little surprised that canon did not correct this design flaw before releasing the camera .
+
+3  the g3 has a shoe which will take other powerful ( and expensive ) canon flashes that will allow bounce and reflected flash photography .
+
+4  needless to say , the canon won , hands down .
+
+1  as of this writing , technology has not solved the focus-lock lag time problem for point-and-shoot digicams and anyone who is satisfied with it simply has never used a modern film slr .
+
+2  it is less versatile , but i am never disappointed with the output .
+
+3  i am a long-time user of highly responsive film slrs and professional quality external flash equipment , just so you know my bias .
+
+1  now there is one more complaint i have about the g3 and that is the software that comes with it for processing raw images ( i only shoot in raw image mode and the first thing i did was replace the 32 mbyte cf with a 512 mbyte cf , which gives me 130 raw images , as opposed to 7 !
+
+2  the function lever - the one which switches between capture and view mode feels fragile .
+
+3  the strap is horrible and gets in the way of parts of the camera you need access to .
+
+1  crop and enlarge the best at practically no extra cost or time .
+
+2  i am stunned and amazed at the quality of the raw images i am getting from this g3 ( in conjunction with my professional flash system ) , and can easily put up with the cameras limitations , because ive never seen anything better within its resolution limits .
+
+3  flash - as with all built-in flashes in small cameras , you get overilluminated main subjects with depth being lost .
+
+1  one bad thing is that it comes with a pitiful 32mb compactflash card , and for most purposes , it is not enough .
+
+2  they were n't busy enough to charge the credit card , though !
+
+3  i would recommend that you purchase a lexar media cf for the camera as the sandisk card that comes packaged is too small and too slow !
+
+1  now there is one more complaint i have about the g3 and that is the software that comes with it for processing raw images ( i only shoot in raw image mode and the first thing i did was replace the 32 mbyte cf with a 512 mbyte cf , which gives me 130 raw images , as opposed to 7 !
+
+2  4mp , 4x optical zoom , takes absolutely beautiful photos with detail that challenges all of the above 5mp cameras , easy to understand and use ( has a great swivel lcd screen ) , a lot of features and add-on options , comes with great software ( not to be overlooked ) , and last but by far not least , received my fiance 's stamp of approval ( two thumbs up ! )
+
+1  8 . perhaps inspired by the canon 's factory white-correction settings ( which were found lacking and had to be altered by a user before the white edges from buildings etc could be cleaned out ) , the g3 has much sharper white offsets .
+
+2  9 . in dim lit environs the g2 could easily outperform any other camera , and thankfully g3 maintains this rep .
+
+1  the optical zoom works great and the 14x digital zoom is a very nice addition although pictures at the highest digital zoom are a little blurry .
+
+1  the olympus is a bit clumsy-looking and the user-interface not as friendly as the canon , but one of the features that sold me on the g3 was the battery life - no other camera out there gives you the type of battery life as the canon g3 .
+
+FINAL RESULT: 
+0  picture  excellent  1
+2  camera  easy  1
+2  camera  recent  0
+2  picture  past  0
+2  picture  elderly  0
+4  range  green  0
+7  canon  recommend  1
+8  picture  visible  1
+8  setting  best  1
+8  setting  possible  1
+8  setting  super  1
+9  flash  larger  0
+9  flash  larger  0
+9  flash  larger  0
+9  camera  4mp  0
+10  camera  bottom  0
+10  camera  easy  1
+10  camera  flexible  1
+10  quality  powerful  1
+10  flash  external  -1
+11  quality  excellent  1
+11  quality  like  1
+12  canon  great  1
+15  camera  first  -1
+15  camera  digital  -1
+16  software  keen  1
+16  software  technical  0
+16  camera  digital  -1
+16  camera  worth  1
+16  camera  single  0
+17  canon  little  0
+17  camera  slr-like  0
+17  quality  full  0
+17  quality  manual  1
+19  lens  different  0
+20  quality  4mp  0
+20  quality  bigger  0
+20  quality  high  -1
+21  olympus  great  1
+22  image  good  1
+22  image  cf  0
+26  lens  visible  1
+26  lens  optical  0
+27  lens  old-school  0
+27  lens  die-hard  -1
+27  lens  optical  0
+27  lcd  brilliant  1
+30  camera  incredible  1
+31  megapixel  extensive  0
+31  megapixel  different  0
+32  camera  online  0
+32  camera  helpful  1
+32  camera  complete  0
+32  camera  exhaustive  0
+32  range  great  1
+32  range  high  0
+34  camera  awesome  1
+35  range  online  0
+35  range  great  1
+35  speed  please  0
+35  camera  functional  0
+36  setting  automatic  0
+36  picture  bid  0
+37  mode  panoramic  1
+37  picture  multiple  0
+37  image  seamless  1
+37  image  panoramic  1
+38  quality  enormous  0
+40  camera  great  1
+41  canon  satisfy  1
+43  camera  many  1
+43  camera  useful  1
+43  camera  many  1
+43  camera  smaller  0
+43  camera  digital  -1
+43  camera  easy  1
+43  shutter  steady  1
+43  shutter  slower  -1
+45  lens  visible  1
+45  speed  wide  1
+45  lcd  most  -1
+45  lcd  bother  -1
+46  canon  little  0
+46  canon  correct  -1
+47  canon  minor  0
+47  canon  serious  0
+47  canon  recommend  1
+49  camera  full  1
+49  camera  wonderful  1
+50  quality  photo  0
+50  quality  amaze  1
+51  camera  most  0
+51  camera  own  0
+51  camera  digital  -1
+52  camera  love  1
+54  lens  small  -1
+54  lens  hard  -1
+54  lens  accurate  1
+55  camera  much  1
+55  camera  more  1
+55  camera  accurate  1
+58  quality  creative  1
+58  picture  excellent  1
+59  range  excellent  1
+60  lcd  great  1
+61  camera  right  1
+61  camera  semi-serious  0
+61  camera  amateur  0
+62  zoom  nice  1
+63  result  great  1
+63  result  digital  0
+63  result  general  0
+65  mode  on-screen  0
+65  mode  helpful  1
+65  mode  tough  1
+67  battery  bulky  -1
+67  battery  same  0
+67  battery  heavy  0
+67  battery  solid  -1
+68  lens  ergonomical  -1
+68  lens  point-and-shoot  0
+70  camera  fantastic  1
+70  camera  digital  -1
+71  camera  wonderful  1
+72  picture  easy  1
+74  zoom  work  1
+74  zoom  great  1
+74  zoom  digital  0
+74  picture  nice  1
+74  zoom  highest  0
+74  zoom  digital  0
+74  zoom  little  0
+74  zoom  blurry  -1
+75  zoom  highest  0
+75  zoom  optical  0
+75  picture  perfect  1
+76  picture  usual  0
+76  picture  digital  0
+76  picture  purple  0
+76  picture  please  0
+77  picture  digital  0
+77  picture  nice  1
+77  picture  easy  1
+78  camera  only  -1
+78  camera  minor  -1
+78  lens  snug  0
+80  camera  fantastic  1
+82  camera  recent  0
+82  camera  best  1
+82  camera  digital  -1
+82  camera  available  1
+83  quality  advance  0
+83  quality  creative  1
+83  quality  imaginable  0
+84  setting  full  0
+84  picture  perfect  1
+85  quality  photo  0
+85  quality  awesome  1
+88  camera  comfortable  1
+88  camera  friendly  1
+89  speed  more  0
+89  speed  huge  0
+89  quality  moderate  0
+90  zoom  extend  1
+90  lens  faster  1
+92  quality  pure  1
+93  camera  potential  0
+93  camera  first-class  1
+93  camera  recommend  1
+93  camera  reasonable  1
+93  camera  better  -1
+94  picture  great  1
+94  quality  easy  1
+94  software  single  0
+94  software  user-friendly  1
+94  software  beautiful  1
+94  software  chrome  0
+98  olympus  clumsy-look  -1
+98  canon  user-interface  0
+98  canon  friendly  -1
+98  camera  other  0
+99  card  larger  0
+99  card  compact-flash  0
+99  card  recommend  1
+100  canon  great  1
+101  camera  great  1
+103  camera  good  1
+105  card  larger  0
+107  canon  great  1
+109  card  256mb  0
+109  quality  highest  0
+110  battery  other  -1
+110  battery  disappoint  -1
+110  lcd  optical  0
+110  film  less  0
+111  battery  proprietary  -1
+111  battery  long  0
+111  quality  more  0
+111  battery  spare  0
+113  camera  great  1
+114  mode  easy  1
+115  picture  great  1
+116  speed  shutter  0
+117  picture  able  0
+117  picture  great  1
+117  picture  4th  0
+117  shot  amaze  1
+119  quality  intuitive  1
+120  quality  manual  1
+120  quality  able  1
+120  quality  fumble  1
+121  speed  quick  0
+121  speed  shutter  0
+121  speed  high  0
+121  mode  focal  0
+121  mode  full  0
+121  quality  ideal  1
+121  quality  photo  0
+122  mode  manual  0
+122  mode  easy  1
+122  mode  fast  1
+122  speed  fumble  1
+123  camera  good  1
+124  camera  great  1
+127  camera  recommend  1
+127  card  small  0
+127  card  slow  -1
+129  camera  outstand  0
+130  camera  first  -1
+130  camera  digital  -1
+130  camera  please  0
+131  camera  whole  -1
+131  camera  happy  1
+133  picture  same  0
+133  picture  wonderful  1
+133  mode  average  0
+134  megapixel  great  1
+135  camera  fine  1
+137  camera  simple  0
+138  camera  outstand  0
+138  camera  simple  0
+143  picture  excellent  1
+144  mode  clear  1
+145  camera  easy  1
+146  lens  only  0
+147  lcd  minor  0
+148  camera  best  1
+151  camera  more  1
+151  camera  nikon  1
+152  picture  brillient  0
+153  camera  few  -1
+155  color  great  1
+155  color  digital  0
+156  lens  loose  -1
+156  lens  finger-print  0
+156  lens  few  0
+156  lens  potential  0
+164  picture  great  1
+165  color  great  1
+165  picture  white  0
+166  zoom  optical  0
+166  zoom  higher  0
+166  range  other  0
+166  range  same  0
+168  camera  digital  -1
+169  camera  disappoint  -1
+170  shot  few  0
+170  shot  expensive  -1
+173  result  superior  1
+173  result  minimal  0
+175  camera  low  0
+175  camera  light  0
+180  flash  next  0
+181  picture  great  -1
+182  picture  outdoor  1
+182  picture  awesome  1
+187  range  extra  0
+189  quality  high  -1
+193  film  versatile  -1
+195  film  long-time  -1
+195  film  responsive  1
+195  quality  professional  0
+195  quality  external  0
+196  zoom  first  0
+197  lens  digital  0
+197  lens  full  0
+200  quality  high  -1
+200  image  clean  1
+201  quality  long  0
+201  quality  focus-lock  0
+201  quality  bright  1
+201  quality  unsatisfactory  -1
+201  quality  light  0
+201  flash  built-in  0
+202  film  focus-lock  0
+202  film  satisfy  1
+202  film  modern  -1
+203  shutter  least  0
+203  shutter  youve  0
+203  shutter  second  0
+203  shutter  better  1
+203  shutter  available  1
+204  range  focus-lock  0
+204  range  extreme  0
+204  range  obtainable  1
+205  shutter  restless  -1
+205  shutter  amuse  1
+205  shutter  reasonable  1
+207  flash  relative  0
+207  flash  external  -1
+207  flash  internal  0
+207  image  harsh  -1
+207  image  flat  0
+207  image  ugly  -1
+207  image  hot  1
+208  flash  hot  1
+208  flash  external  -1
+208  quality  highest  0
+208  quality  external  0
+209  flash  external  -1
+209  camera  proper  1
+210  quality  absolute  0
+210  quality  like  1
+211  mode  manual  0
+211  speed  f-stop  0
+212  flash  contrary  0
+212  flash  second  0
+212  flash  third-party  0
+212  flash  dedicate  0
+213  shutter  second  0
+213  shutter  most  0
+215  flash  most  0
+217  card  neutral  0
+217  flash  available  -1
+217  flash  first  0
+219  range  acceptable  0
+219  image  stun  -1
+220  mode  tilt  0
+221  image  shadow-free  0
+221  image  gentlest  1
+221  image  natural  0
+222  software  more  -1
+222  image  raw  -1
+222  image  raw  -1
+222  mode  first  -1
+222  image  oppose  -1
+223  image  raw  -1
+223  image  present  0
+223  image  raw  -1
+223  image  raw  -1
+223  setting  image-affect  0
+224  camera  second  0
+225  image  true  0
+225  image  raw  -1
+227  camera  raw  0
+227  camera  plug-in  0
+228  quality  plug-in  0
+228  quality  stun  -1
+228  quality  raw  0
+229  color  accurate  1
+229  color  realistic  1
+229  color  ive  0
+229  image  raw  -1
+230  camera  raw  0
+230  camera  plug-in  0
+231  image  raw  -1
+231  picture  uncritical  0
+232  picture  plug-in  0
+233  image  least  0
+233  image  photorealistic  0
+233  image  ive  0
+234  quality  stun  -1
+234  image  raw  -1
+234  flash  professional  0
+234  camera  ive  0
+234  range  better  -1
+237  camera  perfect  1
+237  quality  easy  1
+238  camera  love  1
+239  camera  most  0
+239  camera  digital  -1
+241  picture  manual  0
+241  picture  excellent  1
+241  picture  quick  0
+241  quality  astound  1
+242  camera  good  1
+242  camera  other  0
+242  camera  similar  0
+242  camera  digital  -1
+242  camera  best  1
+243  lens  perfect  -1
+243  lcd  enough  1
+243  lcd  cheapest  -1
+243  lcd  best  1
+244  camera  many  1
+244  camera  digital  -1
+246  camera  great  1
+246  camera  digital  -1
+247  camera  positive  1
+247  camera  lead  1
+247  camera  online  0
+248  camera  different  1
+251  camera  perfect  1
+252  picture  more  0
+252  picture  topnotch  1
+255  setting  ready  1
+255  picture  able  0
+255  picture  excellent  1
+255  picture  contrary  0
+255  picture  other  0
+256  shutter  tremendous  0
+256  mode  manual  0
+257  picture  coastal  0
+257  picture  able  0
+257  picture  additional  0
+257  picture  macro-focus  0
+257  picture  wonderful  1
+257  picture  other  0
+258  lens  only  0
+258  lens  legitimate  0
+258  lens  online  0
+262  camera  positive  1
+262  camera  great  1
+262  camera  little  -1
+268  quality  raw  0
+268  quality  incredible  1
+268  quality  post-process  0
+270  battery  most  0
+272  software  remote  0
+272  picture  mind-blow  0
+273  olympus  easy  1
+273  olympus  intuitive  1
+282  result  selectable  0
+282  mode  available  1
+283  setting  vivid  1
+283  setting  neutral  0
+283  setting  low  0
+285  software  new  0
+285  picture  panoramic  1
+287  canon  neat  1
+289  setting  white  0
+289  setting  clean  1
+289  setting  sharper  1
+289  setting  lack  -1
+290  picture  english  0
+290  picture  amaze  1
+292  setting  dim  -1
+292  camera  outperform  1
+293  color  less  1
+293  color  outperform  1
+294  image  best  1
+294  quality  current  0
+294  megapixel  >  0
+294  color  tonal  0
+295  image  criticize  -1
+301  picture  low  0
+301  shutter  few  0
+302  mode  many  0
+302  picture  blurry  -1
+304  camera  awesome  1
+304  camera  pro-sumer  0
+305  camera  digital  -1
+306  camera  5mp  0
+306  quality  more  0
+306  quality  megapixel  0
+307  camera  casual  0
+307  camera  artistic  0
+307  camera  photographic  0
+308  camera  main  0
+308  camera  easy  1
+309  camera  great  1
+310  zoom  great  1
+310  zoom  great  1
+310  zoom  optical  0
+310  picture  great  1
+311  lcd  friendly  -1
+311  lcd  casual  0
+311  lcd  little  0
+311  lcd  small  0
+311  picture  raw  0
+312  camera  solid  1
+313  picture  sharp  1
+313  picture  5mp  0
+313  picture  great  1
+313  picture  easy  1
+314  lcd  limit  1
+314  lcd  useful  -1
+318  camera  nice  1
+318  picture  sharp  -1
+321  zoom  4mp  0
+321  zoom  4x  0
+321  zoom  optical  0
+321  picture  beautiful  1
+321  camera  above  0
+321  camera  5mp  0
+321  camera  easy  1
+321  lcd  great  1
+321  lcd  swivel  0
+321  software  add-on  0
+321  software  great  -1
+321  software  last  0
+321  software  overlook  1
+322  camera  digital  -1
+323  camera  other  0
+323  camera  great  1
+323  camera  sure  0
+323  camera  many  1
+323  camera  beg  -1
+325  picture  great  -1
+327  camera  great  1
+329  picture  so-so  0
+329  picture  spectacular  1
+330  megapixel  plenty  0
+332  card  sure  0
+332  card  big  0
+332  card  compactflash  0
+332  card  32mb  0
+332  card  512mb  0
+332  card  inexpensive  1
+334  camera  digital  -1
+334  shot  precious  1
+335  camera  digital  -1
+337  film  same  0
+338  film  cool  1
+340  camera  most  0
+340  camera  well-behave  0
+342  picture  indefinite  0
+348  camera  new  -1
+351  lens  first  0
+353  camera  many  1
+353  camera  unresponsive  -1
+353  camera  film-base  0
+354  canon  own  0
+356  picture  bright  1
+359  olympus  direct  0
+359  olympus  fast  1
+359  olympus  responsive  1
+365  camera  blow-out-the-candle  0
+366  camera  digital  -1
+371  quality  same  0
+371  film  current  0
+372  olympus  disposable  0
+375  camera  first  -1
+375  camera  digital  -1
+375  camera  happier  -1
+379  picture  better  1
+379  lens  good  1
+380  speed  easier  1
+382  camera  best  1
+382  camera  4mp  0
+383  picture  digital  0
+385  quality  easy  1
+386  camera  exhustive  0
+389  camera  like  -1
+390  camera  loose  -1
+392  lens  concern  -1
+400  picture  regret  -1
+400  picture  lose  -1
+402  canon  limit  1
+404  canon  needless  -1
+406  film  more  0
+406  film  perfect  1
+407  mode  new  0
+407  mode  advance  0
+408  camera  worth  1
+409  battery  incredible  1
+411  quality  die  -1
+413  camera  last  -1
+413  camera  digital  -1
+414  camera  digital  -1
+414  camera  long  0
+416  camera  glad  1
+417  camera  happy  1
+419  mode  able  0
+420  quality  intuitive  1
+420  quality  big  0
+422  battery  standard  0
+424  zoom  optical  0
+424  zoom  awesome  1
+425  camera  little  -1
+425  camera  minor  -1
+425  lens  visible  1
+426  camera  last  -1
+426  camera  afford  1
+426  camera  best  1
+427  camera  last  -1
+427  camera  few  -1
+427  camera  digital  -1
+427  shot  hard  -1
+428  zoom  best  1
+428  zoom  optical  0
+428  camera  available  1
+428  camera  easy  1
+430  camera  more  1
+430  camera  digital  -1
+433  film  other  0
+435  camera  beautiful  1
+438  camera  stun  -1
+438  camera  sharp  1
+438  camera  excellent  1
+438  camera  better  1
+438  camera  other  0
+439  camera  little  -1
+439  camera  digital  -1
+439  camera  best-design  -1
+439  camera  most-elegant  -1
+439  camera  squash  -1
+440  range  good  1
+441  camera  first  -1
+441  camera  digital  -1
+443  quality  able  -1
+443  quality  high  -1
+443  picture  bulky  1
+445  olympus  nikon  0
+446  camera  best  1
+446  camera  round  0
+449  camera  easier  1
+449  camera  5mp  0
+453  picture  raw  0
+454  shutter  complete  0
+456  camera  first  -1
+456  camera  digital  -1
+459  software  much  0
+459  software  other  0
+460  camera  happy  1
+466  picture  cool  1
+467  olympus  digital  0
+468  picture  hi-ti  0
+468  picture  dye-sub  0
+469  picture  more  0
+470  camera  many  1
+471  picture  better  1
+471  film  most  0
+475  range  best  -1
+475  range  extra  0
+476  picture  easier  1
+478  camera  digital  -1
+479  quality  poor  -1
+479  battery  short  0
+479  battery  slow  -1
+479  camera  ruin  -1
+481  camera  new  -1
+481  camera  shun  -1
+482  picture  many  1
+482  camera  good  1
+482  camera  many  1
+484  lens  short  0
+484  lens  new  0
+484  lens  expensive  -1
+484  film  several  0
+486  camera  professional  0
+488  camera  excellent  1
+489  camera  different  1
+489  camera  such  1
+489  camera  best  1
+489  camera  digital  1
+491  camera  excellent  1
+492  battery  beautiful  1
+492  battery  easy  1
+492  battery  configurable  0
+492  battery  customizable  0
+492  battery  amaze  1
+495  card  bid  0
+495  card  pitiful  -1
+495  card  32mb  0
+495  card  compactflash  0
+495  card  most  0
+496  camera  general  0
+496  camera  most  0
+496  camera  digital  -1
+497  camera  good  1
+497  camera  less  0
+497  camera  dark  -1
+499  camera  short  0
+500  camera  greatest  1
+500  camera  surpass  1
+505  quality  easy  1
+506  range  pro  0
+506  range  good  1
+506  range  manual  0
+507  result  good  1
+509  result  better  1
+512  card  small  0
+513  card  256meg  0
+513  card  worth  1
+515  camera  unnerve  -1
+517  lens  fragile  -1
+517  camera  worth  1
+517  camera  good  1
+520  mode  fragile  -1
+521  flash  built-in  0
+521  camera  small  0
+521  range  lose  -1
+522  canon  other  0
+522  canon  powerful  1
+522  canon  expensive  -1
+523  mode  horrible  -1
+524  camera  better  1
+524  camera  afford  1
+526  camera  mind-blow  0
+527  quality  easy  1
+529  quality  excellent  1
+530  result  good  1
+530  result  excellent  1
+532  quality  advance  0
+532  quality  serious  0
+533  camera  first  -1
+533  camera  digital  -1
+534  film  relevant  0
+536  camera  best  1
+537  camera  finest  1
+538  color  few  0
+538  color  work  1
+539  picture  great  1
+539  picture  work  1
+539  mode  terrific  1
+540  camera  closest  0
+540  camera  perfect  1
+541  camera  closest  0
+541  camera  perfect  1
+541  megapixel  other  0
+543  canon  glad  1
+543  canon  4mp  0
+543  canon  improve  1
+552  picture  digital  0
+552  picture  other  0
+552  shot  lose  -1
+552  result  other  0
+554  camera  great  1
+555  picture  fabulous  1
+555  picture  short  0
+556  battery  important  1
+556  battery  extra  0
+557  shot  full  0
+557  shot  least  0
+558  flash  512mb  0
+558  flash  compact  1
+558  shot  full  0
+558  shot  4mp  0
+558  quality  3lb  0
+558  shot  hard  -1
+558  quality  long  0
+558  quality  extra  0
+559  flash  compact  1
+559  flash  delicate  1
+563  lens  only  0
+563  lens  many  0
+563  lens  clean  1
+564  lens  best  1
+568  picture  great  1
+568  picture  solid  1
+569  lens  obstruct  -1
+569  lens  negative  -1
+569  lens  lower  0
+569  lens  leave  0
+569  lens  stun  -1
+570  quality  several  0
+570  quality  such  0
+570  shot  continuous  0
+570  lens  optical  0
+574  speed  second  0
+575  camera  expedite  0
+582  card  busy  0
+582  card  enough  -1
+585  mode  timely  1
+588  camera  major  0
+589  lcd  bottom  0
+589  lcd  leave  0
+590  canon  technical  0
+590  camera  defective  -1
+591  lcd  most  -1
+592  camera  great  1
+594  lens  much  0
+597  zoom  longer  0
+597  zoom  more  0
+597  flash  hot  1
+597  flash  external  -1
+597  quality  remote  0
+598  canon  nikon  1
+598  canon  due  0
+598  canon  comfortable  1
+601  quality  noticeable  0
+602  lens  larger  0
+602  picture  better  1
+602  quality  low  0
+602  zoom  4-time  0
+602  zoom  optical  0
+603  lcd  moveable  0
+603  lcd  great  1
+604  shot  best  -1
+605  shutter  tiny  0
+605  shutter  postage-stamp  0
+605  shutter  remote  0
+605  shutter  wonderful  1
+606  camera  good  1
+606  camera  sturdy  1
+606  camera  new  -1
+606  quality  remote  0
+606  quality  remarkable  1
+606  quality  indoor  0
+606  quality  natural-light  0
+607  flash  hot  1
+607  flash  sophisticate  0
+609  quality  greatest  1
+609  flash  built-in  0
+609  picture  flat  0
+609  picture  annoy  -1
+609  flash  good  1
+609  flash  add-on  0
+609  flash  almost-natural  0
+610  battery  real  0
+612  battery  different  0
+612  canon  smaller  0
+613  shutter  aperature  -1
+613  shutter  light  -1
+613  quality  clear  1
+614  setting  automatic  0
+614  setting  comfortable  1
+614  setting  manual  0
+617  mode  digital  0
+618  camera  on-off  0
+618  camera  flimsy  -1
+618  camera  awkward  -1
+618  camera  tiny  0
+618  camera  little  -1
+618  camera  depress  -1
+620  picture  highest  0
+622  shot  remote  0
+622  image  digital  0
+623  image  internal  0
+624  camera  same  0
+626  camera  digital  -1
+626  camera  easier  1
+627  camera  bottom  0
+627  camera  serious  0
+627  camera  digital  -1
+627  camera  digital  -1
+628  flash  sure  0
+628  flash  separate  0
+628  flash  same  0
+630  camera  please  0
+631  card  gray  0
+632  setting  mixed-light  0
+633  card  gray  0
+633  card  plain  0
+633  card  white  0
+634  shutter  first  0
+634  shutter  camera-determine  0
+634  shutter  lighter  1
+634  shutter  darker  -1
+639  camera  comfortable  1
+639  camera  easy  1
+639  picture  best  1
+639  picture  digital  0
+640  camera  best  1
+640  camera  non-slr  0
+640  camera  digital  -1
+642  quality  lack  -1
+642  image  outstand  0
+642  quality  superior  1
+643  flash  external  -1
+643  quality  available  1
+644  camera  exploit  -1
+645  camera  point-and-shoot  -1
+645  camera  finer  1
+646  camera  best  1
+646  camera  non-slr  0
+646  camera  digital  -1
+648  film  nikon  1
+648  battery  amaze  1
+649  canon  better  1
+650  camera  best  1
+650  camera  digital  -1
+651  flash  compact  1
+652  setting  fine  1
+652  setting  close  0
+653  camera  nikon  1
+653  camera  better  1
+654  camera  only  -1
+654  camera  minor  -1
+654  camera  boxy  -1
+654  shot  slow  -1
+655  camera  best  1
+655  camera  digital  -1
+655  camera  available  1
+656  camera  great  1
+656  camera  same  0
+656  camera  less  0
+657  camera  great  1
+658  canon  prove  0
+660  camera  heavy  1
+660  camera  great  1
+j:  496
+i:  892
+BUILD SUCCESSFUL (total time: 4 minutes 21 seconds)

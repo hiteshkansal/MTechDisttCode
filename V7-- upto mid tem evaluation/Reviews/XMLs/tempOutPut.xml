@@ -1,0 +1,63 @@
+<Text>
+<sentence id="0">
+<word wid="0" pos="PRP">it</word>
+<word wid="1" pos="VBZ">has</word>
+<word wid="2" pos="DT">a</word>
+<word wid="3" pos="JJ">good</word>
+<word wid="4" pos="NN">sound</word>
+<word wid="5" pos="NN">booster</word>
+<word wid="6" pos="NN">system</word>
+<word wid="7" pos="CC">and</word>
+<word wid="8" pos="JJ">amazing</word>
+<word wid="9" pos="NN">noise</word>
+<word wid="10" pos="NN">control</word>
+<word wid="11" pos="NN">system</word>
+<word wid="12" pos="CC">but</word>
+<word wid="13" pos="JJ">bad</word>
+<word wid="14" pos="NN">bass</word>
+<word wid="15" pos=".">.</word>
+</sentence>
+<sentence id="1">
+<word wid="0" pos="JJ">good</word>
+<word wid="1" pos="JJ">sound</word>
+<word wid="2" pos="NN">quality</word>
+<word wid="3" pos="CC">and</word>
+<word wid="4" pos="JJ">good</word>
+<word wid="5" pos="NN">video</word>
+<word wid="6" pos="NN">quality</word>
+<word wid="7" pos="CC">but</word>
+<word wid="8" pos="NN">phone</word>
+<word wid="9" pos="VBZ">is</word>
+<word wid="10" pos="RB">not</word>
+<word wid="11" pos="JJ">cheap</word>
+<word wid="12" pos=".">.</word>
+</sentence>
+<sentence id="2">
+<word wid="0" pos="NN">picture</word>
+<word wid="1" pos="NN">quality</word>
+<word wid="2" pos="VBZ">is</word>
+<word wid="3" pos="JJ">good</word>
+<word wid="4" pos="CC">and</word>
+<word wid="5" pos="JJ">video</word>
+<word wid="6" pos="NN">quality</word>
+<word wid="7" pos="VBZ">is</word>
+<word wid="8" pos="JJ">amazing</word>
+<word wid="9" pos=".">.</word>
+</sentence>
+<sentence id="3">
+<word wid="0" pos="JJ">excellent</word>
+<word wid="1" pos="NN">zoom</word>
+<word wid="2" pos="CC">and</word>
+<word wid="3" pos="JJ">amazing</word>
+<word wid="4" pos="NNP">Video</word>
+<word wid="5" pos="NN">quality</word>
+<word wid="6" pos=".">.</word>
+</sentence>
+<sentence id="4">
+<word wid="0" pos="NNP">Life</word>
+<word wid="1" pos="IN">of</word>
+<word wid="2" pos="NN">battery</word>
+<word wid="3" pos="VBZ">is</word>
+<word wid="4" pos="JJ">good</word>
+<word wid="5" pos=".">.</word>
+</sentence></Text>

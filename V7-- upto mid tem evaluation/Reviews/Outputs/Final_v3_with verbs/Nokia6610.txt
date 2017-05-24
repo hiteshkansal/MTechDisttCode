@@ -1,0 +1,1234 @@
+run:
+Reading POS tagger model from E:\Disertation\APIs\stanford-postagger-full-2014-01-04\models\english-left3words-distsim.tagger ... done [1.4 sec].
+Nokia6610.txt output with :DiaperChamp.txt
+Total correction: 0
+Total correction: 0
+Total review: 51
+Total review: 49
+Total Cluster: 618
+Most Important Features: 
+feature option
+1 : option=1.6752173
+feature quality
+2 : quality=3.9786408
+feature battery
+3 : battery=2.0940216
+feature internet
+4 : internet=1.256413
+feature t-zone
+5 : t-zone=1.256413
+feature music
+6 : music=1.256413
+feature camera
+7 : camera=1.361114
+feature game
+8 : game=3.0363314
+feature color
+9 : color=1.9893204
+feature service
+10 : service=4.606848
+feature screen
+11 : screen=1.9893204
+feature nokia
+12 : nokia=3.7692387
+feature menu
+13 : menu=1.5705161
+feature radio
+14 : radio=4.397445
+feature phone
+15 : phone=34.02785
+feature ringtone
+16 : ringtone=1.151712
+feature stuff
+17 : stuff=1.9893204
+feature call
+18 : call=1.151712
+feature headset
+19 : headset=1.4658151
+feature voice
+20 : voice=2.722228
+feature application
+21 : application=1.151712
+feature t-mobile
+22 : t-mobile=3.4551356
+feature reception
+23 : reception=1.361114
+feature plan
+24 : plan=1.9893204
+sent no: 4  i: 4feature: service  prev adj: several  new verb: torture
+sent no: 5  i: 5feature: reception  prev adj: same  new verb: work
+sent no: 15  i: 15feature: phone  prev adj: plastic-like  new verb: break
+sent no: 66  i: 66feature: game  prev adj: fellow  new verb: revive
+sent no: 67  i: 67feature: phone  prev adj: complete  new verb: work
+sent no: 111  i: 111feature: headset  prev adj: less  new verb: die
+sent no: 129  i: 129feature: phone  prev adj: nokium  new verb: work
+sent no: 156  i: 156feature: phone  prev adj: european  new verb: stress
+sent no: 169  i: 169feature: internet  prev adj: few  new verb: lack
+sent no: 181  i: 181feature: screen  prev adj: able  new verb: scratch
+sent no: 209  i: 209feature: headset  prev adj: standard  new verb: miss
+sent no: 236  i: 236feature: game  prev adj: other  new verb: work
+sent no: 253  i: 253feature: radio  prev adj: long  new verb: lie
+sent no: 314  i: 314feature: phone  prev adj: flip  new verb: like
+sent no: 351  i: 351feature: phone  prev adj: big  new verb: win
+sent no: 357  i: 357feature: stuff  prev adj: public  new verb: recommend
+sent no: 357  i: 357feature: stuff  prev adj: crowd  new verb: like
+sent no: 415  i: 415feature: headset  prev adj: standard  new verb: work
+sent no: 433  i: 433feature: phone  prev adj: tri-band  new verb: lack
+sent no: 525  i: 525feature: phone  prev adj: free-after-rebate  new verb: shine
+rev: 49
+Cluster Count: 
+168
+17
+11
+11
+10
+9
+8
+7
+6
+6
+6
+6
+6
+5
+5
+5
+5
+4
+4
+3
+2
+2
+2
+phone	 :4.097561 Stars
+phone with a count 168
+1  [t]excellent phone , excellent service .
+2  there is much which has been said in other reviews about the features of this phone , it is a great phone , mine worked without any problems right out of the box .
+3  my last phone was a samsung s105 which imo is superior and cheaper to this phone .
+4  i have owned motorola , panasonic and nokia phones over the last 8 years and generally prefer nokia , this phone combines many of the best nokia features , the only feature missing for me is the voice recognition .
+5  [t]slightly better than average phone in its class .
+6  my favorite features , although there are many , are the speaker phone , the radio and the infrared .
+7  i think the sound quality of this phone is slightly better than my samsung phone , the motorolla t720 series , and the sony ericsson t610 series .
+8  the speaker phone is very functional and i use it in the car , very audible even with freeway noise .
+9  their website does not show it as a compatible phone , and should i try to access the game downloads on t-zones the system returns an error message saying my phone is not supported .
+10  [t]good phone , so-so service .
+11  i like my phones to be small so i can fit it in my pockets .
+12  the loud speaker function on the 6610 is great because you do n't need to put your phone right next to your ear to talk .
+13  here 's the brief synopsis : the phone is tiny , cute , feels kind of " plastic-like " ( as if it might break ) , but seems pretty sturdy .
+14  [t]cool phone !
+15  every phone experience has started with a very brief time on hold followed by a cheerful representative answering the phone .
+16  the buttons on the phone are small , even for my small fingertips , but you get used to them rather quickly .
+17  nokia makes a great phone , that 's clear .
+18  [t]t-mobile ruins an otherwise good phone .
+19  i have excellent hearing but the volume level on this phone is especially quiet .
+20  the phone may look large but it is very small smaller then the 3390 phone .
+21  the color screen makes this free-after-rebates phone shine bright , and commands are very responsive .
+22  overall this is a slightly better than average phone .
+23  personally i like the samsung phones better because i found myself liking the flip phones so much more .
+24  they are all free if you get a new account anyway , but stick to t-mobile if you are going to use your phone overseas because t-mobile actually allows you to unlock your simm cards so that you can buy simm cards cheap from other nations and plug into your phone when you are doing some international travelling .
+25  this is the best phone i have seen .
+26  [t]perfect phone .
+27  as much as i like nokia phones the flip phones imo are much better because a ) you won't scratch your screens / keys b ) you dont need to lock your phone all the time to prevent accidentally hitting the keys .
+28  the nokia 6610 is a relatively new phone , and what a great phone it is .
+29  [t]great phone , great service , no voice dialing .
+30  the 6610 is still easier to use than the other two phones ( t610 , t720i ) .
+31  other than that , this is a perfect phone for those of us with no patience for flips .
+32  when i turned the phone on , the first thing that hit me is how good the screen is .
+33  the nokia , samsung and the sony phones can all last for 3 days provided you do n't talk too much .
+34  [t]best phone for free .
+35  please , if anyone want sell to me this cell phone in my conditions , i 'm wait very happy .
+36  two days later the phone was returned to me in complete working order .
+37  this phone won me over , and a big seller was the size ; it fits nicely into any pocket without falling out .
+38  i waited a few years between phones , mostly because ( like most i think ) i didn't really need one .
+39  this really is a great little phone ; its got nice features , a beautiful screen , great ergonomics , and its tiny !
+40  [t]great phone , but what did you say ?
+41  i think that it is a were good mobile phone and i may buy it .
+42  from the speakerphone that can be used up to 15 feet away with clarity , to the downloadable poly-graphic megatones that adds a personal touch to this nifty phone .
+43  for a specific location , i still think its a great phone .
+44  the phones are awesome .
+45  overall this has been my favorite phone that i have owned .
+46  the first night i got this phone i put it next to me when i went to bed just to listen to my favorite music station and the handset itself doesn't weight anything its too light and feel so comfy with it .
+47  i just purchased this phone and i think this is the coolest phone i ever had .
+48  it is a teeny phone , so it is hard to put a big mechanism in .
+49  i bought this slick phone and i am very happy with it .
+50  nokia 6610 ( sound quality ) the phone is great with very cool features &#38; options , but comparing to my older motorola phone , it gets a failing grade in speaker quality .
+51  [t]a good phone .
+52  this phone is good with a huge array of features built into it .
+53  i purchased the phone last week and have been using till then . .
+54  this is a very light phone - a little less than 3 oz , with long battery life ( not as long as the new polymer technology ) .
+55  ***[t]great phone , but no warranty !
+56  the hands-free speakerphone is quite powerful ( like the motorola phone , i used to own ) .
+57  this is a very nice phone , but there is no warranty on it .
+58  it is a great phone , if you are traveling all over the world , packed with wonderful features .
+59  this is one of the nicest phones nokia has made .
+60  [t]great speakerphone and great reception ! ! recommend !
+61  the phone is small , light , and very attractive .
+62  while i had the phone , the positive features were : good sound quality and an excellent fm phone and earpiece .
+63  nokia was my first nonflip phone , and i 'm glad i decided to go with them .
+64  this phone has a very cool and useful feature -- the speakerphone .
+65  although i find it more convenient to use 1-touch dialing , this phone does not have voice dialing .
+66  it requires significant force to operate which can be scary on such a small phone .
+67  the two biggest things is the excellent working speakerphone " unlike the nokia 3650 " and the superb reception nokia is known for in the gsm phones they make ...
+68  [t]awesome phone choice .
+69  in true nokia style , the phone is simple to use and despite its delicate appearance , this little guy is as durable as other nokias i have owned .
+70  the phone book is very user-friendly and the speakerphone is excellent .
+71  not only is it the perfect size ( not too small , not too large ) , it also has all the features a high-tech phone user would want .
+72  this means that there is a good chance that this phone will not break easily like typical american phones .
+73  i cannot stress enough how big of a benefit it is to have a european phone and a european company providing your cell phone service .
+74  this phone is one of the few phones that have an fm radio tuner built in .
+75  one highly beneficial feature of this phone ( at least to me ) is that it can be used anywhere in the world except a few countries that do not use gsm , a few in asia .
+76  no more hazzles of keying in all data , using the small phone keypad .
+77  it is a perfect phone in such a small and appealing package .
+78  the phone has a few minor inconveniences , but only because it lacks those features , bluetooth and high spend internet , but there are very few problems with things that you expected this phone to do .
+79  this phone has many other features , ir , ; just to name one , the features above i view as the most beneficial .
+80  great phone , i 'd buy another .
+81  [t]excellent phone .
+82  excellent phone , the phone looks much better than what u see in the pictures .
+83  oh and before anyone comments yes i know motorola have announced a quad band edge bluetooth phone , but its not shipping at time of writing and the tri-band gsm850 phones lack the gsm900 band which is important if you like me globally roam .
+84  when you put this phone in your pocket you forget it is there ; it is unbelievably small and oh , so light .
+85  great phone .. .
+86  it is amazing that the battery lasts so long when the phone is so small and light .
+87  i did a ton of research and settled on this phone because of the small size , speakerphone option , great priced calling plan and access to my corporate email .
+88  the battery life on this phone is surreal .
+89  nice little phone ... light compact . .
+90  i was getting so sick of my old motorola l7089 , but was waiting for the right phone to come along .
+91  it has great battery life , fm radio , excellent signal , hands free speakerphone ( which i have to say is probably my favorite function ) and downloadable java apps .
+92  that said this phone does what it does extremely well - way better than anything motorola can produce .
+93  overall this is the best phone i have ever owned .
+94  speakerphone - loud and clear has some nice extra features like currency converter and a stopwatch .
+95  [t]awesome phone , great prices on amazon.com .
+96  [t]best phone out there ... a+ not only is this the best phone out there but is cheap ( free ! ! ) .
+97  it receives very nice mms pictures from other gsm phones .
+98  the speakerphone works better than any speakerphone i 've ever had .
+99  the fact that the " 0 " key is the space key for text input is a bit confusing , as many phones use the " # " key instead .
+100  1 month , no problems , great phone i 'm very pleased with my 6610 phone .
+101  this is probably your best bet if you are looking for a phone in this price range , or like me , do not have the patience to deal with annoying flip phones .
+102  it puts an end to organizational deficiencies as well as communications and internet , without a bulky phone like the treo or something , which i had to cell because i was so unhappy with it .
+103  great phone , easy to use , excellent network , no regrets ! ! !
+104  which was a good thing , because i realized i had forgotten my phone ...
+105  overall an excellent phone .
+106  the phone is very light weight .
+107  do too many stuffs to get to a free phone after rebate .
+108  one of the best cell phones i have ever used to-date .
+109  i myself find this great for when i am at a site i can run to my truck and hook up my modem cable ( 49.99 @ nokiausa.com or t-mobile.com ) press dial up on my laptop ( by the way it is a mac pb 1gz. and in a matter of seconds i can access my email , fax , and the entire web from my truck !
+110  that beside you are prob. very well aware of many of the features that this phone is known for , and one that has not yet been mentioned : using this phone as a modem for any computer with a usb 1.0 port !
+111  this phone is great as a whole and is not like others with one or two good qualities .
+112  this phone is very user-friendly , easy to manipulate &#38; very convenient to scroll in menu etc .
+113  [t]6610 = great phone and a few extras i am a person that needs my phone ( s ) on demand .
+114  and really this is the best phone one could have .
+115  tmobiles might not have the best reception in some areas but with amazing phones such as nokia 6610 and cheap plans that you get way more minutes than any other plans .
+116  [t]best of the best mobile phone .
+117  while going for a cellphone , i was fully determined to buy a nokia only as it is the best in cellphones .
+118  is a lot better compared to the toy phone design of the nokia 7210 with its cheap feel .
+quality	 :4.25 Stars
+quality with a count 17
+1  the keypad is a decent size , but the power on/off key is small and difficult to press .
+2  the radio feature has superb sound quality .
+3  i have had the phone for 1 week , the signal quality has been great in the detroit area ( suburbs ) and in my recent road trip between detroit and northern kentucky ( cincinnati ) i experienced perfect signal and reception along i-75 , far superior to at &#38; t 's which does not work along several long stretches on that same route .
+4  the voice quality is very good , and it gets great reception ( that is , in places where you get t-mobile coverage , which is not that good ; see below ) .
+5  the sound quality is excellent , except , maybe a * tad * too quiet at times when there are quieter talkers on the other end of the line .
+6  nokias have always had good sound quality and this is no exception .
+7  the most important thing for me is sound quality .
+8  the reception and sound quality are top-notch .
+9  in true nokia style , the phone is simple to use and despite its delicate appearance , this little guy is as durable as other nokias i have owned .
+10  the phone 's sound quality is great ( turn up the volume if its too quiet , people , this thing will get loud ) i dont have any complaints about this phone and the only thing that i miss from my 8290 is voice dialing .
+11  - excellent sound quality
+12  this phone is great as a whole and is not like others with one or two good qualities .
+13  with all its complicated features , the menus are easily accessible and the quality of the features is great .
+14  while i had the phone , the positive features were : good sound quality and an excellent fm phone and earpiece .
+screen	 :4.230769 Stars
+screen with a count 11
+1  all these phones have color screens , polymorphic tones , and are internet ready .
+2  - bright , visible screen
+3  the screen is bright , easy to see in the daylight , with nice colors .
+4  the design is sleek and the color screen has good resolution .
+5  when i turned the phone on , the first thing that hit me is how good the screen is .
+6  this really is a great little phone ; its got nice features , a beautiful screen , great ergonomics , and its tiny !
+7  color screen is good .
+8  great screen and great sound .
+9  the screen is bright and ring tones are unlimited .
+radio	 :3.0555556 Stars
+radio with a count 11
+1  radio is awsome , but it does n't work unless you have the earpice in .
+2  it has great battery life , fm radio , excellent signal , hands free speakerphone ( which i have to say is probably my favorite function ) and downloadable java apps .
+3  i have had the phone for 1 week , the signal quality has been great in the detroit area ( suburbs ) and in my recent road trip between detroit and northern kentucky ( cincinnati ) i experienced perfect signal and reception along i-75 , far superior to at &#38; t 's which does not work along several long stretches on that same route .
+4  it is very light weight and has a good signal strength .
+5  the built in fm radio is excellent for people traveling by public transport .
+6  sound - excellent polyphonic ringing tones are very nice ( check cons ) it also doubles as a radio , which is a nice feature when you are bored .
+7  the features are really cool like the radio .
+8  whether you 're taking a brisk jog , waiting for a bus or just having lunch at the park , you 'll be glad you had the fm radio .
+9  the fm radio is cool .
+battery	 :4.5454545 Stars
+battery with a count 10
+1  on the up-side , the phone has amazing battery life .
+2  battery life is good for a phone of this size .
+3  it has great battery life , fm radio , excellent signal , hands free speakerphone ( which i have to say is probably my favorite function ) and downloadable java apps .
+4  however , the battery life is good enough you should n't be overly concerned with turning this phone off .
+5  the battery life is amazing .
+6  great battery life , perfect size , but a tid bit quieter than i would like .
+7  it is amazing that the battery lasts so long when the phone is so small and light .
+8  the battery is a lot better than most of the phones out there .
+9  battery life is very good , i use it every day and i have to charge it every 5 or 6 days or so .
+game	 :5.0 Stars
+game with a count 9
+1  i find the lack of entertaining games on this phone quite disturbing .
+2  it has lots of little cute features , my favorite being the games and the pim ( personal information manager -- i.e. organizer ) , and the radio !
+3  i have always known nokia to provide me with good games on their phones .
+4  it allows me to place the phone on the table while talking and working on my computer or other jobs .
+5  there are a lot of cool websites with games and midi ringtones to download for free .
+6  disgusted with myself after i found the phone in the bottom of the washing machine , i was about to throw it away when one of my fellow soldiers asked if he could dry it out for me in an effort to revive the phone .
+7  nice and small and excellent when it comes to downloading games , graphics and ringtones from www.crazycellphone.com
+nokia	 :5.0 Stars
+nokia with a count 8
+1  is this how nokia subsidizes their free pc software ?
+2  ( to be fair , the same can be said about many korean imports , and the nokia 's build quality is light years ahead of the koreans . )
+3  i have owned motorola , panasonic and nokia phones over the last 8 years and generally prefer nokia , this phone combines many of the best nokia features , the only feature missing for me is the voice recognition .
+4  in true nokia style , the phone is simple to use and despite its delicate appearance , this little guy is as durable as other nokias i have owned .
+5  [t]nokia 6610 great for games and ringtones .
+6  the pc sync feature is superb that comes with nokia pc suite software ( with data cable or infrared port or bluetooth ) .
+voice	 :3.181818 Stars
+voice with a count 7
+1  the headset that comes with the phone has good sound volume but it hurts the ears like you cannot imagine !
+2  i do here a constant high-pitched distorted sound , not to mention the volume does not seem to be loud enough .
+3  some of the higher pitched rings are very easy to hear , but not easy to listen to .
+4  in music tones department the 6610 has 20 chords ( thats number of different instruments which it can play ) i think , the samsung i think have 15 , i donno about the other phones but i feel the t610 has the best sounding ring tones .
+5  sound - excellent polyphonic ringing tones are very nice ( check cons ) it also doubles as a radio , which is a nice feature when you are bored .
+6  great screen and great sound .
+menu	 :5.0 Stars
+menu with a count 6
+1  how easy is it for me to get to a certain menu ?
+2  i 've had an assortment of cell phones over the years ( motorola , sony ericsson , nokia etc. ) and in my opinion , nokia has the best menus and promps hands down .
+3  this phone is very user-friendly , easy to manipulate &#38; very convenient to scroll in menu etc .
+4  with all its complicated features , the menus are easily accessible and the quality of the features is great .
+5  navigating through the menus is super easy , especially if you have owned a previous model nokia phone .
+t-mobile	 :3.75 Stars
+t-mobile with a count 6
+1  t-mobile was a pretty good server .
+2  service is great as far as i can tell , features work like a charm , ringtones are high quality if you buy them from t-mobile and aim is great .
+3  t-mobile is trying very hard , and again -- they do have pretty good csr 's .
+4  the service from t-mobile is very good too .
+5  to say the least , i was horribly dissatisified with my service with sprint , which was why t-mobile was so fantastically refreshing .
+6  i 'd always eyed the nokia phones and had heard decent things about t-mobile , so i gave it a whirl .
+reception	 :2.7272727 Stars
+reception with a count 6
+1  we hardly ever have to charge them , get great reception ( live in chicago ) , and the customization and applications are awesome .
+2  i have had the phone for 1 week , the signal quality has been great in the detroit area ( suburbs ) and in my recent road trip between detroit and northern kentucky ( cincinnati ) i experienced perfect signal and reception along i-75 , far superior to at &#38; t 's which does not work along several long stretches on that same route .
+3  the voice quality is very good , and it gets great reception ( that is , in places where you get t-mobile coverage , which is not that good ; see below ) .
+4  the two biggest things is the excellent working speakerphone " unlike the nokia 3650 " and the superb reception nokia is known for in the gsm phones they make ...
+5  [t]great speakerphone and great reception ! ! recommend !
+6  i 'm staying with sprint , and though i fear that their csr is n't nearly as good as t-mobile 's , the clarity of their reception is exceptional .
+color	 :5.0 Stars
+color with a count 6
+1  the s105 ( samsung ) has a beautiful big display ( 65,000 colors ) , and i can 't say much about the motorolla .
+2  it has a nice color screen .
+3  the screen is bright , easy to see in the daylight , with nice colors .
+4  the design is sleek and the color screen has good resolution .
+5  the resolution is very good and the colors are bright and even changeable !
+application	 :4.285714 Stars
+application with a count 6
+1  it also has a stock tracking app built in ( also useless ) and a somewhat useful application which converts all types of metrics ( currency , length , area , etc ) .
+2  we hardly ever have to charge them , get great reception ( live in chicago ) , and the customization and applications are awesome .
+3  technology wise , i think this is awesome plus the speaker makes it even great ! ! ! ! i love this phone ! ! !
+4  the gprs connection is sometimes slow , and writing instant messages with the included aol instant messenger software is a pain , but the other t-zones applications are quite useful .
+stuff	 :2.2727273 Stars
+stuff with a count 5
+1  i 've gotten used to it ( holding it in just the right realation to the ear , ducking into quieter places in bars ) but when others borrow it they 're shocked i can use it .
+2  so , i recommend it , but not for those that have any hearing troubles , or for those that like to talk a lot in crowded public places ( which is annoying , by the way . )
+3  i thought it would be haggard but when i be gotted this junky i was mad happy and stuff .
+headset	 :2.0833333 Stars
+headset with a count 5
+1  the included earpiece is very comfortable and easy to use .
+2  in addition it comes with a sleek and powerful headset .
+3  - no proprietary headset jack
+service	 :3.125 Stars
+service with a count 5
+1  [t]excellent phone , excellent service .
+2  i assumed they had exceptional service , but their reception in my area ( los angeles ) is horrendous .
+3  service is great as far as i can tell , features work like a charm , ringtones are high quality if you buy them from t-mobile and aim is great .
+4  after several years of torture in the hands of at&t customer service i am delighted to drop them , and look forward to august 2004 when i will convert our other 3 family-phones from at&t to t-mobile !
+5  i took great care of the screen , till i realized that the part that might get scratched is part of the cover .
+ringtone	 :5.0 Stars
+ringtone with a count 5
+1  you can do * so * much more with the pc suite , i.e. free ringtones from midi files , free graphics from any picture on your computer , and if you know how to program jme you can even make your own apps / games .
+2  the ringtones included are awesome , and did i mention they were polyphonic ?
+3  there are a lot of cool websites with games and midi ringtones to download for free .
+4  the phone comes with okay ringtones , some decent backgrounds / screensavers , but the phone has very little memory ( mine had 230kb as it arrived from amazon , so you do n't have too many options on what you can put on there ) .
+camera	 :5.0 Stars
+camera with a count 4
+1  if you have a good digital camera , there is no reason to consider the camera capabilities of a mobile phone .
+2  however , if you are keen , you can attach a camera to this phone .
+3  i think there is a good chance i will try to get a samsung flip camera phone next year .
+4  personally i found the integrated digital camera of the t610 to be very nice .
+option	 :4.0 Stars
+option with a count 4
+1  nokia 6610 ( sound quality ) the phone is great with very cool features &#38; options , but comparing to my older motorola phone , it gets a failing grade in speaker quality .
+2  so loud , really , that it does n't work terribly well as a silent ringer option .
+3  i find a great amount of value in this option for any and all the people that travel buy car and do not have access to the t-mobile " hot-spots " .
+4  i did a ton of research and settled on this phone because of the small size , speakerphone option , great priced calling plan and access to my corporate email .
+plan	 :2.5 Stars
+plan with a count 3
+1  the rate plans are also very good , at least for me .
+2  we got two phones for the t-mobile family plan ( indeed very easy to switch to the family plan ) and one came with a broken headphone ( can hear but cannot be heard ) and one died today after less than two weeks of use .
+3  [t]great plan .
+music	 :2.5 Stars
+music with a count 2
+1  it comes equipped with lot of wallpapers and polyphonic sweet tunes .
+2  the first night i got this phone i put it next to me when i went to bed just to listen to my favorite music station and the handset itself doesn't weight anything its too light and feel so comfy with it .
+internet	 :2.5 Stars
+internet with a count 2
+1  all these phones have color screens , polymorphic tones , and are internet ready .
+2  it puts an end to organizational deficiencies as well as communications and internet , without a bulky phone like the treo or something , which i had to cell because i was so unhappy with it .
+call	 :2.5 Stars
+call with a count 2
+1  however , the calls constantly drop in my area and i experince mega-static , to the point where i 'd have to dial numbers 6-7 times to get a clear line .
+2  first of all , my calls were loud and clear , unlike with sprint .
+OverAll Rating is : 3.7219656 Out of 5 Stars
+Negative summery is: 
+1  there is much which has been said in other reviews about the features of this phone , it is a great phone , mine worked without any problems right out of the box .
+
+2  pc cable is too expensive ... $ 50 for a usb cable ?
+
+3  [t]best phone out there ... a+ not only is this the best phone out there but is cheap ( free ! ! ) .
+
+4  it receives very nice mms pictures from other gsm phones .
+
+5  below is how i evaulate this phone with other t-mobile phones which i have borrowed from parents / friends :
+
+6  it requires significant force to operate which can be scary on such a small phone .
+
+7  in my opinion the worst issue on this phone is the side-mounted volume control .
+
+8  i cannot say enough good things about the people who answer the phones .
+
+9  i am able to carry it close to my body , in places where other phones are not so easily concealed .
+
+10  the fact that the " 0 " key is the space key for text input is a bit confusing , as many phones use the " # " key instead .
+
+11  not only is it the perfect size ( not too small , not too large ) , it also has all the features a high-tech phone user would want .
+
+12  here 's the brief synopsis : the phone is tiny , cute , feels kind of " plastic-like " ( as if it might break ) , but seems pretty sturdy .
+
+13  the loud speaker function on the 6610 is great because you do n't need to put your phone right next to your ear to talk .
+
+14  this is probably your best bet if you are looking for a phone in this price range , or like me , do not have the patience to deal with annoying flip phones .
+
+15  the volume level of the phone is not all that good .
+
+16  like some other reviewers , i received this phone using t-mobiles upgrade program .
+
+17  the phone 's sound quality is great ( turn up the volume if its too quiet , people , this thing will get loud ) i dont have any complaints about this phone and the only thing that i miss from my 8290 is voice dialing .
+
+18  the more subtle tones that were included with the phone are hard to hear at times .
+
+19  it puts an end to organizational deficiencies as well as communications and internet , without a bulky phone like the treo or something , which i had to cell because i was so unhappy with it .
+
+20  the backlight on the phone goes off way too quickly ( dangerous when you 're driving at night ) , and there 's no way to change this --
+
+21  it is a teeny phone , so it is hard to put a big mechanism in .
+
+22  one more thing , the default ringtones that come with the phone are horrible .
+
+23  i find the lack of entertaining games on this phone quite disturbing .
+
+24  this phone has many other features , ir , ; just to name one , the features above i view as the most beneficial .
+
+25  in music tones department the 6610 has 20 chords ( thats number of different instruments which it can play ) i think , the samsung i think have 15 , i donno about the other phones but i feel the t610 has the best sounding ring tones .
+
+26  oh and before anyone comments yes i know motorola have announced a quad band edge bluetooth phone , but its not shipping at time of writing and the tri-band gsm850 phones lack the gsm900 band which is important if you like me globally roam .
+
+27  it is not as good as the samsung phones that i have used earlier .
+
+28  nokia seems on a campaign to revamp the phone keypad , which imho is totally unnecessary .
+
+29  [t]people with bad audio quality have defective phones .
+
+30  if you can get this phone for cingular or at&t , go with the other carriers .
+
+31  i was getting so sick of my old motorola l7089 , but was waiting for the right phone to come along .
+
+32  the 6610 is still easier to use than the other two phones ( t610 , t720i ) .
+
+33  other than that , this is a perfect phone for those of us with no patience for flips .
+
+34  what it lacks for me is n't available on one phone yet , namely gsm850 ( also sometimes known as gsm800 ) , bluetooth and edge .
+
+35  unfortunately , the 6610 does not offer voice dialing like my previous phone , but the other features it packs outweighs this shortcoming .
+
+36  speakerphone - loud and clear has some nice extra features like currency converter and a stopwatch .
+
+37  is a lot better compared to the toy phone design of the nokia 7210 with its cheap feel .
+
+1  one other issue is that the headphone jack is unique to nokia , so standard headphones will not work .
+
+2  we got two phones for the t-mobile family plan ( indeed very easy to switch to the family plan ) and one came with a broken headphone ( can hear but cannot be heard ) and one died today after less than two weeks of use .
+
+3  other things that i miss are voice-activated dialing and a standard 2.5 mm headset jack .
+
+1  their network coverage is very sporadic , and the network always seems overloaded , resulting in very unpleasant calling experience .
+
+2  the 6610 has the radio function which is utterly useless .
+
+3  its speakerphone option allows us to do long talks conveniently , lying on bed &#38; phone lying by your pillowside .
+
+4  also , you need to have the headset plugged in all the time to have the radio work and that can get tedious .
+
+5  great phone , easy to use , excellent network , no regrets ! ! !
+
+6  this radio receives fairly decent reception but not nearly as good as a normal radio , but as long as the stations are coming in clearly the phone 's radio should work perfectly .
+
+1  i 've gotten used to it ( holding it in just the right realation to the ear , ducking into quieter places in bars ) but when others borrow it they 're shocked i can use it .
+
+2  so , i recommend it , but not for those that have any hearing troubles , or for those that like to talk a lot in crowded public places ( which is annoying , by the way . )
+
+3  the voice quality is very good , and it gets great reception ( that is , in places where you get t-mobile coverage , which is not that good ; see below ) .
+
+4  they are all free if you get a new account anyway , but stick to t-mobile if you are going to use your phone overseas because t-mobile actually allows you to unlock your simm cards so that you can buy simm cards cheap from other nations and plug into your phone when you are doing some international travelling .
+
+5  i thought it would be haggard but when i be gotted this junky i was mad happy and stuff .
+
+1  i spent hours setting up the stations ( accepts about 13-14 , i believe ) , though the reception is unpredictable .
+
+2  i assumed they had exceptional service , but their reception in my area ( los angeles ) is horrendous .
+
+3  i have had the phone for 1 week , the signal quality has been great in the detroit area ( suburbs ) and in my recent road trip between detroit and northern kentucky ( cincinnati ) i experienced perfect signal and reception along i-75 , far superior to at &#38; t 's which does not work along several long stretches on that same route .
+
+4  this radio receives fairly decent reception but not nearly as good as a normal radio , but as long as the stations are coming in clearly the phone 's radio should work perfectly .
+
+5  tmobiles might not have the best reception in some areas but with amazing phones such as nokia 6610 and cheap plans that you get way more minutes than any other plans .
+
+1  i do here a constant high-pitched distorted sound , not to mention the volume does not seem to be loud enough .
+
+2  some of the higher pitched rings are very easy to hear , but not easy to listen to .
+
+3  when talking the voice is not very clear .
+
+4  ring tones only come with crazy songs and annoying rings , there is only one ring that sounds close to a regular ring .
+
+1  tmobiles might not have the best reception in some areas but with amazing phones such as nokia 6610 and cheap plans that you get way more minutes than any other plans .
+
+2  after years with that carrier 's expensive plans and horrible customer service , portability seemed heaven-sent .
+
+1  [t]great phone , great service , no voice dialing .
+
+2  after several years of torture in the hands of at&t customer service i am delighted to drop them , and look forward to august 2004 when i will convert our other 3 family-phones from at&t to t-mobile !
+
+3  i 've bought the very expensive sanyo 5500/vm4500 -- which i love -- and i 'm okay with my services .
+
+1  the keypad is a decent size , but the power on/off key is small and difficult to press .
+
+2  negative : impossibly tiny and difficult to operate , barely visible , power button .
+
+1  the volume key can be hard to press , but i think this may be by design rather than a flaw , perhaps to keep you from pressing it accidentally when you are in a call .
+
+2  first of all , my calls were loud and clear , unlike with sprint .
+
+1  also , their t-zones , although cheap ( $ 4.99 / mo. ) never works .
+
+2  the gprs connection is sometimes slow , and writing instant messages with the included aol instant messenger software is a pain , but the other t-zones applications are quite useful .
+
+1  i 'm staying with sprint , and though i fear that their csr is n't nearly as good as t-mobile 's , the clarity of their reception is exceptional .
+
+2  i could n't be happier with t-mobile either , i switched from cingular .
+
+1  in music tones department the 6610 has 20 chords ( thats number of different instruments which it can play ) i think , the samsung i think have 15 , i donno about the other phones but i feel the t610 has the best sounding ring tones .
+
+2  ring tones only come with crazy songs and annoying rings , there is only one ring that sounds close to a regular ring .
+
+1  the colors on the screen are not as crisp as i 'd have liked them to be .
+
+2  the screen is easily scratched but if you have the warranty you should be able to swap it out .
+
+1  the phone has a few minor inconveniences , but only because it lacks those features , bluetooth and high spend internet , but there are very few problems with things that you expected this phone to do .
+
+1  it also has a stock tracking app built in ( also useless ) and a somewhat useful application which converts all types of metrics ( currency , length , area , etc ) .
+
+1  the motorolla phone have a horrible battery which lasts about a day ( although i heard that the motorolla t722i has a much longer battery life ) .
+
+1  the menu options are uncreative , as you can 't see a full screen of menu items to pick from ; you have to scroll up and down to find what you 're looking for ( yes , this is minor , but not when you 're trying to keep your eye on the road ! ) .
+
+FINAL RESULT: 
+0  phone  excellent  1
+0  service  excellent  1
+1  service  mobile  0
+2  phone  much  0
+2  phone  other  -1
+2  phone  great  1
+3  service  double  0
+4  service  torture  -1
+4  service  delight  1
+4  t-mobile  other  0
+5  quality  great  1
+5  quality  recent  0
+5  radio  northern  0
+5  radio  experience  0
+5  radio  perfect  1
+5  reception  superior  1
+5  reception  several  0
+5  reception  long  0
+5  reception  work  -1
+6  phone  last  1
+6  phone  many  1
+6  nokia  best  1
+6  nokia  only  1
+7  phone  favorite  1
+7  phone  many  1
+8  phone  functional  1
+8  phone  audible  1
+9  nokia  previous  0
+9  phone  old  0
+10  service  nokium  0
+10  service  t-mobile  0
+11  phone  good  1
+11  service  so-so  0
+13  plan  expensive  -1
+13  plan  horrible  -1
+13  service  heaven-send  0
+14  t-mobile  decent  1
+15  phone  brief  0
+15  phone  tiny  0
+15  phone  cute  1
+15  phone  break  -1
+15  phone  sturdy  1
+16  game  little  0
+16  game  cute  1
+16  game  favorite  1
+16  game  personal  0
+17  reception  unpredictable  -1
+18  radio  tedious  -1
+19  voice  good  1
+20  ringtone  okay  0
+20  ringtone  decent  1
+20  phone  little  0
+20  option  many  0
+21  screen  crisp  -1
+23  phone  dangerous  -1
+25  phone  small  1
+25  phone  small  1
+26  option  uncreative  -1
+26  screen  full  0
+26  menu  minor  0
+27  phone  more  0
+30  phone  excellent  1
+30  phone  quiet  1
+32  battery  amaze  1
+33  phone  overall  0
+35  service  exceptional  1
+35  reception  horrendous  -1
+38  t-zone  cheap  -1
+39  phone  countless  0
+43  t-mobile  back-log  0
+54  t-mobile  good  1
+55  call  mega-static  0
+55  call  clear  1
+58  t-mobile  good  -1
+58  reception  exceptional  1
+59  service  expensive  -1
+59  service  okay  0
+64  phone  prepay  0
+64  service  able  0
+65  phone  complete  0
+66  game  revive  1
+67  phone  work  1
+68  phone  apparent  0
+70  phone  best  1
+70  phone  free  1
+71  menu  best  1
+72  color  other  0
+73  quality  downloadable  0
+73  quality  poly-graphic  0
+73  phone  personal  0
+73  phone  nifty  1
+74  radio  brisk  1
+74  radio  glad  1
+75  phone  flip  0
+79  game  heaviest  0
+80  call  few  0
+82  radio  frequent  0
+83  service  great  1
+85  phone  good  -1
+86  voice  higher  0
+86  voice  pitch  0
+86  voice  easy  1
+86  voice  easy  -1
+87  phone  subtle  0
+87  phone  hard  -1
+89  phone  teeny  0
+89  phone  hard  -1
+89  phone  big  1
+93  phone  favorite  1
+94  battery  great  1
+94  battery  perfect  1
+95  option  faceplate  0
+98  color  nice  1
+100  radio  awsome  1
+102  t-mobile  good  1
+108  phone  great  1
+109  phone  nice  1
+111  plan  easy  1
+111  headset  break  -1
+111  headset  die  -1
+112  game  much  0
+117  phone  unchangeable  0
+118  phone  online  0
+118  phone  same  0
+120  phone  half  0
+122  phone  positive  1
+122  quality  good  1
+122  quality  sound  0
+122  phone  excellent  1
+123  quality  negative  -1
+123  quality  tiny  0
+123  quality  difficult  -1
+123  quality  visible  0
+126  phone  great  1
+126  reception  great  1
+129  phone  biggest  0
+129  phone  excellent  1
+129  phone  work  1
+129  reception  superb  1
+137  phone  cool  1
+137  phone  useful  1
+139  game  big  0
+140  call  other  0
+144  phone  few  1
+145  reception  decent  -1
+145  radio  good  -1
+145  radio  normal  0
+147  phone  beneficial  1
+147  phone  least  0
+147  phone  few  1
+147  phone  few  1
+149  t-mobile  only  0
+149  t-mobile  small  0
+150  phone  south  0
+150  phone  full  0
+152  stuff  other  0
+153  phone  international  0
+154  phone  good  1
+154  phone  typical  0
+154  phone  american  0
+155  t-mobile  rare  0
+155  t-mobile  locate  0
+155  t-mobile  many  0
+156  phone  big  1
+156  phone  european  1
+156  phone  stress  1
+157  service  able  0
+158  stuff  extend  0
+159  phone  international  0
+161  phone  small  1
+161  phone  light  1
+162  quality  many  0
+164  phone  surreal  1
+166  battery  single  0
+167  battery  amaze  1
+167  phone  small  1
+167  phone  light  1
+168  phone  many  1
+168  phone  other  -1
+168  phone  beneficial  1
+169  phone  few  1
+169  phone  minor  1
+169  internet  high  -1
+169  internet  lack  -1
+171  phone  perfect  1
+171  phone  such  0
+171  phone  small  1
+171  phone  appeal  1
+176  voice  excellent  1
+176  voice  polyphonic  0
+176  voice  nice  1
+176  radio  nice  1
+177  phone  loud  -1
+177  phone  clear  1
+177  phone  nice  1
+177  phone  extra  0
+180  music  crazy  -1
+180  voice  annoy  -1
+180  voice  close  0
+180  voice  regular  0
+181  screen  scratch  -1
+182  game  additional  0
+184  phone  nice  1
+184  phone  little  0
+184  phone  light  1
+184  phone  compact  1
+192  phone  nokium  0
+192  phone  little  0
+192  phone  short  0
+192  phone  outstand  0
+192  phone  wireless  0
+193  quality  sound  0
+193  quality  top-notch  1
+194  service  unaccustome  0
+194  service  t-mobile  0
+196  stuff  able  0
+196  phone  other  -1
+198  phone  confuse  -1
+198  phone  many  1
+198  phone  key  0
+200  screen  bright  1
+200  screen  easy  1
+200  color  nice  1
+201  phone  nice  1
+201  phone  other  -1
+203  screen  whole  0
+206  option  silent  1
+208  phone  good  1
+209  headset  other  -1
+209  headset  voice-activate  -1
+209  headset  miss  -1
+215  radio  outstand  0
+216  quality  excellent  1
+216  quality  sound  0
+217  screen  bright  1
+217  screen  visible  0
+219  battery  long-last  0
+223  option  caller-id  0
+223  ringtone  individualize  0
+224  headset  proprietary  1
+227  stuff  junky  -1
+227  stuff  mad  -1
+227  stuff  happy  1
+234  phone  best  1
+236  game  work  1
+237  quality  please  0
+239  phone  light  1
+240  screen  bright  1
+240  voice  unlimit  0
+241  radio  cool  1
+242  phone  most  0
+244  phone  best  1
+244  phone  best  1
+244  phone  mobile  0
+245  phone  best  1
+246  phone  much  0
+246  phone  present  0
+246  phone  nokium  0
+247  phone  best  1
+250  phone  user-friendly  1
+250  phone  easy  1
+250  menu  convenient  1
+251  option  other  0
+253  radio  lie  -1
+254  stuff  polyphonic  0
+254  music  sweet  1
+258  phone  cool  1
+259  phone  other  -1
+265  screen  good  1
+268  menu  super  1
+268  menu  easy  1
+268  nokia  previous  0
+269  battery  good  1
+272  call  hard  -1
+273  phone  expensive  -1
+275  nokia  free  1
+276  phone  better  1
+276  phone  average  0
+277  nokia  big  0
+278  phone  last  1
+278  phone  samsung  0
+278  phone  superior  1
+278  phone  cheaper  1
+279  phone  other  -1
+279  phone  t-mobile  0
+280  quality  sound  0
+281  quality  important  1
+281  quality  sound  0
+282  quality  good  1
+282  quality  sound  0
+283  quality  sound  0
+283  phone  better  1
+284  phone  loud  -1
+284  phone  great  1
+284  color  next  0
+286  phone  small  1
+287  phone  smallest  0
+289  phone  flip  0
+289  phone  better  1
+291  menu  easy  1
+291  menu  certain  0
+292  phone  samsung  0
+292  phone  certain  0
+292  phone  directional  0
+292  phone  leave  0
+292  phone  directional  0
+294  phone  easier  1
+294  phone  other  -1
+297  phone  last  1
+298  battery  horrible  -1
+298  battery  longer  0
+301  camera  digital  0
+301  camera  nice  1
+304  radio  useless  -1
+305  application  useless  -1
+305  application  useful  1
+306  color  beautiful  1
+306  color  big  0
+306  color  much  0
+307  screen  polymorphic  1
+307  internet  ready  1
+308  music  different  -1
+308  phone  other  -1
+308  voice  best  1
+309  phone  infrare  0
+312  phone  better  1
+312  phone  average  0
+313  phone  more  0
+314  phone  samsung  0
+314  phone  like  1
+315  camera  good  1
+315  camera  flip  0
+315  phone  next  0
+316  phone  likely  0
+317  phone  free  1
+317  phone  new  1
+317  phone  t-mobile  0
+317  stuff  cheap  -1
+317  stuff  other  0
+317  phone  international  0
+318  phone  perfect  1
+319  phone  best  1
+323  phone  awesome  1
+324  reception  great  1
+324  application  awesome  1
+326  ringtone  free  1
+326  ringtone  midi  0
+326  ringtone  free  1
+326  game  own  0
+327  quality  sound  0
+327  quality  great  1
+327  quality  quiet  1
+327  phone  loud  -1
+327  phone  only  0
+328  nokia  great  1
+329  phone  slick  1
+329  phone  happy  1
+330  game  nice  1
+330  game  small  0
+330  game  excellent  1
+332  phone  coolest  1
+333  radio  cool  1
+334  phone  first  1
+334  phone  next  0
+334  music  favorite  1
+334  phone  light  1
+334  phone  comfy  1
+335  application  wise  1
+335  application  awesome  1
+335  application  great  1
+338  plan  live  0
+338  plan  other  0
+340  phone  happy  1
+343  phone  ultimate  0
+343  phone  basic  0
+343  phone  comaptible  0
+345  phone  specific  0
+345  phone  great  1
+347  phone  good  1
+347  phone  mobile  0
+348  phone  great  1
+349  phone  great  1
+349  phone  little  0
+349  phone  nice  1
+349  screen  beautiful  1
+349  screen  great  1
+349  screen  tiny  0
+350  phone  few  1
+350  phone  most  0
+351  phone  win  1
+356  stuff  right  1
+356  stuff  quieter  1
+356  stuff  shock  -1
+357  stuff  like  1
+357  stuff  recommend  1
+357  stuff  annoy  -1
+361  service  least  0
+361  service  dissatisify  0
+361  t-mobile  refresh  1
+362  phone  past  0
+362  phone  flip  0
+363  phone  first  1
+363  phone  nonflip  1
+363  phone  glad  1
+364  call  loud  -1
+364  call  clear  1
+366  phone  small  1
+366  phone  light  1
+366  phone  attractive  1
+367  battery  amaze  1
+368  ringtone  polyphonic  0
+373  quality  nokium  0
+373  quality  sound  0
+373  phone  great  1
+373  option  cool  1
+373  phone  older  0
+374  voice  constant  0
+374  voice  high-pitch  0
+374  voice  distort  1
+374  voice  loud  -1
+377  phone  ultimate  0
+377  phone  mobile  0
+378  phone  nokium  0
+379  phone  great  1
+379  phone  wonderful  1
+381  phone  light  1
+381  phone  little  0
+381  phone  less  0
+381  battery  long  0
+381  battery  long  0
+381  application  new  0
+383  phone  hands-free  0
+383  phone  powerful  1
+385  headset  sleek  1
+385  headset  powerful  1
+386  radio  excellent  1
+386  radio  public  0
+388  nokia  superb  1
+388  phone  infrare  0
+389  phone  small  1
+391  stuff  more  0
+391  stuff  more  0
+394  camera  built-in  0
+394  stuff  more  0
+395  camera  good  1
+395  camera  digital  0
+395  phone  mobile  0
+396  camera  keen  1
+400  phone  awesome  1
+404  phone  perfect  -1
+404  phone  small  1
+404  phone  large  0
+404  phone  high-tech  0
+406  nokia  true  1
+406  phone  simple  1
+406  quality  delicate  1
+406  quality  little  0
+406  nokia  durable  1
+406  nokia  other  0
+407  phone  user-friendly  1
+407  phone  excellent  1
+408  headset  optional  0
+410  phone  convenient  1
+410  phone  1-touch  0
+411  quality  decent  1
+411  quality  on/off  0
+411  quality  small  0
+411  quality  difficult  -1
+412  battery  good  1
+413  phone  worst  -1
+413  phone  side-mount  0
+414  phone  significant  1
+414  phone  scary  -1
+414  phone  small  1
+415  headset  other  -1
+415  nokia  unique  0
+415  headset  work  -1
+416  phone  best  1
+420  phone  awesome  1
+420  phone  great  1
+421  t-mobile  happier  -1
+421  t-mobile  cingular  0
+425  t-mobile  current  0
+425  plan  little  0
+426  phone  sick  -1
+426  phone  old  0
+426  phone  right  1
+428  phone  better  1
+429  battery  great  1
+429  radio  excellent  1
+429  phone  free  1
+429  phone  favorite  1
+429  phone  downloadable  0
+430  phone  available  -1
+433  phone  lack  -1
+433  phone  important  1
+434  phone  great  1
+436  plan  great  1
+437  phone  nokium  0
+438  phone  small  1
+438  option  great  1
+438  phone  corporate  0
+439  phone  possible  0
+439  phone  corporate  0
+440  radio  corporate  0
+440  phone  corporate  0
+441  t-mobile  unlimit  0
+441  internet  unlimit  0
+445  phone  great  1
+446  phone  excellent  1
+447  phone  excellent  1
+447  phone  better  1
+449  ringtone  more  0
+449  phone  horrible  -1
+450  phone  excellent  1
+451  t-mobile  good  1
+454  phone  great  1
+454  phone  easy  1
+454  radio  excellent  -1
+458  internet  organizational  1
+458  phone  bulky  1
+458  phone  unhappy  -1
+461  service  great  1
+461  quality  high  0
+461  t-mobile  great  1
+463  phone  best  1
+463  phone  annoy  -1
+463  phone  flip  0
+466  phone  great  1
+466  phone  please  0
+468  phone  better  1
+470  quality  sound  0
+470  quality  excellent  1
+470  quality  quiet  1
+470  quality  quieter  1
+470  quality  other  0
+471  headset  comfortable  1
+471  headset  easy  1
+472  phone  more  0
+472  phone  please  0
+474  phone  best  1
+474  phone  best  1
+474  phone  cheap  -1
+474  phone  free  1
+476  quality  superb  1
+476  quality  sound  0
+477  phone  such  0
+480  phone  better  1
+480  phone  nokium  0
+480  phone  cheap  -1
+483  battery  better  1
+483  phone  most  0
+485  quality  small  0
+486  ringtone  regular  0
+486  ringtone  able  0
+487  reception  best  -1
+487  phone  amaze  1
+487  phone  such  0
+487  phone  nokium  0
+487  plan  cheap  -1
+487  plan  other  0
+489  phone  great  1
+489  phone  whole  0
+489  quality  good  1
+490  phone  great  1
+490  phone  few  1
+494  phone  aware  0
+494  phone  many  1
+495  option  extra  0
+495  internet  unlimit  0
+497  phone  great  1
+499  phone  entire  0
+500  internet  only  0
+500  service  real  0
+501  option  great  1
+505  stuff  many  0
+505  phone  free  1
+512  voice  only  0
+514  phone  large  0
+514  phone  small  1
+514  phone  smaller  0
+516  game  entertain  1
+516  phone  disturb  -1
+518  game  good  1
+519  battery  good  1
+520  phone  only  0
+521  screen  great  1
+521  voice  great  1
+524  quality  good  1
+524  reception  great  1
+524  stuff  t-mobile  0
+524  stuff  good  -1
+525  phone  shine  1
+525  phone  bright  1
+525  phone  responsive  1
+527  phone  unnecessary  -1
+529  nokia  fair  1
+529  nokia  same  0
+529  nokia  many  0
+529  nokia  korean  0
+529  quality  light  0
+530  phone  other  -1
+530  phone  perfect  1
+532  radio  sporadic  -1
+532  radio  overload  0
+532  radio  unpleasant  -1
+533  phone  cingular  0
+533  phone  other  -1
+534  phone  great  1
+534  service  great  -1
+535  phone  new  1
+535  phone  great  1
+539  phone  hangs-up  0
+540  phone  previous  0
+540  phone  other  -1
+541  phone  first  1
+541  screen  good  1
+542  color  good  1
+542  color  bright  1
+542  color  changeable  0
+543  color  several  0
+546  ringtone  awesome  1
+546  ringtone  polyphonic  0
+549  voice  special  0
+549  voice  special  0
+550  phone  massive  0
+550  phone  multiple  0
+551  game  ear-peice  0
+551  internet  high-speed  0
+552  t-zone  slow  -1
+552  t-zone  instant  0
+552  t-zone  other  0
+552  application  useful  1
+554  service  other  0
+556  phone  compatible  1
+558  service  t-mobile  0
+559  phone  good  -1
+562  phone  brief  0
+562  phone  cheerful  1
+565  plan  good  1
+565  plan  least  0
+566  t-mobile  different  0
+566  t-mobile  different  0
+569  phone  good  1
+570  phone  great  1
+570  phone  clear  1
+571  menu  complicate  0
+571  menu  accessible  1
+571  quality  great  1
+572  phone  huge  0
+572  phone  t-mobile  0
+572  menu  many  0
+574  phone  rid  0
+574  phone  most  0
+574  phone  italian  0
+574  phone  german  0
+575  radio  different  0
+576  stuff  local  0
+576  internet  local  0
+578  phone  bottom  0
+578  phone  tri-band  0
+579  phone  manufacturer-unlock  0
+580  phone  good  1
+581  phone  good  1
+581  phone  huge  0
+582  phone  last  1
+584  color  sleek  1
+584  screen  good  1
+585  radio  light  1
+585  radio  good  1
+586  quality  main  0
+586  quality  sound  0
+587  phone  good  -1
+587  phone  samsung  0
+588  voice  clear  -1
+591  quality  bid  0
+591  quality  audio  0
+591  phone  defective  -1
+594  phone  nicest  1
+596  game  cool  1
+596  ringtone  midi  0
+596  ringtone  free  1
+j:  398
+i:  682
+BUILD SUCCESSFUL (total time: 3 minutes 16 seconds)

@@ -1,0 +1,187 @@
+run:
+Reading POS tagger model from E:\Disertation\APIs\stanford-postagger-full-2014-01-04\models\english-left3words-distsim.tagger ... done [1.9 sec].
+wrong: permenant  corrected: permanent
+wrong: thru  corrected: through
+wrong: teh  corrected: the
+Total correction: 3
+Total correction: 0
+Total review: 0
+Total review: 51
+Most Important Features: 
+1 : wood=2.3956878
+2 : bit=6.4772186
+3 : price=2.56944
+4 : tool=3.2533956
+5 : hand=2.3143377
+6 : hitachi=3.393891
+7 : table=4.591735
+8 : start=5.3902974
+9 : router=14.573767
+10 : money=1.4862022
+11 : machine=3.393891
+rev: 0
+Cluster Count: 
+12
+11
+6
+6
+4
+3
+3
+2
+1
+1
+1
+router	 :3.75 Stars
+router with a count 12
+1  This is an excellent router for the price.
+2  The Hitachi is a great router for a great price, but only get it if you need the maximum power, variable speed and use it in a table.
+3  This router does GREAT in hand held jobs and Router Tables.
+4  If you think you are saving $40 getting the Hitachi, you are right, and you are also getting a router worth $40 less than a Makita.
+5  Other than this, I am very pleased with the router and would buy it again.
+6  I must have gotten a good one.
+7  Other than that, i think it is the best router for the money.
+8  It is a great router for a table and with the depth adjustment knob it is easy to adjust depth prescisely.
+9  I have a mid-size plunge router already, (the DeWalt 621-a fantastic router, read the MANY reviews) and needed a heavy duty machine for my table.
+10  This is an excellent router for the money.
+11  So for the money it costs for one of those top-of-the-line models I've got a good router & a nice table to put it in & I like that.
+12  If the plunging action isn't that important, then this is a great router.
+start	 :5.0 Stars
+start with a count 11
+1  The soft start is a tremendous help for this type of operation.
+2  The soft start is nice.
+3  This router has soft start and runs smooth and true.
+4  Both the on/off switch (soft start) and the depth lock are within easy reach of the right hand.
+5  I bought this router a couple of months ago from Amazon and have used it a fair amount in that time.
+6  Nice things about the M12V: - in a table, the powerful 3 1/4 HP motor is great - soft start helps a lot to control the beast when you turn the router on - continuously variable speed control - Amazon's price
+7  Luckily, the only significant handheld use I had to put it to was to plunge cut the melamine board that I dropped my Woodpeckers PlungeLIFT table insert into.
+8  Luckily the soft start helped before it took the wood and tossed it or worse case, a finger.
+hand	 :5.0 Stars
+hand with a count 6
+1  The Hitachi, on the other hand has a beautiful large flat edge to run against a guide, and the sub-base is recessed so as not to interfere.
+2  I find that it is stable in my hands and its' weight actually contributes to that stability.
+3  The plunge lock and power switch are very easily accessible which is a must when doing free hand routing.
+4  Very good balance in the hands and lighter than most 3 1/4 hp models.
+5  It felt rather stable in my hands (heavy though.)
+6  Both the on/off switch (soft start) and the depth lock are within easy reach of the right hand.
+tool	 :4.285714 Stars
+tool with a count 6
+1  This is a well-made and powerful tool.
+2  This is a fantastic tool to use.
+3  It's very quiet for a universal motor-driven tool, and the height adjustment stick and variable speed control are great.
+4  For me, it is as important that the tool be comfortable to use as it is that it produce a high-quality result.
+price	 :5.0 Stars
+price with a count 4
+1  Overall it is a great value.
+2  The Hitachi is a great router for a great price, but only get it if you need the maximum power, variable speed and use it in a table.
+3  Combine this with the excellent price we got in the Gold Box, and I'm really happy.
+4  The price is incredible with the bonus pack and Hitachi's $25 incentive ( you need the code ---go to Toolseeker.com and it tells you)
+bit	 :2.5 Stars
+bit with a count 3
+1  I purchased this router at a woodworking show after watching the CMT people using it to demo their bits and was impressed how it performed.
+2  Also stuck a couple of o-rings in the collet like a previous reviewer suggested & have never had a stuck bit.
+3  It is very easy to change bits without removing the router from the table and the shaft lock works great.
+machine	 :3.75 Stars
+machine with a count 3
+1  It is a heavy but well-balanced machine, which is an asset when maximum stability is desired.
+2  But, for the money it is a good machine.
+3  When the router is working it is a very nice machine for the money.
+table	 :5.0 Stars
+table with a count 2
+1  So for the money it costs for one of those top-of-the-line models I've got a good router & a nice table to put it in & I like that.
+2  Bottom line: Highly recommended, but best when used in a table.
+money	 :5.0 Stars
+money with a count 1
+1  For the money, I'm not sure you can do better.
+wood	 :2.5 Stars
+wood with a count 1
+1  The wood can be pushed through fast or slow with little bog.
+hitachi	 :5.0 Stars
+hitachi with a count 1
+1  I would put the Hitachi up with the best!
+OverAll Rating is : 4.253247 Out of 5 Stars
+Negative summery is: 
+1  The fine adustment knob which came with the router was very difficult to use on a router table.
+
+2  I was skeptical about this router due to low price but have been totally impressed using it.
+
+3  It is no more heavy than any other powerful router and not as bad as some Porter Cable models I tried.
+
+4  However, it is much bigger, bulkier, and heavier than my other router and I would not like to use it freehand (I keep it mounted in a table).
+
+1  The one wrench systems makes changing bits somewhat difficult.
+
+2  The height adjustment knob is a bit flimsy, but it works well and provides good accuracy.
+
+3  Not so nice things: - a bit too much weight and power for easy handheld use - spindle lock makes for awkward bit changing (outside of a table) - the 1/4" chuck sleeve requires MUCH tightening to keep bits from slipping
+
+1  I recently had to run a 3/4" straight bit through hard maple to make a deep dado and was amazed that this machine didn't even slow down.
+
+1  Less than a cheap cordless drill or a laminate trimmer.
+
+1  It is a heavy but well-balanced machine, which is an asset when maximum stability is desired.
+
+FINAL RESULT: 
+J: 0  0  bit  impressed  1
+J: 1  9  router  fantastic  1
+J: 2  14  router  bulkier  -1
+J: 3  16  router  great  1
+J: 4  16  price  great  1
+J: 5  21  router  worth  1
+J: 6  25  bit  stuck  1
+J: 7  27  router  good  1
+J: 8  27  table  nice  1
+J: 9  31  start  significant  1
+J: 10  44  start  soft  1
+J: 11  45  bit  awkward  -1
+J: 12  46  table  best  1
+J: 13  49  start  soft  1
+J: 14  50  machine  heavy  -1
+J: 15  50  machine  well-balanced  1
+J: 16  55  bit  flimsy  -1
+J: 17  62  start  fair  1
+J: 18  67  hand  free  1
+J: 19  78  router  excellent  1
+J: 20  82  router  best  1
+J: 21  83  router  good  1
+J: 22  88  hitachi  best  1
+J: 23  92  router  great  1
+J: 24  94  bit  easy  1
+J: 25  95  hand  lighter  1
+J: 26  96  start  soft  1
+J: 27  96  start  nice  1
+J: 28  97  price  incredible  1
+J: 29  99  tool  cheap  -1
+J: 30  107  start  soft  1
+J: 31  107  start  easy  1
+J: 32  107  hand  right  1
+J: 33  108  router  powerful  -1
+J: 34  121  tool  important  1
+J: 35  121  tool  comfortable  1
+J: 36  139  price  excellent  1
+J: 37  159  hand  stable  1
+J: 38  164  router  great  1
+J: 39  167  money  better  1
+J: 40  168  tool  quiet  1
+J: 41  190  router  great  1
+J: 42  198  start  soft  1
+J: 43  198  start  smooth  1
+J: 44  204  router  excellent  1
+J: 45  207  tool  well-made  1
+J: 46  207  tool  powerful  1
+J: 47  217  wood  fast  1
+J: 48  227  hand  stable  1
+J: 49  230  router  skeptical  -1
+J: 50  233  hand  beautiful  1
+J: 51  241  wood  hard  -1
+J: 52  263  router  pleased  1
+J: 53  272  router  difficult  -1
+J: 54  275  bit  difficult  -1
+J: 55  289  price  great  1
+J: 56  291  tool  fantastic  1
+J: 57  300  machine  nice  1
+J: 58  303  start  soft  1
+J: 59  308  machine  good  1
+j:  60
+i:  117
+BUILD SUCCESSFUL (total time: 2 minutes 5 seconds)

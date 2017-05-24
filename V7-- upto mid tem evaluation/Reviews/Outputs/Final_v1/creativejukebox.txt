@@ -1,0 +1,755 @@
+run:
+Reading POS tagger model from E:\Disertation\APIs\stanford-postagger-full-2014-01-04\models\english-left3words-distsim.tagger ... done [1.4 sec].
+Total correction: 0
+Total correction: 0
+Total review: 125
+Total review: 51
+Most Important Features: 
+1 : computer=2.8263216
+2 : battery=1.1036136
+3 : zen=1.6064754
+4 : player=6.364114
+5 : software=3.4594913
+6 : cd=2.0389879
+7 : playlist=1.3284315
+8 : ipod=4.7267447
+9 : price=1.706499
+10 : nomad=1.5446877
+11 : song=5.437301
+12 : track=1.0503877
+13 : unit=1.2198462
+14 : file=1.0424358
+15 : title=1.0194939
+16 : genre=1.2975378
+rev: 123
+Cluster Count: 
+55
+37
+28
+24
+22
+21
+15
+15
+10
+9
+8
+6
+4
+4
+2
+1
+player	 :4.1666665 Stars
+player with a count 55
+1  the player feels very delicate , as if i 'm holding an actual hard drive .
+2  the player is intuitive and outputs great sound quality .
+3  i have n't messed with the firmware at all , the player worked perfect for me right out of the box .
+4  not only is it more affordable , but its a better player for windows , which is what i have .
+5  i must have differing preferences than others here , as i prefer the supplied earbuds to the sony 's that i thought sounded good on other players .
+6  as a portable player , it should feel a bit more durable .
+7  after about 45 mins of listening there was audible static in the player .
+8  this thing seriously is a good player though .
+9  now as others said , so far this player is an awesome player , there are flaws .
+10  [t] good player , but this technology is not yet great .
+11  - you just have to buy a new player .
+12  all in all this a great player that blows the i-pod away , with easy to use and understand features , software that is simple to understand and use , and a great sound ( which is all that matters in a mp3 player ) .
+13  i bought myself an rca mp3-cd player , and i 'm happy with that until a cheap , worthwhile mp3 player coomes out .
+14  the creative labs zen xtra has all the features the i-pod has and if you get if from amazon your only going to pay $ 300 for this great player .
+15  [t] great player .
+16  i 've had it for about 2 weeks and it 's the best player i 've seen , and used , ever .
+17  otherwise , this player is awesome !
+18  because other people that complain about this player are talking bull , this player is awesome , it just breaks fast , which is horrible .
+19  this is an excellent player , especially for the price , with features that are comparable to and even excel the ipod .
+20  can 't complain and i recommend it over all the other players , just hope that remote will come out soon .
+21  buyer beware ! sort your songs and adjust the titles accordingly ( maybe this applies to other players too , and not just the nomad , i do n't know ) .
+22  overall , this player is awesome and i definitely recommend it .
+23  [t] good player , bad software .
+24  and with usb 2.0 , transferring music to your player is incredibly easy .
+25  much cheaper than i-pod good looking player ( beautiful blue back-lit screen ) if you 've read about the player , some have complained about the lack of a viewing hole for the face when the case is on , but this is good because the face does n't get damaged / scratched fast transfer rate
+26  [t] a great player for the price .
+27  all the buttons & necessary lil ' gadgets are on the sides of the player which is nice for when you are holding it in the palm of your hand .
+28  this is my fourth mp3 player ( creative nomad jukebox2 and 3 , rio chie , and this one ) , and my third player from creative .
+29  the combination of the price , storage size , and player features makes this player the best on the market .
+30  a good player at a great price with terrible software that makes ripping and transferring way more difficult than it should be .
+31  i refused to go for an ipod , i am not going to spend all that money just for the apple name and because it is " trendy " to have that player .
+32  songs are recognized automatically by id3 tags , which at first i was against since i had organized my files by folder with a previous player from iriver .
+33  m3u files are used by most mp3 players like musicmatch and winamp , but not creative - without notmad you need to manually recreate your playlists ) ; it does n't care what software you use to rip or catalog your music - creative or any other company - all my 12.5 gb of music were transferred to the zen with correct tags - hooray !
+34  i guess that 's why you so often see " ipodders " bashing every other player out there ( very often not knowing anything about them the whole " i spent $ 120 more for something not any better and so should you ... so i can feel better " thing .
+35  the player is fast and sounds great , it also has many options like slowing or speeding up the music , or making it sound like you 're hearing the music in a huge auditorium .
+36  i have no problem using the player itself and i feel it is a very good player .
+37  [t] a great player , excellent sound quality , hovewer , has flaws .
+38  i really do recommend this to anyone in need of a new player .
+39  first , the cons ... a tad bulky ... not the most aesthetic looking player ... and does n't support a folder structure .
+40  on the positive side , the sound of the player is pretty good , once you have everything configured .
+41  at the end of the day , what i wanted was a large-capacity player which allows me to easily play any album from my collection wherever i go , and the zen xtra 's combination of price , capacity and features easily meets those criteria .
+42  2 . most mp3 players have a gap between the end of one track and the start of the next ; it 's annoying in music that is intended to be continuous .
+43  also navigating while playing music is a plus unlike my previous player .
+44  [t] great player .
+45  however , it does n't register instantly as a hard drive like other players .
+46  in short , this player is good at size , value , hardware design but really bad at its software
+47  this would have been much easier .
+song	 :4.3023257 Stars
+song with a count 37
+1  the eax mode that keeps the volume at the same level for any song will come in handy when i take my holiday plane rides .
+2  the environmental audio , however , is almost completely useless and has made most of my songs sound worse than without it ( i encode my songs at 192-256 kbps without variable bit rates . )
+3  you can also search for your song , which is good .
+4  so i do n't know what the previous review that could n't do more than 30 songs is talking about .
+5  in two transfer batches ( first was english songs , then foreign languages ) , it did n't come up with any errors ( aside the duplicate name i mentioned ).
+6  this is especially useful for those who listen mostly to pop music and store all those short ditties .
+7  this is great as long as all of your music have id3 tags , and if you 've downloaded your songs off the internet , many probably do n't .
+8  i 've got 1200 songs on it now and about 4000 more to go .
+9  and it holds sooooo much music and audio files .
+10  over time , i loaded hundreds of cds onto the computer , and the idea of carrying around all of my music with me became attractive .
+11  i could n't load more than one song before the software crashed .
+12  the cons are n't really a big deal to me ... except one con that does annoy me is the way it stores files ... no folder structure ... and it 's based on the title of the songs ... many of my songs where separated into folders ( on the pc ) ... and a few had same titles ... so i had to change the titles to make sure that i did n't have any that might be the same as another .
+13  the music is easy to get to ( all of the menus are easy to understand despite what a lot of i-pod owners say ) and if you know how to search for an artist by name online , then you can do the same with the zen .
+14  at this time , i decided to turn the player on , and much to my surprise it comes with quite the little library of classical music , one of which is a childhood favorite , bach 's air .
+15  you can easily access ur files , and easily fill in the id3 tags , which can take a while with a big collection of music , but if your not lazy , you will do it without a problem .
+16  and man ... i had to work to put my chinese songs on the player ... because i had the actual chinese names of the songs as the title ..
+17  i am averaging 4.5 mb per song , to give you an idea of how many songs you can get by the amount of memory .
+18  if the hard drive on your computer should fail , better have your music backed up somewhere or its gone !
+19  finally the software used to put all the songs into it is vastly inferior to itunes on two levels , first it is poorly integrated into the overall player and clunky to use especially with tagging and second the wma audio format sucks , flat out sucks in terms of sound quality compared with the vastly superior aac format the apple ipod uses and it sticks you with one of the sub par paid music services such as napster instead of allowing to use the itunes store , which , if you ever plan to pay for your music , is by far the best .
+20  well , maybe that particular song was just corrupt , so i tried to upload some of my own , after four attempts , at each one the unit locked up and required a reboot , i managed to upload an album , which albeit was surprisingly fast , however when attempting to create a playlist out of my newly uploaded songs , the nomad again froze up and refused to work .
+21  left it set on my desk came back five minutes later and it just wanted to keep playing the same song over and over .
+22  for me the sound of the music is what is important .
+23  with the nomad explorer software , songs should be drag-and-drop .
+24  - uploading music is quick and easy .
+25  m3u files are used by most mp3 players like musicmatch and winamp , but not creative - without notmad you need to manually recreate your playlists ) ; it does n't care what software you use to rip or catalog your music - creative or any other company - all my 12.5 gb of music were transferred to the zen with correct tags - hooray !
+26  it 's a dedicated music playing device , anyway , so this serves it better .
+27  having access to so much music where ever you go is terrific .
+28  this is rarely a problem with any kind of popular music , but can be troublesome with classical music where tracks are identified by tempi .
+29  it was n't as easy to fast forward or pause a song than it was with a regular walkman .
+30  you can also slow a song down & speed it up , which is cool too .
+31  i also had it happen when recording a jazz set where there were a number of outtakes of the same song without numbering them separately .
+32  it 's easy enough to pop it open to see what song you 're listening to .
+33  finding a particular song ( s ) or album on the nomad jukebox is fast and easy .
+software	 :3.043478 Stars
+software with a count 28
+1  the software is somewhat nice to look at , using it is not the easiest .
+2  software is easy to use ( although redhat software is better , but costs money )
+3  however , the creative software is not real intuitive .
+4  a lot of people complain about the creative software , but i actually find creative mediasource organizer to have some strengths over itunes .
+5  creative software stinks .
+6  i have windows xp pro and when installing the enclosed software i did receive a message that there was a problem installing the driver .
+7  -- > you 'll be changing track information a lot because the cd database information utilized by the software is mediocre at best .
+8  - included creative software is pretty poor .
+9  the player 's software is very easy to use and very good .
+10  the software is quick & easy to use & i found the entire process very easily mastered .
+11  great sound ; good interface ; replaceable , powerful battery ; good software ; wake-up , sleep timers ; multiple play modes
+12  the only creative software i am using is the device driver ( s ).
+13  the software is great .
+14  the software runs smooth , it 's nice to look at , it 's very organized , easy to follow and makes things very simple .
+15  when i bought it late last year , there were enough reviews that i knew the navigation wheel and software would be less than ideal , but it sounded like a fair tradeoff .
+16  transferring is easy , the software makes everythig pretty easy .
+17  the software was great , as long as you have an administrative user account ( windows xp ) .
+18  redchair software makes nice software that allows you to do everything you would want to and more !
+19  i dont know what other people are saying , but the software is awesome .
+20  i thought the software was decent enough - it was n't complicated to learn at all .
+21  the creative software is awkward / difficult to use and just plain does n't load on some computers .
+22  third , creative software allows you to keep two windows open to look at both the content on the player and the computer .
+23  the software is very easy to use , and within 30 minutes of opening my box , i was out and about listening to any one of my 80 cds .
+24  creative is talking about updating it via firmware , however after following some while the descussion groups for nomad players , looks like creative represents mostly bug fixes in their firmware updates , not too much of new features .
+ipod	 :3.8709676 Stars
+ipod with a count 24
+1  other plusses : changable battery , loads of presets for environments , decent construction , still quite small and light despite being slightly bigger than an ipod .
+2  the price compared to the ipod is great .
+3  like it 's predecessor , the quickly revised nx , this player boasts a decent size and weight , a relatively-intuitive navigational system that categorizes based on id3 tags , and excellent sound ( widely known to be better than ipod - not surprising considering the number of years creative has been in the audio peripheral business ) .
+4  its far more difficult to select songs and has no easy to use on the fly playlist creation such as the new ipod not to mention it does n't sinc with contact lists , phone numbers , address books , ect. like the ipod ( which eliminated my need for any kind of palm device ) .
+5  sure , it 's a little bigger than the ipod , but not by much .
+6  it is small overall , bigger than the ipod , but keep in mind that this is because different , less expensive but not necessarily inferior technology is used in the zx .
+7  yes the ipod is smaller , but not $ 200 worth , which is the premium you 'll pay for an equivalent capacity model .
+8  im taking mine back tomorrow morning , and getting a nice shiny new ipod instead .
+9  granted this is cheaper than an ipod .
+10  the only thing i would complain about the zen xtra is that the controls are n't as easy as the ipod 's , or as " sexy " looking .
+11  [t] excellent .
+12  at 8 ounces it is pretty light but not as light as the ipod .
+13  apple 's solution - pay apple another $ 400 + for a new ipod ( less a paltry discount ) .
+14  way less expensive than the ipod .
+15  i bought an ipod and am very happy with it .
+16  the sound is excellent , the battery life is excellent , the fact that the battery is replacable is excellent , and finally the price , $ 200 cheaper than the 40gb ipod , is excellent .
+17  the zen nx is $ 100 cheaper than the ipod of the same size , so you have to wonder just how much apple 's markup is anyway !
+18  the ipod uses a smaller ( and more expensive ) drive ( 1.8 " ) .
+19  please consider this much superior piece of equipment before plopping down half a grand for an ipod .
+20  sure , this thing is definitely more cost-effective than an ipod .
+price	 :4.782609 Stars
+price with a count 22
+1  [t] good for the price .
+2  pros : huge storage capacity for the price , easy to navigate , can modify existing playlists on the fly , has a removable battery
+3  zennx hopefully will gain market share and prompt arrogant apple to lower prices and enable consumers to replace the battery .
+4  great price .
+5  ive seen em all , the archos , dell , ipods , everything ... good price and great sound makes this one the best in my opinion .
+6  a good player at a great price with terrible software that makes ripping and transferring way more difficult than it should be .
+7  - great value 40gb vs 10 gb ipod for the price
+8  bottom line ... great product , unbeatable price .
+9  [t] great value & great sound ;
+10  great sound , very long battery life ( i routinely play it for 12 + hours ) , very fast recharges rate , removable battery , storage size , nice screen , firmware updates , and great price .
+11  if you want a sexy , cool , accessory-availible mp3 player , by all means , get an ipod for a hundred dollars more ( or one for the same price that holds 1/3 of the music ) .
+12  for the price and features it is really good .
+13  the sound is excellent , the battery life is excellent , the fact that the battery is replacable is excellent , and finally the price , $ 200 cheaper than the 40gb ipod , is excellent .
+14  [t] terrific mp3 player , great price .
+15  try before you buy if at all possible : although i am a mac addict now for over a decade and everyone i know has previously bought an ipod , the nomad zen xtra was a far better value and is just as easy to use with regards to both hardware and software interface .
+16  [t] good value .
+17  my two main requirements were longer battery life and lower price : i found both .
+18  our special friends at creative gave this thing good sound quality , great features , long battery life , and an unbeatable price .
+19  lastly , the price is fantastic :
+20  do n't be pulled in by the great price -- you get what you pay for , and there 's a reason this model is so cheap .
+battery	 :3.5 Stars
+battery with a count 21
+1  everyone who says i can 't buy the ipod because after excessive use in a short time ( the man who made the ipod battery life video admitted that he had used it extensively every day and charged fully every night for those 18 months , conditions under which any rechargeable battery dies .
+2  1 ) a spare battery would have been great .
+3  other plusses : changable battery , loads of presets for environments , decent construction , still quite small and light despite being slightly bigger than an ipod .
+4  price , along with the replaceable battery ( which i understand apple charges a small fortune to replace - as well as the hassle of returning it ) were the two main factors on why i picked the nomad .
+5  i 'd like to see how well a small company supports its mp3 player in 2 years when its battery dies as all rechargeable do .
+6  5 ) the cheap , user-replaceable battery ( $ 50 from creative ) is a great advantage over the ipod 's battery which costs $ 100 to replace .
+7  choosing zennx is a no-brainer when factoring in the cost of a new $ 400 + ipod every few years versus the $ 50 cost of replacing zennx 's rechargeable battery .
+8  lithium ion rechargeable batteries are good for 300-500 rechargings , so battery lifespan will vary according to your usage .
+9  the battery is nice .
+10  the face-plate , which pops out for the battery , pops open by itself every 10 minutes or so .
+11  [t] replaceable battery lets zennx keep running and running .
+12  the battery is replaceable ( a real plus ) and there is a leather case ( another real plus ) .
+13  all rechargeable batteries lose their holding power over time ( around 2 years ) .
+14  zennx 's replaceable battery was the deciding factor in my purchase of zennx over ipod .
+15  great sound ; good interface ; replaceable , powerful battery ; good software ; wake-up , sleep timers ; multiple play modes
+16  the sound is excellent , the battery life is excellent , the fact that the battery is replacable is excellent , and finally the price , $ 200 cheaper than the 40gb ipod , is excellent .
+17  still , apple continues to squeeze dollars from consumers by not designing the battery to be replaceable .
+18  the sound quality is excellent ( and i 'm fussy with that stuff ) , the unit looks cool , screen is bright and easy to read , and the replaceable battery means a major advantage over the ipod ( besides the price , but everyone knows that ) .
+19  - the replacable battery is great since once it eventually wears out ( as all lithium batteries do ) , you will be able to buy another easily .
+20  creative also sells batteries via its website , so there 's no shipping off my player and waiting for it to be sent back to me with the new battery .
+title	 :4.4117646 Stars
+title with a count 15
+1  if you have two tracks with exactly the same name on one disk , it will not copy both -- it gives you the option of skipping the second or overwriting the first with the second .
+2  once you start sending files , it 'll continue until it 's done or it hits a song that has the same title as another song ... at which point you can skip , skip all , replace , replace all , or cancel .
+3  several people have complained of difficulty transferring multiple songs with the same title .
+4  the dynamic playlists ( " now playing " , i belive creative calls it ) feels very awkward at times and some menus simply take to long to get to and operate .. .
+5  the cons are n't really a big deal to me ... except one con that does annoy me is the way it stores files ... no folder structure ... and it 's based on the title of the songs ... many of my songs where separated into folders ( on the pc ) ... and a few had same titles ... so i had to change the titles to make sure that i did n't have any that might be the same as another .
+6  you are better off deleting it , re-ripping it with the new title and then transferring it to the player .
+7  and since the current language selection was english ( even though i think only the menu supports chinese , and not the track info ) ... all it saw were " ? " s and even though the songs had different names in chinese ..
+8  and man ... i had to work to put my chinese songs on the player ... because i had the actual chinese names of the songs as the title ..
+9  a somewhat more troublesome problem is that the internet site will sometimes give different discs of the same set slightly different names .
+computer	 :4.6875 Stars
+computer with a count 15
+1  accept that there will be better devices ( or new generations of these ones ) in a year or two that will cost less .
+2  i experimented with installing mediasource on 2 other computers at home and it worked fine .
+3  the included leather pouch is a big plus : it actually protects the unit well , something a lot of ' carrying cases ' fail to do with other audio devices .
+4  if you are ok paying $ x00 for something that can be used now , but is likely to both get better and cost less in the future then try to determine which device is the lesser of evils for you .
+5  when i first purchased the unit i downloaded the firmware update that was available on their website .
+6  [t] awesome .
+7  the front cover ( which you remove to take out the battery ) feels flimsy but when snapped on , the device still feels pretty solid .
+8  it seems that depending on the system the software might not work or might work , because it works on all the other computers i have .
+9  on my relatively new computer ( p4 with windows xp and usb 2.0 ) , the os complained about the installation of the drivers .
+10  that said , they are pretty sturdy machines and i would n't let this dissuade you from getting an mp3 with a lot of memory .
+11  after playing with this little device , i do n't know why i would look at an ipod with the same space when it costs $ 500 and i got mine for a little more than half that price !
+12  1 . i achieved my basic objective ; my entire cd collection is on a portable device with lots of room to store more .
+13  enough people have reported that their headphone jack does n't work after a month of using the device to believe that creative has some inbuilt manufacturing or quality control problem .
+14  11 ) minimal pause between songs - less than that on other devices - good achievement for a hard-drive based player
+zen	 :5.0 Stars
+zen with a count 10
+1  my brother bought an ipod this past summer and my dad bought the original zen around the same time ..
+2  the navigion on it can be a little quirky , but still operates better than the zen 's did .
+3  to summarize , i am using the creative zen as a mobile device ;
+4  so i took it back to best buy where i bought it and exchanged it for a newer zen 20 gig model .
+5  naturally i did quite a bit of review before purchasing ( i recommend www.nomadness.net ) , and price-wise zens are unbeatable .
+6  granted it is a little more than the zen , it is well worth it .
+7  if you read reviews for the 4 main contenders in this market - the ipod , creative zen , rio karma and iriver ihp - you 'll notice that each has their pros and cons ; none are perfect and you should decide whether you want to take to take the plunge now or later .
+8  the dial on the original zen was perfect and i wish it was on this model .
+nomad	 :5.0 Stars
+nomad with a count 9
+1  i have n't had time to really push this player to the limit , but audio aspects on the nomad are satisfactory , as should be expected from creative labs .
+2  i refuse to buy anything made by apple and the nomad is about $ 200 cheaper anyway .
+3  the nomad is not ugly , it is not that big , it comfortably fits in my pocket , or heavy , and the controls are not hard to get used to .
+4  transfer files is easy using notmad , however again , would be great if nomad supported folders like iriver , rca lyra and some other .
+5  i love my new nomad , its great !
+6  for some this might be a problem , but for the price of a 30 gig ipod , you can get a 60gb nomad , the ipod simply pales in comparison .
+7  [t] nomads are wonderful , but be carefull !
+8  i have found that the interface on the nomad is very easy to use if you have a basic knowledge of a computer .
+unit	 :3.6363637 Stars
+unit with a count 8
+1  the unit works great with my cassette adapter for my car & is also easily worked without taking your eyes off the road !
+2  overall it is a great unit & hopefully creative labs or some other vendor will soon come out with some accessories for it .
+3  - the unit is easy to use and intuitive .
+4  the sound quality is excellent ( and i 'm fussy with that stuff ) , the unit looks cool , screen is bright and easy to read , and the replaceable battery means a major advantage over the ipod ( besides the price , but everyone knows that ) .
+5  i have a large but not huge cd collection and have loaded everything i want to listen to on it and still have 13 gigabytes free .
+6  i have had this player for 2 weeks , i will be returning it for an exchange in the hopes that the locking problem and scroll wheel are problems with this particular unit .
+7  i did have some problems figuring out how to turn the unit on , but creative did a good job with this , as they had a clearly labelled " on " button that i found when i left my cellar for the first time in years .
+file	 :3.3333335 Stars
+file with a count 6
+1  i found it very useful for transferring large files to another computer .
+2  sound quality is amazing. i was expecting worse , but its really good ( especially if your files have good sound quality ) .
+3  then sorting the files is easy as pie .
+4  getting files onto it is quick and painless .
+playlist	 :3.3333335 Stars
+playlist with a count 4
+1  meaning i do n't have to manually clear the list , and then load the new list .
+2  the dynamic playlists ( " now playing " , i belive creative calls it ) feels very awkward at times and some menus simply take to long to get to and operate .. .
+3  it actually gives the option to clear the previous playlist when i want to play another list .
+4  it has several play options , one of the best is an option to shuffle , based on all or a certain playlist .
+cd	 :4.0 Stars
+cd with a count 4
+1  i had no problems setting up the software and getting my favorite cd 's transferred .
+2  i am ripping my cd collection into 160 kbps wma files ; this gives an average of around 60-65 mb per cd , good for about 900 cds in the ~ 57,000 mb of free memory available to me .
+3  this is a great investment for someone like me who enjoys music and hates carrying multiple cds .
+4  i like to play my music by album and the nomad jukebox plays the songs in the same order as the actual cd .
+genre	 :2.5 Stars
+genre with a count 2
+1  it would have been better to have some sort of window on the carrying case , so you could see the display without opening it .
+2  some of the more geeky ( non-apple type ) reviewers complain that the scrollwheel is annoying after a while and they resent being forced into this apple-like interface .
+track	 :5.0 Stars
+track with a count 1
+1  my favorite is to play " any track " - am rediscovering my music !
+OverAll Rating is : 4.0355215 Out of 5 Stars
+Negative summery is: 
+1  [t] the interfacing software is unacceptably bad .
+
+2  the software is somewhat nice to look at , using it is not the easiest .
+
+3  the only two things that stop me from giving it 5 stars are the ho-hum software that comes with the system , and the traveling case it comes with .
+
+4  [t] good for the money , but software is awful .
+
+5  i loved this product when i first got it - great sound , easy to use ( even though i agree that the software was n't the best ) and held enough songs to suit any mood .
+
+6  however , the creative software is not real intuitive .
+
+7  win software can be a little cranky , but much more easier to customize to your needs .
+
+8  a good player at a great price with terrible software that makes ripping and transferring way more difficult than it should be .
+
+9  -- > you 'll be changing track information a lot because the cd database information utilized by the software is mediocre at best .
+
+10  the software is not good either and the driver has trouble working with other sound blaster products , which is very dumb .
+
+11  - included creative software is pretty poor .
+
+12  * software is absolutely terrible :
+
+13  it 's horrible .
+
+14  i would have given a 3 to 5 star review in my first few weeks , depending on how mad i felt about the crummy software .
+
+15  the creative software is awkward / difficult to use and just plain does n't load on some computers .
+
+16  [t] good player , bad software .
+
+1  the setup process for the nomad is infuriating , and the interface with the player is sub-par .
+
+2  after about 45 mins of listening there was audible static in the player .
+
+3  because other people that complain about this player are talking bull , this player is awesome , it just breaks fast , which is horrible .
+
+4  it was impossible to do so before .
+
+5  when it came down to it , the price on this player is hard to beat .
+
+6  i am annoyed that the player 's not automatically recognized as a hard drive .
+
+7  if the casing of the player is this bad , i can 't image that the hardware is of very good quality .
+
+8  finally the software used to put all the songs into it is vastly inferior to itunes on two levels , first it is poorly integrated into the overall player and clunky to use especially with tagging and second the wma audio format sucks , flat out sucks in terms of sound quality compared with the vastly superior aac format the apple ipod uses and it sticks you with one of the sub par paid music services such as napster instead of allowing to use the itunes store , which , if you ever plan to pay for your music , is by far the best .
+
+9  the software , which comes with player is not good at all .
+
+10  this is ridiculous .
+
+11  honestly , the best players without any flaws were the goddam cd players .
+
+1  great sound , very long battery life ( i routinely play it for 12 + hours ) , very fast recharges rate , removable battery , storage size , nice screen , firmware updates , and great price .
+
+2  pros : huge storage capacity for the price , easy to navigate , can modify existing playlists on the fly , has a removable battery
+
+3  5 ) the cheap , user-replaceable battery ( $ 50 from creative ) is a great advantage over the ipod 's battery which costs $ 100 to replace .
+
+4  the top of the player is a thin metal piece that covers up the battery and is removable .
+
+5  removable and cheap battery - a li battery usually works properly for 1-3 years .
+
+6  * removable battery
+
+7  the front cover ( which you remove to take out the battery ) feels flimsy but when snapped on , the device still feels pretty solid .
+
+8  if you 're intrested in buying a spare battery it 'll run you another $ 50 , a little steep i thought .
+
+1  simply not as friendly for functional as an ipod .
+
+2  that 's a huge plus by itself compared to the infamous ipod and similar mp3 players where the battery is permanently installed & removing it voids the warranty .
+
+3  the only thing i would complain about the zen xtra is that the controls are n't as easy as the ipod 's , or as " sexy " looking .
+
+4  this thing , while looking pretty cool , is not as sexy as the ipod .
+
+5  a 10 gb ipod is just as much and i have heard from multiple sources that the ipod is very loud and you can heard the hard drive everytime it spins , accesses files or does antyhing .
+
+6  most people say buy an ipod , but they are pretty expensive and also require you to send the product back to the factory just to replace the battery .
+
+7  overall : small , sounds great , and less expensive than apple 's overpriced ipod !
+
+1  this is rarely a problem with any kind of popular music , but can be troublesome with classical music where tracks are identified by tempi .
+
+2  it was n't as easy to fast forward or pause a song than it was with a regular walkman .
+
+3  the music plays awesome , never skips , even if u run for a bit , so you can listen to music without interruption .
+
+4  its far more difficult to select songs and has no easy to use on the fly playlist creation such as the new ipod not to mention it does n't sinc with contact lists , phone numbers , address books , ect. like the ipod ( which eliminated my need for any kind of palm device ) .
+
+5  well , maybe that particular song was just corrupt , so i tried to upload some of my own , after four attempts , at each one the unit locked up and required a reboot , i managed to upload an album , which albeit was surprisingly fast , however when attempting to create a playlist out of my newly uploaded songs , the nomad again froze up and refused to work .
+
+1  having to copy / delete files would be time-consuming and is rendered a non-issue with 40gb of storage .
+
+2  sound quality is amazing. i was expecting worse , but its really good ( especially if your files have good sound quality ) .
+
+3  every time nomad thinks the file is corrupt the os freezes .
+
+1  is my unit defective ?
+
+2  it 's bigger , but people have grossly exaggerated the size differences - it 's only about half an inch longer and 1/3 inch thicker than the new-generation ipods .
+
+3  nice palm sized unit , somewhat bigger then the ipod but not an issue if you 're not going to try & jog with it or something .
+
+1  kind of bulky and the wheel is awkward , but i can deal with that .
+
+2  -- > too difficult to change genre / album / track information for large number of tracks .
+
+1  you discover this later when you 're listening to a song and it 's the wrong title , causing you to rename everything on your own .
+
+2  is it a coincidence that i no longer can get any of your nomad zen xtras ( worst name ever ) at best buy and now the 60gb nomad xtra is " sold out " or more likely " discontinued " at the almighty amazon.com ?
+
+1  the scroll bar problems make the task of creating playlists more frustrating .
+
+2  ripping your songs and creating playlists could n't be any easier .
+
+1  possibly the biggest advantage this player has ( if price was n't enough ) is the fact that the user can replace the battery him / herself by opening the lid and popping in the new battery .
+
+1  the cd ripping to mp3 is so easy , and you can even rip the cd directly to the mp3 player , so it wo n't take up space on your pc hard drive .
+
+1  loading cds was somewhat time-consuming , but i think it would have been with the ipod as well .
+
+FINAL RESULT: 
+J: 0  4  ipod  better  1
+J: 1  4  ipod  surprising  1
+J: 2  7  song  useful  1
+J: 3  7  song  short  1
+J: 4  9  ipod  smaller  1
+J: 5  19  software  great  1
+J: 6  21  software  easy  1
+J: 7  26  player  other  1
+J: 8  26  player  remote  1
+J: 9  33  software  easy  1
+J: 10  34  player  cheaper  1
+J: 11  34  player  good  1
+J: 12  34  player  beautiful  1
+J: 13  42  song  important  1
+J: 14  45  ipod  light  1
+J: 15  46  battery  replaceable  1
+J: 16  56  price  lower  1
+J: 17  58  ipod  cheaper  1
+J: 18  67  computer  other  1
+J: 19  67  computer  audio  1
+J: 20  68  battery  changable  1
+J: 21  68  ipod  bigger  1
+J: 22  75  ipod  overpriced  -1
+J: 23  81  player  great  1
+J: 24  82  player  best  1
+J: 25  83  song  easy  1
+J: 26  85  player  great  1
+J: 27  94  playlist  certain  1
+J: 28  102  software  bad  -1
+J: 29  105  computer  new  1
+J: 30  108  song  drag-and-drop  1
+J: 31  111  battery  open  1
+J: 32  115  playlist  frustrating  -1
+J: 33  116  player  good  1
+J: 34  117  nomad  satisfactory  1
+J: 35  119  player  sub-par  -1
+J: 36  122  player  great  1
+J: 37  124  player  hard  -1
+J: 38  126  cd  multiple  1
+J: 39  131  battery  replaceable  1
+J: 40  132  battery  replaceable  1
+J: 41  133  battery  rechargeable  1
+J: 42  134  ipod  new  1
+J: 43  134  ipod  less  1
+J: 44  140  battery  rechargeable  1
+J: 45  141  price  lower  1
+J: 46  143  battery  good  1
+J: 47  144  battery  replaceable  1
+J: 48  145  price  great  1
+J: 49  146  nomad  new  1
+J: 50  146  nomad  great  1
+J: 51  148  ipod  sexy  -1
+J: 52  149  nomad  60gb  1
+J: 53  150  software  easy  1
+J: 54  153  price  same  1
+J: 55  161  player  trendy  1
+J: 56  172  player  nice  1
+J: 57  176  player  previous  1
+J: 58  177  player  impossible  -1
+J: 59  185  computer  little  1
+J: 60  187  player  new  1
+J: 61  196  file  quick  1
+J: 62  196  file  painless  1
+J: 63  197  file  easy  1
+J: 64  198  song  much  1
+J: 65  203  battery  nice  1
+J: 66  215  ipod  smaller  1
+J: 67  225  player  other  1
+J: 68  238  zen  better  1
+J: 69  243  zen  more  1
+J: 70  243  zen  worth  1
+J: 71  250  software  great  1
+J: 72  255  player  aesthetic  1
+J: 73  257  ipod  expensive  1
+J: 74  261  playlist  previous  1
+J: 75  262  playlist  new  1
+J: 76  263  song  many  1
+J: 77  263  title  few  1
+J: 78  263  title  same  1
+J: 79  263  title  sure  1
+J: 80  263  title  same  1
+J: 81  264  song  chinese  1
+J: 82  264  title  actual  1
+J: 83  264  title  chinese  1
+J: 84  266  title  different  1
+J: 85  266  title  chinese  1
+J: 86  271  player  other  1
+J: 87  274  title  same  1
+J: 88  276  song  english  1
+J: 89  277  song  more  1
+J: 90  297  song  easy  1
+J: 91  298  unit  cool  1
+J: 92  298  battery  replaceable  1
+J: 93  308  ipod  bigger  1
+J: 94  315  price  unbeatable  1
+J: 95  327  zen  original  1
+J: 96  342  song  handy  1
+J: 97  344  zen  original  1
+J: 98  344  zen  perfect  1
+J: 99  350  software  enclosed  1
+J: 100  354  playlist  easier  -1
+J: 101  362  song  particular  1
+J: 102  363  cd  actual  1
+J: 103  366  price  good  1
+J: 104  368  unit  bigger  -1
+J: 105  376  software  creative  1
+J: 106  376  software  poor  -1
+J: 107  380  price  great  1
+J: 108  387  song  classical  1
+J: 109  390  song  particular  1
+J: 110  390  song  corrupt  -1
+J: 111  400  song  more  1
+J: 112  406  player  good  1
+J: 113  408  cd  favorite  1
+J: 114  409  software  creative  -1
+J: 115  409  software  real  1
+J: 116  409  software  intuitive  -1
+J: 117  410  software  nice  1
+J: 118  410  software  easiest  -1
+J: 119  412  title  better  1
+J: 120  412  title  new  1
+J: 121  415  player  good  1
+J: 122  415  player  other  1
+J: 123  423  player  ridiculous  -1
+J: 124  441  song  same  1
+J: 125  451  unit  particular  1
+J: 126  464  software  easy  1
+J: 127  464  software  good  1
+J: 128  470  player  good  1
+J: 129  502  computer  available  1
+J: 130  517  ipod  great  1
+J: 131  518  battery  replaceable  1
+J: 132  553  unit  creative  1
+J: 133  561  price  good  1
+J: 134  568  software  creative  1
+J: 135  569  player  good  -1
+J: 136  573  nomad  great  1
+J: 137  599  battery  excellent  1
+J: 138  599  price  cheaper  1
+J: 139  599  ipod  excellent  1
+J: 140  601  nomad  ugly  1
+J: 141  619  ipod  nice  1
+J: 142  619  ipod  shiny  1
+J: 143  619  ipod  new  1
+J: 144  625  song  more  1
+J: 145  634  player  awesome  1
+J: 146  637  player  awesome  1
+J: 147  640  zen  unbeatable  1
+J: 148  644  unit  easy  1
+J: 149  644  unit  intuitive  1
+J: 150  646  song  quick  1
+J: 151  646  song  easy  1
+J: 152  656  battery  great  1
+J: 153  668  player  good  1
+J: 154  673  computer  other  1
+J: 155  675  computer  awesome  1
+J: 156  678  ipod  bigger  1
+J: 157  684  song  worse  1
+J: 158  690  price  fantastic  1
+J: 159  713  battery  great  1
+J: 160  717  player  great  1
+J: 161  725  player  other  1
+J: 162  727  player  easier  1
+J: 163  729  file  useful  1
+J: 164  739  song  great  1
+J: 165  747  player  delicate  1
+J: 166  749  player  portable  1
+J: 167  750  battery  removable  -1
+J: 168  770  song  easy  -1
+J: 169  770  song  fast  1
+J: 170  790  software  awful  -1
+J: 171  793  ipod  loud  -1
+J: 172  811  nomad  easy  1
+J: 173  817  nomad  cheaper  1
+J: 174  823  player  perfect  1
+J: 175  831  computer  hard  -1
+J: 176  832  software  smooth  1
+J: 177  832  software  nice  1
+J: 178  834  player  fast  1
+J: 179  834  player  great  1
+J: 180  885  player  affordable  1
+J: 181  885  player  better  1
+J: 182  906  file  worse  -1
+J: 183  906  file  good  1
+J: 184  906  file  good  1
+J: 185  907  song  cool  1
+J: 186  936  playlist  dynamic  1
+J: 187  936  title  creative  1
+J: 188  944  song  attractive  1
+J: 189  951  unit  free  1
+J: 190  953  cd  time-consuming  -1
+J: 191  966  title  different  1
+J: 192  970  title  same  1
+J: 193  971  song  popular  1
+J: 194  971  song  troublesome  -1
+J: 195  971  song  classical  1
+J: 196  972  song  same  1
+J: 197  985  ipod  friendly  -1
+J: 198  991  software  creative  1
+J: 199  997  song  better  1
+J: 200  999  software  creative  1
+J: 201  1019  software  cranky  -1
+J: 202  1027  ipod  easy  -1
+J: 203  1027  ipod  sexy  1
+J: 204  1028  ipod  excellent  1
+J: 205  1031  software  easy  1
+J: 206  1033  unit  great  1
+J: 207  1035  unit  great  1
+J: 208  1045  song  many  1
+J: 209  1049  computer  sturdy  1
+J: 210  1062  battery  flimsy  -1
+J: 211  1062  computer  solid  1
+J: 212  1071  price  great  1
+J: 213  1073  software  decent  1
+J: 214  1073  software  enough  1
+J: 215  1092  price  good  1
+J: 216  1092  price  great  1
+J: 217  1094  ipod  cheaper  1
+J: 218  1097  song  difficult  -1
+J: 219  1097  song  easy  -1
+J: 220  1097  ipod  new  1
+J: 221  1100  battery  rechargeable  1
+J: 222  1103  battery  rechargeable  1
+J: 223  1104  player  clunky  -1
+J: 224  1104  song  best  1
+J: 225  1106  player  good  1
+J: 226  1106  software  bad  -1
+J: 227  1110  battery  removable  -1
+J: 228  1120  software  terrible  -1
+J: 229  1123  genre  difficult  -1
+J: 230  1124  software  mediocre  -1
+J: 231  1124  software  best  1
+J: 232  1127  player  good  1
+J: 233  1127  price  great  1
+J: 234  1127  software  terrible  -1
+J: 235  1131  cd  good  1
+J: 236  1133  title  same  1
+J: 237  1147  player  large-capacity  1
+J: 238  1153  software  ho-hum  -1
+J: 239  1183  battery  creative  1
+J: 240  1187  player  easy  1
+J: 241  1199  genre  better  1
+J: 242  1205  computer  portable  1
+J: 243  1207  player  mp3  1
+J: 244  1218  player  audible  1
+J: 245  1218  player  static  -1
+J: 246  1223  unit  defective  -1
+J: 247  1252  computer  other  1
+J: 248  1259  player  most  1
+J: 249  1259  player  mp3  1
+J: 250  1259  song  creative  1
+J: 251  1265  zen  creative  1
+J: 252  1268  software  creative  1
+J: 253  1306  player  intuitive  1
+J: 254  1317  player  bad  -1
+J: 255  1318  price  great  1
+J: 256  1323  software  less  1
+J: 257  1323  software  ideal  1
+J: 258  1351  software  crummy  -1
+J: 259  1360  price  great  1
+J: 260  1370  battery  cheap  -1
+J: 261  1370  battery  user-replaceable  1
+J: 262  1370  battery  creative  1
+J: 263  1382  computer  other  1
+J: 264  1411  battery  powerful  1
+J: 265  1411  software  good  1
+J: 266  1416  track  favorite  1
+J: 267  1440  title  wrong  -1
+J: 268  1450  genre  bulky  -1
+J: 269  1452  player  annoyed  -1
+J: 270  1458  software  best  -1
+J: 271  1465  player  best  1
+J: 272  1505  ipod  happy  1
+J: 273  1514  battery  steep  -1
+J: 274  1517  ipod  infamous  -1
+J: 275  1520  price  easy  1
+J: 276  1520  battery  removable  -1
+J: 277  1527  title  worst  -1
+J: 278  1530  zen  creative  1
+J: 279  1533  computer  better  1
+J: 280  1538  genre  geeky  1
+J: 281  1555  software  creative  1
+J: 282  1555  software  awkward  -1
+J: 283  1555  software  difficult  -1
+J: 284  1556  computer  creative  1
+J: 285  1568  player  new  1
+J: 286  1581  computer  better  1
+J: 287  1585  ipod  cost-effective  1
+J: 288  1587  price  unbeatable  1
+J: 289  1597  player  happy  1
+J: 290  1600  player  creative  1
+J: 291  1603  battery  removable  -1
+J: 292  1603  battery  cheap  -1
+J: 293  1623  player  good  1
+J: 294  1624  player  great  1
+J: 295  1624  player  excellent  1
+J: 296  1633  player  awesome  1
+J: 297  1647  song  good  1
+J: 298  1649  software  awesome  1
+J: 299  1650  song  lazy  1
+J: 300  1664  song  awesome  -1
+J: 301  1686  file  time-consuming  -1
+J: 302  1692  price  enough  -1
+J: 303  1694  price  better  1
+J: 304  1694  price  easy  1
+J: 305  1700  price  good  1
+J: 306  1711  software  creative  1
+J: 307  1712  software  horrible  -1
+J: 308  1713  software  nice  1
+J: 309  1715  player  great  1
+J: 310  1718  battery  removable  -1
+J: 311  1718  price  great  1
+J: 312  1725  player  excellent  1
+J: 313  1730  unit  thicker  -1
+J: 314  1741  player  previous  1
+J: 315  1743  song  dedicated  1
+J: 316  1756  ipod  grand  1
+J: 317  1768  software  good  -1
+J: 318  1785  player  awesome  1
+J: 319  1785  player  horrible  -1
+J: 320  1789  player  best  -1
+J: 321  1793  file  corrupt  -1
+J: 322  1806  song  much  1
+J: 323  1806  song  terrific  1
+J: 324  1827  ipod  expensive  -1
+J: 325  1843  nomad  wonderful  1
+J: 326  1847  zen  best  1
+j:  327
+i:  456
+BUILD SUCCESSFUL (total time: 12 minutes 4 seconds)

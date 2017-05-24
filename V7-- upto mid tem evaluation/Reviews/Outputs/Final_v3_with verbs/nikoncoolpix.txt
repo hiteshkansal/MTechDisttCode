@@ -1,0 +1,810 @@
+run:
+Reading POS tagger model from E:\Disertation\APIs\stanford-postagger-full-2014-01-04\models\english-left3words-distsim.tagger ... done [1.5 sec].
+Nikoncoolpix.txt output with :DiaperChamp.txt
+Total correction: 0
+Total correction: 0
+Total review: 40
+Total review: 49
+Total Cluster: 353
+Most Important Features: 
+feature zoom
+1 : zoom=2.4172835
+feature image
+2 : image=1.5108021
+feature quality
+3 : quality=3.6259253
+feature battery
+4 : battery=3.1726847
+feature card
+5 : card=2.719444
+feature lens
+6 : lens=1.5108021
+feature setting
+7 : setting=1.9640429
+feature speed
+8 : speed=1.8129627
+feature camera
+9 : camera=20.09367
+feature flash
+10 : flash=1.8129627
+feature mode
+11 : mode=2.719444
+feature nikon
+12 : nikon=1.9640429
+feature shot
+13 : shot=1.5108021
+feature picture
+14 : picture=10.575616
+feature manual
+15 : manual=1.6618825
+sent no: 5  i: 5feature: quality  prev adj: most  new verb: mess
+sent no: 16  i: 16feature: mode  prev adj: manual  new verb: hang
+sent no: 55  i: 55feature: image  prev adj: slightest  new verb: shake
+sent no: 91  i: 91feature: camera  prev adj: small  new verb: lose
+sent no: 116  i: 116feature: mode  prev adj: digital  new verb: break
+sent no: 191  i: 191feature: camera  prev adj: optical  new verb: gain
+sent no: 195  i: 195feature: camera  prev adj: digital  new verb: love
+sent no: 242  i: 242feature: picture  prev adj: familiar  new verb: depress
+sent no: 261  i: 261feature: picture  prev adj: extra  new verb: miss
+sent no: 287  i: 287feature: camera  prev adj: light  new verb: knock
+sent no: 314  i: 314feature: battery  prev adj: least  new verb: recommend
+sent no: 359  i: 359feature: camera  prev adj: many  new verb: work
+sent no: 362  i: 362feature: camera  prev adj: serious  new verb: love
+sent no: 365  i: 365feature: quality  prev adj: photo  new verb: amaze
+sent no: 386  i: 386feature: lens  prev adj: optical  new verb: obscure
+rev: 39
+Cluster Count: 
+93
+37
+19
+13
+7
+6
+6
+6
+6
+5
+3
+2
+2
+2
+1
+camera	 :4.6039605 Stars
+camera with a count 93
+1  this camera is perfect for an enthusiastic amateur photographer .
+2  [t]absolutely great point and shoot camera
+3  the store clerk concluded that the blurriness may be caused by shaking the camera slightly when i press the button , which is understandable since this camera is lighter than the other two models .
+4  i 'm sure that this camera has all the wonderful features that others talk about .
+5  the auto-focus performs well , but i love having the 12 optional scene modes - they are dummy-proof , and correspond to many situations in which i would actually seek to use the camera .
+6  a nice camera bag , which holds camera plus all the cables and the charger .
+7  in my opinion it 's the best camera for the money if you 're looking for something that 's easy to use , small good for travel , and provides excellent , sharp images .
+8  over all a fantastic very compact camera , which made us experience photography on a totally new level !
+9  right now , i 'm researching for an inexpensive slave flash unit that 's designed for digital cameras .
+10  awesome camera with huge print quality in a tiny package .
+11  after reading all the glowing review on this camera , i went to my local camera shop to try one .
+12  i got my camera three days back , and although i had some experience with digital cameras prior to purchasing this one , i still rate myself as a beginner .
+13  i bought this camera because it fit my budget and the pre-production and production model reviews were positive .
+14  the software you get with this camera is perfect .
+15  the compact digital camera is especially useful if you have little children around and you can always take the camera with you and take many pictures of them .
+16  recently bought this coolpix 4300 along with a 256mb ultra flash card . as expected , i happily found that qualities of the picture are excellent with 3m-4m pixel / fine combos and many of the user-friendly functions are very similar to slr models , and with added convenience of a digital camera that you can see pictures immediately .
+17  overall the nikon 4300 is a very dependable , robust , and useful little camera .
+18  this camera was affordable , very easy to learn , and produces spectacular images .
+19  [t]great camera
+20  this camera is ideal for people who want more power , but do n't want to spend 1000s dollars on a camera .
+21  the inside pics , can be a bit challenging , but when you can instantly delete pics you dont like , that are not focused perfectly , or need lighting adjustments , make this camera very simple and effective .
+22  i highly recommend this camera to anyone looking for a good digital camera that takes great pictures yet does n't take weeks to figure out how to operate .
+23  [t]best 4-mp camera of its size and price range
+24  [t]excellent camera
+25  great camera , great investment !
+26  i reviewed several digital cameras before settling on this one .
+27  [t]great camera
+28  the other reviewers have clearly pointed all the good things about this camera , which i do agree .
+29  this is my second digital camera , though i also use one at work and have some experience with several nikon and canon models .
+30  still , at least from my perspective , a great camera for the money , and i 'm a happy camper !
+31  4 mp gives you room for the future gaining experience ; cost offsets over time from wanting more in a camera , 3x optical and the fact that it carries nikon 's quality reputation behind it make the whole package prove itself worthwile at the price .
+32  this is a wonderful camera .
+33  [t]super little camera
+34  really happy with this little camera .
+35  i 'm extremely glad i bought this camera .
+36  [t]great camera
+37  great camera .
+38  i am impressed with how easy this camera is to use .
+39  but overall this is a good camera with a ' really good ' picture clarity ; an exceptional close-up shooting capability .
+40  if you 're looking for a small , compact , super resolution digital camera , you can end your search with the nikon 4300 !
+41  there are so many functions in this little , yet powerful camera !
+42  one neat thing - i have taken some pictures in what i thought would be impossible lighting conditions pitch black rooms - no problem for the camera - rooms looked like they had ample lighting .
+43  this little camera has created a marriage between myself and nikon. never knew i could love a digital camera so much .
+44  it is a good camera in terms of the function and quality , but take your chance with it because nikon absolutely sucks when it comes to customer service .
+45  [t]amazing camera
+46  here were my requirements in a digital camera :
+47  great camera , and for the price you can 't beat it .
+48  nikon 4300 , i feel , is the best camera out there for the features and price .
+49  i wanted a decent sized camera with a contour for my fingers to hold it steadily .
+50  this is my first digital camera and i can say that i am quite impressed with the features that it has .
+51  [t]great camera
+52  great camera , i have been using this for several months and got excellent results , simple friendly usage , in many scenes indoor , outdoor , snow , close up macro etc.
+53  [t]great camera for a great price
+54  if you do any research into digital cameras , you 'll quickly find that this camera is just about the best value out there .
+55  [t]perfect consumer digital camera
+56  all the above , i think , are problems with all the digital cameras out there and so i have no major complaints .
+57  [t]excellent compact digital camera
+58  ooh , and i dropped it and it still works fine : this little camera has so many features i have n't even gotten to all of them yet .
+59  but this camera is great !
+60  [t]super camera
+61  it is easy to " focus " in on the drawbacks , so do n't think i hate this camera .
+62  it really is an awesome camera that is hard to beat for general-to moderate snapping .
+63  [t]excellent little camera
+64  it 's easy for beginners to use , but has features that more serious photographers will love , so it 's an excellent camera to grow into .
+picture	 :3.7 Stars
+picture with a count 37
+1  first of all , let 's start with my needs : 1 $ 500 budget 2 4mp resolution , 3 optical clarity and color , 4 fast - very little shutter lag and quick sep-up for next picture , 5 compact size , and 6 good camera grip to minimize camera shake .
+2  pictures produced by the panasonic were excellent .
+3  the pictures are razor-sharp , even in macro .
+4  pictures produced by the minolta were orange but not blurry .
+5  just point and shoot and the photos were great .
+6  the software that comes with it is amazing and the online service that comes free is really very neat. clean clear and well focused on over 95 % of all photos taken by a beginner .
+7  one neat thing - i have taken some pictures in what i thought would be impossible lighting conditions pitch black rooms - no problem for the camera - rooms looked like they had ample lighting .
+8  i currently own an olympus d-550 which takes wonderful outdoor pictures .
+9  the macro mode is exceptional , the pictures are very clear and you can take the pictures with the lens unbelievably close the subject .
+10  recently bought this coolpix 4300 along with a 256mb ultra flash card . as expected , i happily found that qualities of the picture are excellent with 3m-4m pixel / fine combos and many of the user-friendly functions are very similar to slr models , and with added convenience of a digital camera that you can see pictures immediately .
+11  however , the convenience of using digital far outweighs the slightly less accurate indoor pictures .
+12  otherwise , it takes very good pictures ; shutter delay is n't so bad either .
+13  consider the time you save during picture taking especially not missing a good moment and during download , it 's well worth the little extra money .
+14  after nearly 800 pictures i have found that this nikon takes incredible pictures .
+15  1 . i had initially thought of buying a 2 or 3 megapixel camera but these are good for 4x6 " or 5x7 " prints and i wanted some really great 8x10 " photos once in a while .
+16  the digital zoom takes as good of pictures , as the optical zoom does !
+17  sunset feature takes incredible pics in the morning , and the evening !
+18  i highly recommend this camera to anyone looking for a good digital camera that takes great pictures yet does n't take weeks to figure out how to operate .
+19  1 . pictures taken in an indoor setting are a little dull and rarely hazy if you tend to take photographs from a distance .
+20  the pictures are absolutely amazing - the camera captures the minutest of details .
+21  it takes excellent pics and is very easy to use , if you read the manual .
+22  it does have a lense cap , but it wo n't let you take pics with it on which is real good .
+23  the lense is a lot better , and the 4mb produce fantastic pictures .
+24  i am looking forward to my vegas trip for some great photographs now .
+25  else with simpler viking cf cards , it takes couple of seconds to write a picture with approximately " fine **" picture quality  " image size : 1600 .
+26  settings for just about everything , beautiful pics and beautiful prints .
+27  it takes great pictures .
+28  it is n't big and offensive , though you would n't know it by looking at the pics it takes .
+battery	 :5.0 Stars
+battery with a count 19
+1  the battery recharges ral fast and the recharger thingy that comes with is real nice .
+2  buy an extra battery - life is good but still somewhat short .
+3  an extra rechargeable en-el 1 battery is also handy , so you will seldom run into " out of battery " situation .
+4  so , it 's a good idea to purchase an extra battery to insure that you are not left hanging .
+5  the same 4mp chip from the 4500 camera , plus a 3x zoom with the ability to expand upon that with extenders , great closeup mode , long lasting rechargable battery , etc etc.
+6  comes with a 16 mb compact flash and one rechargable battery the charging unit , included , is fast and small .
+7  be very careful when the battery is low and make sure to carry extra batteries .
+8  i bought a 256 mb cf and a second battery , so it 's good to go on a long vacation .
+9  i would also recommend buying an extra battery and at least a 128 mb compact flash type i memory card .
+10  with an extra battery and a couple of good sized memory cards you are all set for a day of picture taking while on vacation .
+11  an extra for a back-up battery would be a good investment .
+quality	 :4.0625 Stars
+quality with a count 13
+1  the design and construction are excellent -- as is the legendary quality of the nikon optics .
+2  first of all , let 's start with my needs : 1 $ 500 budget 2 4mp resolution , 3 optical clarity and color , 4 fast - very little shutter lag and quick sep-up for next picture , 5 compact size , and 6 good camera grip to minimize camera shake .
+3  operating its many features is easy and often obvious - i 'm no annie lebovitz , but i was able to figure out most of its abilities just messing around with it at a camera store .
+4  i 'm amazed at the photo quality -- prints are indistinguishable from 35mm prints .
+5  i fell in love with this camera , it combines ease of use , with an immense amount of options and power .
+6  i expected the 12x digital zoom to be grainy , but onfull size high to fine quality , the zoomed images are quite impressive .
+7  the quality is superb .
+8  the nikon coolpix 4300 is wonderful -- easy to use , high quality , and compact in size .
+nikon	 :5.0 Stars
+nikon with a count 7
+1  with nikon , although picture qualities are as good as any other 4 mp cameras , i 've had the following headaches ;
+2  nikon got the final nod for its settings auto and manual along with movie modes , medium; compact size , price , brand name , good software that is included and previous reviews .
+3  a nikon will make you happier and leave you lots of good memories , as always .
+4  the 4300 is a very durable , compact package , and i find nikon to be a brand that i can trust .
+5  6 the nikon coolpix line is a well-established line so you know support and parts are going to be available even when nikon releases a newer model .
+shot	 :5.0 Stars
+shot with a count 6
+1  you need the storage to hold a decent amount of shots at 4 megapixel resolution .
+2  it does not have an auto-focus assist light which is nice for taking shots in low-light situations it allows the camera to focus in low light .
+3  the auto-mode is good enough for most shots but the 4300 also boasts 12 versatile scene modes as well as a manual mode though i admit i have n't played with it too much on manual .
+4  the daylight pictures are brilliant and the indoor shots are very good provided that your subject is no more than about 8 feet away .
+mode	 :3.0 Stars
+mode with a count 6
+1  the possibilities with auto , manual , and the very helpful " scene " mode , which offers 11 optimized situational settings like portrait , landscape , beach / snow , sunset etc. , are endless .
+2  the manual mode is feature rich and i can 't wait to get the hang of it .
+3  the camera comes with a lexar 16mb starter card , which stores about 10 images in fine mode at the highest resolution , i intend to buy a bigger card soon .
+4  with our compact 35mm broken , and a vacation in europe at hand , i finally decided to enter the digital age .
+5  the picture quality is amazing and you can connect it to your tv and could make silent movies that way if you wanted to .
+manual	 :4.285714 Stars
+manual with a count 6
+1  nikon got the final nod for its settings auto and manual along with movie modes , medium; compact size , price , brand name , good software that is included and previous reviews .
+2  the manual does a fine job filling in any blanks that remain .
+3  100 % perfect if you put some thought and time into reading the manual before you take the photos .
+4  the manual is easy to understand , and it is mostly idiot proof .
+image	 :3.75 Stars
+image with a count 6
+1  uploading the images to my windows-based pc is very fast and simple .
+2  this camera was affordable , very easy to learn , and produces spectacular images .
+3  in my opinion it 's the best camera for the money if you 're looking for something that 's easy to use , small good for travel , and provides excellent , sharp images .
+4  a nikon will make you happier and leave you lots of good memories , as always .
+5  i expected the 12x digital zoom to be grainy , but onfull size high to fine quality , the zoomed images are quite impressive .
+zoom	 :4.1666665 Stars
+zoom with a count 5
+1  it 's size also makes it ideal for travel .
+2  in my opinion it 's the best camera for the money if you 're looking for something that 's easy to use , small good for travel , and provides excellent , sharp images .
+3  i wish the camera had a higher optical zoom so that i could take better wildlife photos .
+4  making the step from film to digital has been a great move .
+card	 :2.5 Stars
+card with a count 3
+1  try to buy a high capacity ultra card , as it 's 2x as faster as the regular cf card .
+2  furher it contains a card reader , a flash card folder for up to 8 cards , a lense cleaning rag , and an ac adapter , which is very helpful when working in an " outlet environment " .
+3  else with simpler viking cf cards , it takes couple of seconds to write a picture with approximately " fine **" picture quality  " image size : 1600 .
+lens	 :3.3333335 Stars
+lens with a count 2
+1  the lense is a lot better , and the 4mb produce fantastic pictures .
+2  its easy to use and the sheer fun of being able to use an array of nikon accessories like the telephoto and wide-angle lenses is the proverbial icing on the cake .
+flash	 :2.5 Stars
+flash with a count 2
+1  did buy a 256mb compact flash , it holds a lot of pics at any resolution .
+2  comes with a 16 mb compact flash and one rechargable battery the charging unit , included , is fast and small .
+setting	 :2.5 Stars
+setting with a count 2
+1  1 . pictures taken in an indoor setting are a little dull and rarely hazy if you tend to take photographs from a distance .
+2  the auto setting does a great job most of the time but there are manual settings for those who want them .
+speed	 :2.5 Stars
+speed with a count 1
+1  you can use the scene modes , or fine tune the options , i. you can change the iso level , shutter speed , etc.
+OverAll Rating is : 3.7268116 Out of 5 Stars
+Negative summery is: 
+1  pictures produced by the minolta were orange but not blurry .
+
+2  if you can't get great pics from this camera its because you havent read the manual .
+
+3  consider the time you save during picture taking especially not missing a good moment and during download , it 's well worth the little extra money .
+
+4  my room is so dark and when i tried taking pics of it with my old camera , they came out black , but with this , they look the same in the picture as in real life .
+
+5  in manual , you can set it to " single af " where it will focus by depressing the shudder button prior to taking the pic ; this is not really a hinderance , you just have to be familiar with its menus and features .
+
+6  i am a picture fanatic so i consider myself picky and if your the same way this camera will not let you down.now buy it !
+
+7  one neat thing - i have taken some pictures in what i thought would be impossible lighting conditions pitch black rooms - no problem for the camera - rooms looked like they had ample lighting .
+
+8  the inside pics , can be a bit challenging , but when you can instantly delete pics you dont like , that are not focused perfectly , or need lighting adjustments , make this camera very simple and effective .
+
+9  3 . the pictures come out hazy if your hands shake even for a moment during the entire process of taking a picture .
+
+10  however , indoor pictures of subjects more than a few feet away can be blurry or grainy .
+
+1  focusing on a display rack about 20 feet away in a brightly lit room during day time , pictures produced by this camera were blurry and in a shade of orange .
+
+2  made the camera totally inoperable .
+
+3  it really is an awesome camera that is hard to beat for general-to moderate snapping .
+
+4  one more thing about indoor shots - many of the reviews knocked this camera for low light focusing .
+
+5  i have one thing to say to the numbskulls who complain that this camera 's controls are confusing and hard to remember :
+
+6  2 . i did not want a very small camera as it seems to get lost in my hands and i was n't comfortable with that .
+
+1  the manual mode is feature rich and i can 't wait to get the hang of it .
+
+2  it became stucked which makes it almost impossible to switch between modes .
+
+3  with our compact 35mm broken , and a vacation in europe at hand , i finally decided to enter the digital age .
+
+1  operating its many features is easy and often obvious - i 'm no annie lebovitz , but i was able to figure out most of its abilities just messing around with it at a camera store .
+
+2  i assume this is the case for most cameras since it does not have enough power to do autofocus .
+
+3  i 'm amazed at the photo quality -- prints are indistinguishable from 35mm prints .
+
+1  the downside is that you might accidentally take pictures with the lens cap on , the camera wo n't fit in the small cases , and 28mm filters are expensive and hard to find .
+
+1  picture quality in outdoor settings is indistinguishable from 35mm .
+
+2  however , as an average person with unsteady hands , i doubt it 'll perform well in lower light settings .
+
+1  on average , indoor shots with a flash are not quite as good as 35mm .
+
+2  2 . it takes a while for the camera to actually capture the photograph from the time you click the button and i have seen people becoming a little impatient waiting for the flash to glow .
+
+1  . even the slightest of the shakes totally distorts your image
+
+2  . images taken indoor were n't so clear .
+
+1  2 . the speed is noticeably slower than canon , especially so with flashes on .
+
+1  i expected the 12x digital zoom to be grainy , but onfull size high to fine quality , the zoomed images are quite impressive .
+
+1  2 the camera is so small that when you attach some lenses i have the 19mm wide-angle -- wc-e 68 , the optical viewfinder is partially obscured .
+
+1  the manual is easy to understand , and it is mostly idiot proof .
+
+FINAL RESULT: 
+1  camera  perfect  1
+1  camera  enthusiastic  1
+1  camera  amateur  0
+2  picture  razor-sharp  1
+5  quality  many  0
+5  quality  easy  1
+5  quality  obvious  0
+5  quality  able  0
+5  quality  mess  -1
+6  manual  fine  1
+7  camera  optional  0
+7  camera  dummy-proof  1
+7  camera  many  0
+8  flash  compact  1
+8  battery  rechargable  0
+8  battery  fast  1
+8  battery  small  0
+9  battery  second  0
+9  battery  good  1
+9  battery  long  0
+12  camera  digital  1
+13  camera  positive  1
+16  mode  hang  -1
+16  mode  rich  1
+17  picture  exceptional  1
+17  picture  clear  1
+19  card  16mb  0
+19  card  starter  0
+19  mode  fine  1
+19  mode  highest  0
+19  card  bigger  0
+22  camera  older  0
+23  quality  more  0
+23  quality  nikon  0
+24  quality  immense  1
+25  speed  fine  1
+25  speed  shutter  0
+26  camera  ideal  1
+26  quality  more  0
+31  camera  similar  0
+33  nikon  good  1
+33  camera  other  0
+36  mode  many  0
+36  mode  only  0
+39  speed  slower  -1
+41  battery  low  0
+41  picture  entire  0
+43  battery  careful  0
+43  battery  low  0
+43  battery  sure  0
+43  battery  extra  1
+45  camera  other  0
+45  camera  point  0
+45  camera  good  1
+53  mode  direct  0
+53  mode  different  0
+55  image  shake  -1
+57  image  indoor  0
+57  image  clear  -1
+62  speed  high  0
+62  speed  lexar  0
+62  card  higher  0
+63  card  simpler  1
+63  picture  fine  1
+66  camera  good  1
+66  camera  good  1
+66  camera  exceptional  1
+70  mode  stuck  -1
+70  mode  impossible  -1
+71  camera  whole  0
+75  camera  good  1
+78  camera  inoperable  -1
+82  picture  good  1
+82  picture  bid  0
+84  camera  amaze  1
+85  zoom  amateur  0
+85  zoom  digital  0
+86  camera  nikon  0
+86  camera  best  1
+87  camera  digital  1
+89  picture  good  1
+89  picture  5x7  0
+89  picture  great  1
+91  camera  lose  -1
+91  camera  comfortable  -1
+92  camera  decent  1
+94  setting  built-in  0
+94  setting  different  0
+94  setting  amateur  0
+94  setting  manual  0
+98  nikon  final  1
+98  manual  compact  1
+98  manual  good  1
+98  manual  previous  1
+100  picture  amaze  1
+100  camera  minutest  0
+103  setting  indoor  0
+103  setting  little  0
+103  setting  dull  1
+103  picture  hazy  1
+105  flash  little  0
+105  flash  impatient  -1
+107  picture  hazy  -1
+107  picture  entire  0
+108  camera  above  0
+108  camera  digital  1
+108  camera  major  0
+110  card  additional  0
+111  picture  little  0
+111  quality  extra  0
+114  picture  great  1
+115  camera  super  1
+116  mode  compact  1
+116  mode  break  -1
+118  lens  better  1
+118  picture  4mb  0
+118  picture  fantastic  1
+119  mode  helpful  1
+119  setting  situational  0
+119  setting  endless  0
+122  picture  64mb  0
+122  picture  normal  0
+124  setting  normal  0
+125  picture  single  0
+125  picture  visible  0
+125  picture  digital  0
+127  battery  second  0
+127  battery  due  0
+129  camera  nice  1
+130  card  helpful  1
+131  camera  fantastic  1
+131  camera  compact  1
+131  mode  new  0
+133  camera  glow  1
+133  camera  local  0
+134  picture  wonderful  1
+134  picture  outdoor  0
+135  picture  indoor  0
+135  picture  more  0
+135  picture  few  0
+135  picture  blurry  -1
+135  picture  grainy  -1
+137  camera  blurry  -1
+138  picture  orange  -1
+138  picture  blurry  1
+139  picture  excellent  1
+140  camera  understandable  1
+140  camera  lighter  1
+140  camera  other  0
+142  camera  sure  0
+142  camera  wonderful  1
+143  setting  average  0
+143  setting  unsteady  -1
+143  setting  lower  0
+143  setting  light  0
+144  camera  great  1
+147  picture  incredible  1
+148  zoom  digital  0
+148  picture  good  1
+148  zoom  optical  0
+149  picture  inside  -1
+149  picture  challenge  -1
+149  camera  simple  1
+149  camera  effective  1
+151  picture  incredible  1
+152  camera  perfect  1
+155  card  128mb  0
+157  picture  large  0
+157  picture  8mb  0
+160  speed  digital  0
+160  zoom  great  1
+162  camera  great  1
+162  camera  great  1
+163  camera  excellent  1
+164  camera  second  0
+164  camera  digital  1
+164  nikon  several  0
+165  quality  wonderful  1
+165  quality  easy  1
+165  quality  high  0
+165  quality  compact  1
+166  battery  extra  1
+166  battery  good  1
+167  setting  great  1
+167  setting  most  0
+167  setting  manual  0
+172  picture  excellent  1
+172  picture  easy  1
+173  picture  great  -1
+177  camera  glad  1
+178  camera  super  1
+178  camera  little  0
+179  camera  happy  1
+179  camera  little  0
+180  picture  big  1
+180  picture  offensive  1
+181  setting  few  0
+181  picture  single  0
+182  picture  beautiful  1
+182  picture  beautiful  1
+183  zoom  digital  0
+183  zoom  grainy  -1
+183  quality  onfull  0
+183  quality  high  0
+183  quality  fine  1
+183  image  impressive  1
+184  flash  256mb  0
+184  flash  compact  1
+186  camera  least  0
+186  camera  great  1
+186  camera  happy  1
+188  camera  wonderful  1
+189  camera  different  0
+191  camera  future  0
+191  camera  gain  1
+191  nikon  quality  0
+191  nikon  whole  0
+191  nikon  worthwile  0
+192  picture  neat  1
+192  picture  impossible  -1
+192  camera  black  0
+192  camera  ample  1
+194  camera  little  0
+195  camera  love  1
+197  picture  clean  1
+197  picture  clear  1
+198  manual  perfect  1
+201  picture  great  1
+205  card  128mb  0
+209  camera  great  1
+210  camera  great  1
+210  camera  several  0
+210  camera  excellent  1
+210  camera  simple  1
+210  camera  friendly  1
+210  camera  many  0
+210  camera  indoor  0
+210  camera  outdoor  0
+211  camera  great  1
+211  camera  great  1
+213  camera  first  1
+213  camera  digital  1
+213  camera  impress  1
+217  battery  low  0
+218  camera  most  0
+218  quality  enough  -1
+220  battery  second  0
+220  battery  larger  0
+222  camera  great  1
+225  quality  superb  1
+229  nikon  durable  1
+229  nikon  compact  1
+231  card  256mb  0
+233  battery  rechargable  0
+234  battery  good  1
+234  battery  extra  1
+235  shot  nice  1
+235  shot  low-light  0
+235  camera  low  0
+237  zoom  optical  0
+237  camera  average  0
+238  zoom  more  0
+238  zoom  more  0
+238  zoom  optical  0
+238  zoom  focal  0
+239  zoom  digital  0
+239  zoom  optical  0
+240  mode  main  0
+241  mode  other  0
+242  manual  single  0
+242  picture  depress  -1
+243  camera  only  0
+243  camera  less  0
+243  camera  many  0
+243  camera  other  0
+244  camera  easy  1
+245  camera  awesome  1
+245  camera  hard  -1
+245  camera  general-to  0
+245  camera  moderate  0
+250  camera  other  0
+254  camera  excellent  1
+254  camera  compact  1
+254  camera  digital  1
+257  picture  excellent  1
+257  picture  3m-4m  0
+257  picture  fine  1
+257  picture  many  0
+257  picture  user-friendly  1
+257  camera  similar  0
+257  camera  digital  1
+259  camera  compact  1
+259  camera  digital  1
+259  camera  useful  1
+259  camera  little  0
+259  picture  many  0
+260  card  high  0
+260  card  faster  1
+260  card  regular  0
+261  picture  good  -1
+261  picture  little  0
+261  picture  miss  1
+262  battery  extra  1
+262  battery  rechargeable  0
+262  battery  handy  1
+263  zoom  rechargeable  0
+263  zoom  long  0
+267  nikon  happier  1
+267  image  good  1
+269  camera  good  1
+269  camera  digital  1
+269  picture  great  1
+270  mode  different  0
+271  picture  fanatic  -1
+271  picture  picky  -1
+271  mode  same  0
+272  camera  great  1
+273  quality  4mp  1
+273  quality  optical  1
+273  quality  fast  1
+273  picture  little  0
+273  picture  quick  0
+273  picture  next  0
+273  picture  compact  1
+273  picture  good  1
+277  shot  brilliant  1
+277  shot  indoor  0
+277  shot  good  1
+277  shot  more  0
+279  image  windows-base  0
+279  image  fast  1
+279  image  simple  0
+280  shot  only  0
+280  shot  indoor  0
+280  shot  >  0
+280  flash  built-in  0
+281  camera  inexpensive  1
+281  camera  digital  1
+283  shot  outdoor  0
+283  shot  indoor  0
+284  battery  extra  1
+284  battery  back-up  0
+284  battery  good  1
+287  shot  more  0
+287  shot  indoor  0
+287  shot  many  0
+287  camera  low  0
+287  camera  knock  -1
+289  camera  high  0
+293  flash  leave  0
+294  speed  ur-e  0
+294  speed  lc-e  0
+294  nikon  28mm  0
+298  card  small  -1
+298  card  28mm  0
+298  card  expensive  -1
+298  card  hard  -1
+299  camera  great  1
+300  camera  great  1
+301  camera  easy  1
+302  picture  great  1
+303  manual  easy  1
+303  manual  idiot  -1
+305  picture  quick  0
+307  camera  best  1
+307  camera  4-mp  0
+313  lens  little  0
+314  battery  extra  1
+314  battery  recommend  1
+314  battery  compact  1
+316  camera  great  1
+317  camera  several  0
+317  camera  digital  1
+320  setting  outdoor  0
+320  setting  indistinguishable  -1
+321  shot  indoor  0
+321  flash  good  -1
+322  picture  digital  0
+322  picture  less  0
+322  picture  accurate  1
+322  picture  indoor  0
+325  battery  extra  1
+325  battery  good  1
+325  battery  short  0
+327  shot  decent  1
+328  camera  confuse  -1
+328  camera  hard  -1
+330  mode  regular  0
+331  setting  regular  0
+332  zoom  higher  0
+332  zoom  optical  0
+332  zoom  better  1
+333  setting  optical  0
+333  setting  acceptable  0
+336  camera  small  0
+336  camera  compact  1
+336  camera  super  1
+336  camera  digital  1
+336  camera  nikon  0
+338  nikon  huge  0
+339  lens  easy  1
+339  lens  sheer  0
+339  lens  able  0
+339  lens  wide-angle  0
+339  lens  proverbial  0
+340  camera  numerous  0
+340  camera  unmatch  0
+341  quality  excellent  1
+341  quality  legendary  1
+346  camera  many  0
+346  camera  little  0
+346  camera  powerful  1
+350  picture  dark  -1
+350  camera  old  0
+350  camera  black  0
+350  picture  same  0
+350  picture  real  0
+352  camera  great  1
+353  mode  amaze  1
+353  mode  silent  1
+357  picture  real  0
+357  picture  good  1
+358  battery  fast  1
+358  battery  real  0
+358  battery  nice  1
+359  camera  little  0
+359  camera  work  1
+360  camera  excellent  1
+360  camera  little  0
+362  camera  easy  1
+362  camera  love  1
+362  camera  excellent  1
+365  quality  amaze  1
+365  quality  indistinguishable  -1
+366  card  8mb  0
+367  camera  8mb  0
+368  image  more  0
+369  camera  minor  0
+369  camera  most  0
+369  card  8mb  0
+370  camera  perfect  1
+370  camera  digital  1
+371  camera  digital  1
+371  camera  best  1
+376  lens  optional  0
+376  speed  wide  0
+376  zoom  extra  0
+378  nikon  well-establish  1
+378  nikon  available  1
+378  nikon  newer  0
+381  zoom  built-in  0
+381  zoom  optical  0
+384  camera  direct  0
+386  camera  small  0
+386  lens  wc-e  0
+386  lens  obscure  -1
+388  picture  whole  0
+393  camera  most  0
+393  camera  comparable  0
+393  camera  other  0
+394  camera  small  0
+396  camera  affordable  1
+396  camera  easy  1
+396  image  spectacular  1
+397  shot  good  1
+397  shot  most  0
+397  shot  versatile  1
+397  mode  manual  0
+398  zoom  ideal  1
+399  camera  nikon  0
+399  camera  dependable  1
+399  camera  robust  1
+399  camera  useful  1
+399  camera  little  0
+401  camera  awesome  1
+401  camera  huge  0
+401  camera  tiny  0
+402  camera  same  0
+402  camera  4mp  0
+402  battery  great  1
+402  battery  long  0
+402  battery  last  0
+402  battery  rechargable  0
+403  camera  best  1
+403  zoom  easy  1
+403  zoom  small  0
+403  zoom  good  1
+403  image  excellent  1
+403  image  sharp  1
+j:  249
+i:  489
+BUILD SUCCESSFUL (total time: 32 seconds)

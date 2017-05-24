@@ -1,0 +1,158 @@
+run:
+Reading POS tagger model from E:\Disertation\APIs\stanford-postagger-full-2014-01-04\models\english-left3words-distsim.tagger ... done [1.9 sec].
+norton.txt output:
+wrong: untill  corrected: until
+wrong: occured  corrected: occurred
+wrong: thier  corrected: their
+wrong: begining  corrected: beginning
+Total correction: 4
+Total correction: 0
+Total review: 46
+Total review: 51
+Most Important Features: 
+1 : norton=4.721589
+2 : computer=6.165146
+3 : software=1.5991156
+4 : version=4.5587754
+5 : product=4.5930276
+6 : program=4.0703354
+7 : firewall=2.6050148
+8 : problem=2.5522113
+9 : nis=3.5818954
+10 : symantec=2.2793877
+rev: 45
+Cluster Count: 
+10
+5
+5
+2
+1
+1
+1
+1
+version	 :5.0 Stars
+version with a count 10
+1  This is the fourth version of SystemWorks and the second version of Internet Security that I have used and it has always been a favorite.
+2  These tasks are faster and easier than in prior versions, and I found the menu to be much more navigable.
+3  If you are already using a previous version of nortron security and unistalled it to install the new version, you will still have all kind of problems in installing the new version on your system!
+4  I recommended this for my father based on my experience with previous versions.
+5  If you have an older version of "Internet Security" installed, you may also need to remove it as well before proceeding with SystemWorks install.
+6  If you have no previous version of  nortron security on your system, or Nortron Antivirus, the installation will go fine, otherwise dig in and in to do a major registery clean up!the old programs will leave a trace that will mess up the new installation, even if you uninstalled the old programs perfectly.
+7  The other annoyance with this that you have to remove every single remnant of previous version of Norton SystemWorks before you installs this.
+8  I've tried the free versions of zone alarm and the free version of sygate and they both have a nice and easy installation and work great!.
+problem	 :4.1666665 Stars
+problem with a count 5
+1  I had much of the same problems that everyone else has listed (mainly the SLOOOOOOOOOW processor), and then I couldn't get the damn thing off my computer completely!
+2  The next problem was that it didn't recognize all the installed components, so it would not update them, most notably and importantly, virus definitions.
+3  The biggest problem is the installation.
+4  For purposes of clarity, here is my review from that product,edited to be appropriate for this product, since, for the most part, they share many of the same problems.
+5  I work on word, explorer, netscape, acrobat reader, photoshop at same time (meaning using a lot of memory), but still dont see a problem with computer (getting slow or crashing).
+product	 :2.2727273 Stars
+product with a count 5
+1  At the same time I bought PC-Cillin for the laptop and what a slick product!
+2  All in all it hasn't been a bad product.
+3  I read many reviews on Norton I.S. 2004 from a variety of sources (Cnet, Amazon, message boards) and came to the conclusion that NIS 04 was a terrible product and not worth the update.
+4  For purposes of clarity, here is my review from that product,edited to be appropriate for this product, since, for the most part, they share many of the same problems.
+5  Their products have been great and have saved my bacon on numerous occasions.
+computer	 :1.4285715 Stars
+computer with a count 2
+1  So, if you have a fairly fast computer (1 gig or better) with plenty of ram (512) and your not gaming online or running streaming video continually, you should be fine.
+2  I have a modern PC with lots of speed and memory, but this firewall just brought it to a halt.
+nis	 :5.0 Stars
+nis with a count 1
+1  I had NIS 2003 and was very happy with it; this new version really doesn't seem to offer a lot of exciting new features, seems merely the same as 2003 dressed-up to look like a new version.
+program	 :1.6666667 Stars
+program with a count 1
+1  For security buy Zone Alarm. It's a very friendly program.
+norton	 :2.5 Stars
+norton with a count 1
+1  I am glad that I do not work for Norton.
+firewall	 :1.6666667 Stars
+firewall with a count 1
+1  While it has a rather effective firewall, and comes with Norton Antivirus (which I'm actually rather fond of), the Security Suite has significantly slowed down my system.
+OverAll Rating is : 2.9626622 Out of 5 Stars
+Negative summery is: 
+1  As a loyal customer of Norton/Symantec products, I purchased Internet Security 2004 as a software firewall and could not be any more dissatisfied with the product (and hence the one star rating).
+
+2  This is a terrible company with a bad product and awful support.
+
+3  I read many reviews on Norton I.S. 2004 from a variety of sources (Cnet, Amazon, message boards) and came to the conclusion that NIS 04 was a terrible product and not worth the update.
+
+4  Too bad the product is cumbersome and intertwined trying to do so much at one time.
+
+1  I downloaded this set from Norton, and within minutes my Internet connection failed and my PC was almost dead due to registry problems from the download.
+
+2  An infected computer tried to launch an attack on mine and I was able to get a map and address of the server.
+
+3  Buying software that can not be installed normally and being put into the position of having a non-working computer.
+
+4  But that is good for me because Symantec softwares are a bit hard to master for me who are not savvy on computers.
+
+5  I work on word, explorer, netscape, acrobat reader, photoshop at same time (meaning using a lot of memory), but still dont see a problem with computer (getting slow or crashing).
+
+1  I have used Norton for the past 5 years and for the last 2 years, the software has gotten more and more disgraceful.
+
+2  I have never had this problem with any other software on my computer.
+
+1  I decided to give it one last chance... so I formatted my hard drive, reinstalled Windows XP (which also required a day & night download/install of SP2 on dial-up) and put NIS2004 back onto the computer.
+
+2  Next I de-fragged my hard drive.
+
+1  Eventually I will uninstall this troublesome bug-filled program.
+
+2  I am an advanced computer user, so I cannot even imagine how a new or novice user would ever get this terrible program to work!
+
+1  It can not be the computer or the owner, since I purchased McAfee Anti-Virus 8 and it installs and works fine with no problems.
+
+1  And, when you think about it, it's insulting that Norton requires its customers to jump through these hoops -- anyone who can provide proof of purchase, whether on the phone or online (what if your computer is down?), should have equal priority.
+
+FINAL RESULT: 
+J: 0  4  problem  fine  -1
+J: 1  5  software  more  -1
+J: 2  5  software  disgraceful  -1
+J: 3  6  norton  glad  1
+J: 4  15  software  other  -1
+J: 5  18  computer  non-working  -1
+J: 6  21  product  more  -1
+J: 7  21  product  dissatisfied  -1
+J: 8  28  computer  savvy  -1
+J: 9  31  product  bad  -1
+J: 10  31  product  cumbersome  -1
+J: 11  38  computer  fast  1
+J: 12  47  product  appropriate  1
+J: 13  47  problem  same  1
+J: 14  49  version  fourth  1
+J: 15  49  version  second  1
+J: 16  56  problem  biggest  1
+J: 17  67  problem  next  1
+J: 18  71  version  prior  1
+J: 19  73  version  previous  1
+J: 20  78  version  older  1
+J: 21  100  norton  insulting  -1
+J: 22  117  computer  infected  -1
+J: 23  194  program  terrible  -1
+J: 24  208  program  troublesome  -1
+J: 25  214  version  previous  1
+J: 26  227  nis  happy  1
+J: 27  242  product  terrible  1
+J: 28  242  product  worth  -1
+J: 29  289  computer  dead  -1
+J: 30  299  product  bad  -1
+J: 31  310  version  previous  1
+J: 32  317  version  previous  1
+J: 33  319  version  free  1
+J: 34  319  version  free  1
+J: 35  337  product  slick  1
+J: 36  345  problem  dont  1
+J: 37  345  computer  slow  -1
+J: 38  351  product  bad  1
+J: 39  354  firewall  effective  1
+J: 40  384  firewall  hard  -1
+J: 41  395  program  friendly  1
+J: 42  399  problem  same  1
+J: 43  400  firewall  hard  -1
+J: 44  418  computer  modern  1
+J: 45  439  product  great  1
+j:  46
+i:  81
+BUILD SUCCESSFUL (total time: 2 minutes 37 seconds)

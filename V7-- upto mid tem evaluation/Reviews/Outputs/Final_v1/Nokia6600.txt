@@ -1,0 +1,295 @@
+run:
+Reading POS tagger model from E:\Disertation\APIs\stanford-postagger-full-2014-01-04\models\english-left3words-distsim.tagger ... done [1.5 sec].
+Total correction: 0
+Total correction: 0
+Total review: 49
+Total review: 51
+Most Important Features: 
+1 : number=1.2653301
+2 : computer=2.3507113
+3 : bluetooth=2.7508802
+4 : message=1.2103873
+5 : screen=1.115323
+6 : nokia=4.951585
+7 : month=1.0051382
+8 : europe=2.2007043
+9 : datum=1.8705987
+10 : contact=1.540493
+11 : phone=23.707573
+12 : application=2.3107393
+13 : t-mobile=1.9806337
+rev: 48
+Cluster Count: 
+51
+7
+6
+5
+5
+3
+3
+2
+2
+2
+2
+1
+phone	 :4.047619 Stars
+phone with a count 51
+1  Best phone i've ever owned, period.
+2  If you find a better phone, then I suggest you go for it.
+3  6) The phone is really wide, which seems to be a turnoff for many people, but the phone is actually easier to grip and feel more ergonomic.
+4  but this by far is the best phone out there right now!
+5  Nokia makes great phones, and this one is the cream of the crop.
+6  It's a nice phone, and I'm glad to have used it.
+7  I feel much less likely to drop this phone than others, which are actually starting to get too small.
+8  Why is this phone so great?
+9  This makes for a great phone.
+10  This is the first phone I know of that has the large bright screen, infrared, bluetooth, USB connector and a speakerphone.
+11  I wouldn't use it for business purposes and hand one out to all my employees, because you tend to want a little more rugged a phone for that.
+12  I would suggest this phone for all but the simple-minded... or those who simply don't need so many features.
+13  I do not need to repeat what's great about this phone.
+14  And remember, this is a PHONE first and foremost which is where I have my biggest complaints...
+15  This may be a really cool phone, but it's not worth it with T-Mobile.
+16  this is a great phone i have this phone since Feb 04 and i never have any problem at all.
+17  This phone is fantastic.
+18  I purchased this phone knowing it was slightly old as compared to the newer models of Nokia phones available.
+19  This phone is flashy and feels good in the hand, but it could not hold a connection to any of my bluetooth devices (headset, handheld, or desktop computer).
+20  Overall the phones fantastic, and I would have given it 5 stars, but its not perfect.
+21  The bottom line is "Phone is cool one - only for the moment, as its the latest phone in the market and has all the new features, but this will soon be displaced by upcoming newer phones".
+22  The nokia 6600 is a great phone, good games, good camera.
+23  So if you order one of the top 10 bestselling phones from Amazon now, it will take at least 3 weeks for your shipment to be delivered...guess Amazon is waiting for seconds to re-package,
+24  If you've never used an advanced mobile phone before, you might assume this is par for the course, but it simply isn't.
+25  Probably a great phone overall, and perhaps mine just has bugs.
+26  I called Nokia to try to get it sorted out, and they stated that they had no recollection of ever promising to repair the phone for free.
+27  All in all, this is a great phone.
+28  I really dislike holding a phone to my ear, and I've found the Freespeak to be very comfortable and easy to use with this phone.
+29  The phone is sturdy.
+30  After over two hours of being placed on hold and persuasion, a supervisor finally agreed to fix the phone for free.
+31  This phone has a nice blend of features without going overboard.
+32  Ive had this phone for a year now - and its the best phone I have owned.
+33  5.The Camera installed on this phone is awesome.
+34  With one of the most intuitive user-interfaces around, seamless bluetooth sync with Microsoft Outlook, support for thousands of applications for the Symbian platform which this phone runs on (I own the IR Remote, ICQ and a few others), the Nokia 6600 is all of the above - one of the few phones from T-Mobile that can claim such a distinction.
+35  Few will look at the phone and know it's 'all that'.
+36  What I have found useful to consider before purchasing a phone:  - decent battery life - good call quality - user-friendly interface - camera/video functions - bluetooth - ability to sync contacts stored in the PC with the phone (no more manual entries!)
+37  This isn't the most rugged phone ever but then your not gonna play aeroplane with this,are you.
+38  The phone itself is pretty nice.
+39  The display and brightness on this phone is quite extraordinary.
+40  In my humble opinion, games, along w/ 'flip phones' belong in the hands of teenagers.
+41  This phone is one of the best I've ever used.
+42  The 6600 was the best phone I could find with these options that I could get with t-mobile.
+43  The Nokia 6600 is really just a glorified 3650: you know the 3650, those bulbous, formless, big phones a few unfortunate ATT customers are carrying around.
+44  The handsfree provided by the phone is useful for those who talk on the phone while driving.
+45  While this phone obviously doesn't have the same quality construction as Motorola does, the Nokia 6600 is one of the better phones I've used.
+46  When I purchased this phone , I thought to myself that I had purchased the most popular phone around and the thought didn't please me.
+47  Overall I dont think I will ever upgrade from this phone.
+48  This simple nuance was too much for Nokia, and they still refuse to acknoledge the fact that their technician could have broken the phone or repair the phone for free.
+49  :! OK, score 7.0 Oh yes, the newest color of this phone is quite cool.
+screen	 :5.0 Stars
+screen with a count 7
+1  Solid, squeak-free, large screen.
+2  It was an OK phone with a really nice screen, great battery life, decent signal, and cool applications.
+3  This is the first phone I know of that has the large bright screen, infrared, bluetooth, USB connector and a speakerphone.
+4  Among my requirments for a phone were: good screen, decent camera, bluetooth, and GPRS support.
+5  The screen is quite big (between all handphone), but the just about 65000 color.
+6  The ringtones are beautiful, the screen is super high quality.
+application	 :4.285714 Stars
+application with a count 6
+1  APPLICATIONS: It has lots of applications and they work very well... when you eventually find where they are and they finally open.
+2  No matter how accustomed to the phone you become, too much time is required to get to, open and close applications.
+3  On the other hand, one may leave many applications open at once, hide them and return to them just where they left off - similar to a Mac.
+4  It was an OK phone with a really nice screen, great battery life, decent signal, and cool applications.
+message	 :4.1666665 Stars
+message with a count 5
+1  The plusses are the features, look, good signal and battery life, memory size and robustness.
+2  It was an OK phone with a really nice screen, great battery life, decent signal, and cool applications.
+3  UPSIDE: This one, like most Nokias, receives a consistently strong signal (I've tried some Samsung and Sony Ericsson models which were very weak on the reception front).
+4  I almost always get a good strong signal, even in fairly remote areas here in the southwest.
+europe	 :5.0 Stars
+europe with a count 5
+1  It's a bit pricey to call home from other countries but the instant messaging to and from covered countries in Europe are quite reasonable.
+2  I've gone from almost every Nokia phone since they were only known and operational in Europe.
+3  Other than that, the simbian series 60 OS is great and offers lots of proprietary software that will work on your phone if you're willing to hunt for it.
+4  STYLING/ERGONOMICS: The keys are small, which generally doesn't bother me if they are spaced because I can employ a little 'Braille,' but the keys run into each other, so careful attn. must be paid when dialing.
+computer	 :3.75 Stars
+computer with a count 3
+1  This includes ALL Palm PDAs! Further, due to an unparalled design oversight, Nokia is the only device that supports Combination Key that is NOT BACKWARDS COMPATIBLE with the older devices that people actually own.
+2  Although it has chubby hips, the device isn't really so big.
+3  On the plus side it's packed with features, including BlueTooth that works fine - it's really a tiny computer that is also a phone... and that's the negative.
+number	 :5.0 Stars
+number with a count 3
+1  Besides the above mentioned Merits , the phone has decent ear volume and loudspeaker functionality.
+2  I upgraded mine to a 128 MB MMC Card via which I can store unlimited number of messages, take a thousand pictures and videos.
+3  When you dial a number, you'll need to check the screen to see that the number entered is correct.
+nokia	 :1.6666667 Stars
+nokia with a count 2
+1  My last simpler Nokia started right up and was immediately ready for use.
+2  3) The joystick design they are using on the new Nokias gives you a great degree of control.
+month	 :5.0 Stars
+month with a count 2
+1  Few month ago, it's very popular among my community.
+2  I bought this phone a few months ago and I have been using it since then.
+bluetooth	 :5.0 Stars
+bluetooth with a count 2
+1  I love the Bluetooth; easy to use with a wireless Jabra headset.
+2  5) Bluetooth wireless technology, so that I can transfer data to and from my computer without messing with any cables.
+t-mobile	 :3.3333335 Stars
+t-mobile with a count 2
+1  I also am loving T-Mobile (100 times better than ATT...
+2  Have had the Nokia 6600 for a year now and am generally very happy with it and with T-Mobile.
+datum	 :5.0 Stars
+datum with a count 1
+1  This is great for putting photos and memos on the computer and transferring calander data to my phone.
+OverAll Rating is : 4.2708335 Out of 5 Stars
+Negative summery is: 
+1  2) Phone is awfully slow.
+
+2  On the plus side it's packed with features, including BlueTooth that works fine - it's really a tiny computer that is also a phone... and that's the negative.
+
+3  I must admit its not the best looking phone ever but then it has this look of static and absolute conviction that looks like everything a phone should be
+
+4  I find this feature on this phone useless, but, since I don't really need this function anyway, I don't really use it.
+
+5  At first glance, I thought this phone was a little too big for me, maybe a little too complicated.
+
+6  This phone is not suitable for fast people, maybe only for old people.
+
+7  i bought this phone last march, almost a year ago, in saudi arabia (it came out there before it did here).
+
+8  I've have many Nokia's and while this is the best for features, it's the worst as a phone.
+
+9  4- My idea was that it was an all-in-one , and that theory -once again- proves wrong , this phone excels at nothing , less  than average in everything , if you seriously need any of the "other than phone" functionalities , you'll be disappointed .... if you have lots of money and bought it for the love of gadgets then fine .... but don't expect to get much done .
+
+10  I'm an advocate of Nokia , but this phone and the following models (7610) , are seemingly a desperate trial at squeezing as much under-engineered and experimental technologies in one sloppy phone .
+
+11  If you've never used an advanced mobile phone before, you might assume this is par for the course, but it simply isn't.
+
+12  With Bluetooth off the phone last almost twice as long.
+
+1  3- It is SLOW , if you keep the original configuration and progs (why'd u buy it then ?!) it'll run smoothly , but still slower than most other coloured-screen Nokias .
+
+2  but, i am quite unhappy with nokia at the moment.
+
+3  Ultimately you will learn just how bad Nokia is, and why their recent loss of market share is so utterly deserved.
+
+4  I've have many Nokia's and while this is the best for features, it's the worst as a phone.
+
+1  I must say, this one is quite slow to open an application.
+
+1  This is somewhat annoying, but from working with computers (espcially windows -- ugh...)
+
+1  This helps prevent people from sending short "obscene" messages to your phone.
+
+1  This may be a really cool phone, but it's not worth it with T-Mobile.
+
+FINAL RESULT: 
+J: 0  4  phone  great  1
+J: 1  7  phone  first  1
+J: 2  7  screen  large  1
+J: 3  7  screen  bright  1
+J: 4  20  phone  old  1
+J: 5  33  phone  best  -1
+J: 6  38  number  unlimited  1
+J: 7  42  phone  sturdy  1
+J: 8  45  phone  rugged  1
+J: 9  47  phone  awesome  1
+J: 10  49  phone  extraordinary  1
+J: 11  51  number  above  1
+J: 12  56  phone  useful  1
+J: 13  62  phone  overall  1
+J: 14  63  phone  popular  1
+J: 15  65  phone  great  1
+J: 16  71  computer  tiny  1
+J: 17  71  phone  negative  -1
+J: 18  73  phone  first  1
+J: 19  73  phone  foremost  1
+J: 20  74  number  correct  1
+J: 21  78  nokia  many  -1
+J: 22  78  phone  worst  -1
+J: 23  82  phone  flashy  1
+J: 24  87  europe  known  1
+J: 25  87  europe  operational  1
+J: 26  95  phone  last  -1
+J: 27  111  screen  big  1
+J: 28  113  application  slow  -1
+J: 29  117  month  few  1
+J: 30  121  phone  cool  1
+J: 31  124  phone  better  1
+J: 32  131  nokia  new  1
+J: 33  135  bluetooth  wireless  1
+J: 34  136  datum  calander  1
+J: 35  137  phone  wide  1
+J: 36  138  phone  likely  1
+J: 37  142  phone  rugged  1
+J: 38  150  phone  advanced  -1
+J: 39  150  phone  mobile  1
+J: 40  152  application  open  1
+J: 41  153  application  open  1
+J: 42  153  application  close  1
+J: 43  154  application  many  1
+J: 44  154  application  open  1
+J: 45  162  europe  little  1
+J: 46  165  phone  few  1
+J: 47  168  computer  big  1
+J: 48  169  screen  large  1
+J: 49  188  phone  flip  1
+J: 50  199  phone  simple-minded  1
+J: 51  203  screen  nice  1
+J: 52  203  message  decent  1
+J: 53  203  application  cool  1
+J: 54  207  phone  nice  1
+J: 55  207  phone  glad  1
+J: 56  216  message  obscene  -1
+J: 57  220  computer  compatible  1
+J: 58  231  phone  free  1
+J: 59  237  phone  free  1
+J: 60  240  phone  free  1
+J: 61  244  nokia  bad  -1
+J: 62  249  phone  best  1
+J: 63  258  message  good  1
+J: 64  262  phone  great  1
+J: 65  267  phone  suitable  -1
+J: 66  275  phone  better  1
+J: 67  277  phone  complicated  -1
+J: 68  281  screen  super  1
+J: 69  287  phone  great  1
+J: 70  311  nokia  slower  -1
+J: 71  314  phone  wrong  -1
+J: 72  317  phone  sloppy  -1
+J: 73  320  month  few  1
+J: 74  342  phone  great  1
+J: 75  343  phone  best  1
+J: 76  361  message  strong  1
+J: 77  362  bluetooth  easy  1
+J: 78  365  nokia  simpler  1
+J: 79  369  phone  useless  -1
+J: 80  375  phone  great  1
+J: 81  378  phone  useful  1
+J: 82  379  phone  few  1
+J: 83  380  phone  best  1
+J: 84  390  phone  top  1
+J: 85  392  phone  cool  1
+J: 86  392  t-mobile  worth  -1
+J: 87  398  phone  fantastic  1
+J: 88  411  phone  best  1
+J: 89  425  phone  nice  1
+J: 90  433  phone  nice  1
+J: 91  448  phone  last  -1
+J: 92  450  phone  great  1
+J: 93  455  phone  fantastic  1
+J: 94  484  screen  good  1
+J: 95  485  phone  best  1
+J: 96  503  computer  annoying  -1
+J: 97  507  phone  easy  1
+J: 98  513  phone  great  1
+J: 99  518  t-mobile  loving  1
+J: 100  521  t-mobile  happy  1
+J: 101  523  message  good  1
+J: 102  523  message  strong  1
+J: 103  532  europe  reasonable  1
+J: 104  540  phone  few  1
+J: 105  549  europe  willing  1
+J: 106  566  phone  slow  -1
+J: 107  574  phone  cool  1
+J: 108  585  nokia  unhappy  -1
+j:  109
+i:  175
+BUILD SUCCESSFUL (total time: 3 minutes 17 seconds)

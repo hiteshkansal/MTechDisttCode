@@ -1,0 +1,759 @@
+run:
+Reading POS tagger model from E:\Disertation\APIs\stanford-postagger-full-2014-01-04\models\english-left3words-distsim.tagger ... done [1.4 sec].
+ApexDVDplayer.txt output with :Nokia6610.txt
+Total correction: 0
+Total correction: 0
+Total review: 117
+Total review: 51
+Most Important Features: 
+1 : price=2.232888
+2 : player=5.0694118
+3 : apex=3.7435656
+4 : unit=2.3397286
+5 : everything=1.2478553
+6 : month=2.5544462
+7 : money=1.3237067
+8 : dvd=6.55124
+9 : christmas=1.4818282
+10 : movie=1.6869515
+11 : product=1.011743
+12 : disc=1.7937919
+13 : picture=1.52883
+14 : problem=2.3001819
+15 : amazon=1.2168664
+rev: 114
+Cluster Count: 
+39
+36
+34
+34
+31
+18
+17
+15
+10
+10
+8
+6
+5
+4
+4
+dvd	 :3.482143 Stars
+dvd with a count 39
+1  after hooking the thing up , i found that it would only played less than 50 % of the dvds i put in it .
+2  most of the dvds i was trying were fairly new and were in great condition .
+3  it 's running great for all the dvds i have and rented .
+4  i only wanted something to play dvds on but this machine has all these other features that i probably will never use but it 's nice to know that there 're there .
+5  so far i 've played regular dvd 's , backup dvd-r 's , mp3 cd 's , and regular cd 's .
+6  what disappointed me is the fact that it does not seem to read certain dvds .
+7  i 've tried several dvd 's and even new ones do the same thing .
+8  forget about the sleek looks if it can 't play some of your real dvds.
+9  i pulled out our old non-progressive scan toshiba , hooked it back-up and the " finding nemo " dvd works fine .
+10  seemed like a good deal , but this pos frequently cannot recognize dvds and music cds -- takes a long time loading and then concludes , " no disc " .
+11  i have several tv shows on dvd so they are divided by episode .
+12  [t] excellent second dvd , or first dvd for hdtv ready tv.
+13  when i hooked it up it only produced sound - a cd played fine , but with a dvd i only got the audio - no picture !
+14  the player usually plays dvd 's , but has occasional problems such as : 1 ) not recognizing a dvd 2 ) stopping a particular point in a movie every time we played it 3 ) not being able to access certain special features on a rental dvd .
+15  this has happened with several different dvd 's and occasionally if we keep trying something , it will work when it did not work one time before .
+16  i bought this dvd player mainly because my old sharp dvd player could not play most of the dvds from the store that i rent from and i had to watch them using my pc 's dvd-rom player .
+17  i like the auto fit feature = you can stretch widescreen dvd 's to normal .
+18  it plays basically every media i 've tested so far , even an old vcd that i ripped years ago and the rental dvd that could n't be played on my old $ 200 sharp player !
+19  i immediately had problems getting the player to recognize two of my favorite dvds .
+20  the cool thing about the ad-2600 it plays a lot of different file like mp3 , wma cds , jpeg and kodak picture cds , dvd 's , dvd - / + r 's .
+21  player has a problem with dual-layer dvd 's such as alias season 1 and season 2 .
+22  [t] poor quality - problem with dual-layer dvd 's .
+23  seems to read most dvds fine , and reads quietly ( i had a pioneer player that had fairly loud disc spin noise ) .
+24  player works and looks great - if you can get the dvd 's to play .
+25  for instance , i made several back-ups of my dvd movies using dvd-r ( w ) and + r ( w ) and it plays the dvds .
+26  i was surprised to find that not only could this dvd player play mpeg2 format which allowed me to stack 2 movies on a dvd , but it also was able to play vob files which i created with smart ripper .
+apex	 :4.090909 Stars
+apex with a count 36
+1  most of them are already switched to apex and they are happy .
+2  [t] the second apex - at least it 's prettier than the last .
+3  i purchased the apex 2600 after reading good reviews of it , both here and in other places .
+4  i think , apex is the best dvd player you can get for the price .
+5  the physical appearance of this apex compared to one previous ( ad1100w ) is most appreciated .
+6  i read in consumer reports that apex is a reliable brand , but with my experience and reading the other reviews , i think i will be doing a little more homework before considering another apex product .
+7  the apex 2600 has been a steady performer for me .
+8  we 've purchased 3 universal remotes so far-all claiming to work " apex " dvd players and none worked .
+9  [t] apex and remote control .
+10  you might think you are saving money by buying an apex but in the long run you will spend more .
+11  i have done some research and experimenting with the remote when my apex ad-2500 seemed to have lost its video signal .
+12  i spoke to a rep. at apex and was told that a new format is being used and we won't be able to view any disney movies made in the last couple months .
+13  any possible problems should be weighed against the bang-for-the-buck factor , along with the fact that companies like apex seldom have good after-sale support .
+14  apex is the best cheap quality brand for dvd players .
+15  i have tried several times to contact apex digital through their on-line support site and their telephone line , but they wo n't answer my emails and their telephone line is always busy .
+16  i will never buy another apex digital product !
+17  i tried e-mailing apex and they come back saying undeliverable .
+18  anyway , the initial impression is much better than when i opened the box on the 1100 over a year ago - you can telll that apex is trying harder to improve their product .
+19  i have sent my ad2600 back to apex because it wo n't play certain disney and other dvd movies ( no disc message ) .
+20  same story as everybody else when trying to get service from apex - nothing .
+21  have tried to contact apex via e-mail ( customerservice@apexdigital.com ) , but the e-mail address is not valid .
+player	 :3.9534883 Stars
+player with a count 34
+1  my first player ( model ad-500a ) went into the trash about 6 months after i bought it .
+2  when the player was working it was great ,but .
+3  i bought this dvd player mainly because my old sharp dvd player could not play most of the dvds from the store that i rent from and i had to watch them using my pc 's dvd-rom player .
+4  the player looked good right out of the box , offering lots of features and good styling .
+5  it plays basically every media i 've tested so far , even an old vcd that i ripped years ago and the rental dvd that could n't be played on my old $ 200 sharp player !
+6  before you try to return the player or waste hours calling apex tech support , or run the player over with your car , try these simple troubleshooting ideas first .
+7  called customer service and basically was told to either keep buying univ. remotes to try or buy the replacement remote for $ 23 ( which is almost half of what i paid for the whole player ) .
+8  i did not want to have high expectations for this apex player because of the price but it is definitely working out much better than what i would expect from an expensive high-end player .
+9  little inconveinent , but unlike other players i only paid 40 $ .
+10  [t] frustrating just hope you never lose / break the remote for this player !
+11  as i emailed to the the customer service department , the only thing this player has done consistantly is use enought electricity to keep the red led burning .
+12  [t] great dvd player .
+13  [t] great player ... when it worked !
+14  this was an awesome player , before the video output no longer worked ( after about 3 weeks ) .
+15  at first i thought it is only a isolated incident , but i was proven wrong when the player would not read my " alias " dvds as well .
+16  also , it was only $ 39.99 ( after rebate ) with free shipping and no tax so overall it is a decent player .
+17  progressive scan player for a relatively low price ( although the better known manufacturers like toshiba , pioneer , and panasonic are now offering lower-priced progressive scan players as well ) .
+18  for those of you who has problems with this player , i 'd suggest checking the owners manual to get the right setting so that you are not displaying the wrong mode and have no picture , etc.
+19  what can i say , i bought the ad600 2 years ago and it was probly the best dvd player ever , quality design , stable , plus it uses a standard ide interface so you can use an old dvd drive from your computer if the player dies .
+20  im a more happier person after discovering the i/p button !
+21  all in all , trying to save some money on this player resulted in me shelling a great deal more when i purchased a much nicer dvd vcr combo player to make up for blazing crappiness of this very embarrassing gift .
+22  when i 1st tried it i found that it had no problem playing the more expensive dvd - r media disc 's that other players would play but to my surprise was able to play cheep media that i had burned that i could n't get to work before in anything but the dvd burner itself that i had made the disc with .
+23  [t] best player for the buck .
+24  i 've had this player for several months and it reads most discs , but it would not recognize several discs that were clean and read on other players ( from friends season 2 ) .
+month	 :4.25 Stars
+month with a count 34
+1  repost from january 13 , 2004 with a better fit title .
+2  purchased the ad-2600 about a month ago and have had numerous problems with it .
+3  i purchased one of these to replace an ailing dvd player that 's a few years old .
+4  mine was 2 weeks old and i chucked it in the trash , where it belongs .
+5  each of the 4 lasted less than six months .
+6  i tried calling the support number for a week , several times a day , and always got a busy signal .
+7  after we discovered the problems , we tried to contact apex ( fkor 3 months ) , but we never got in touch with them.the customer support telephone number is always busy , and they do not answer their web customer support .
+8  i have owned an apex ad-3201 for close to 3 years now and i love that deck .
+9  i purchased the ad 2600 from another company last month and was very satisfied with my purchase , until last night .
+10  anyway , the initial impression is much better than when i opened the box on the 1100 over a year ago - you can telll that apex is trying harder to improve their product .
+11  only owned it about two weeks so i expect we 're looking at getting another progressive scan dvd player of higher quality very soon .
+12  i 've had the player for about 2 years now and it still performs nicely with the exception of an occasional wwhhhrrr sound from the motor .
+13  i have an apex ad600 for a few years now which still works great today .
+14  update : january 27th 2004 - the second one crapped out only after a week - dont buy this product !
+15  less than a month later the screen freezes and eventually shows " no disc . "
+16  it plays basically every media i 've tested so far , even an old vcd that i ripped years ago and the rental dvd that could n't be played on my old $ 200 sharp player !
+17  save money on the long run - buy something decent once instead of buying cheap every month .
+18  this problem vanished after the first month , so i assume it was a temporary dust issue .
+19  the second lasted about two weeks before the video went out !
+20  set up was easy and we enjoyed it for just over a week .
+21  in the last month i bought the apex ad-1600 and the ad-1220 .
+22  i know the saying is " you get what you pay for " but at this stage of game dvd players must have better quality than this - there is no excuse .
+23  what can i say , i bought the ad600 2 years ago and it was probly the best dvd player ever , quality design , stable , plus it uses a standard ide interface so you can use an old dvd drive from your computer if the player dies .
+24  apex has still not responded to my email describing the problem after almost a week and their customer service line is always busy .
+25  i have had this player for 3 months and have been able to see a total of 6 dvd 's , after the frustration and aggrivation of getting the player to do it 's job .
+26  i 've had this player for several months and it reads most discs , but it would not recognize several discs that were clean and read on other players ( from friends season 2 ) .
+problem	 :4.189189 Stars
+problem with a count 31
+1  i end up unplugging it from the wall for a few hours and when i try again it will work fine.at least until this problem arises again .
+2  the only thing i did experience was a problem of the player freezing while playing , which i was able to clear by opening it up and blowing it out with " canned air . "
+3  purchased the ad-2600 about a month ago and have had numerous problems with it .
+4  i bought mine in december of 2003 , and have had no real problems with it .
+5  i am returning mine for a replacement , but if i receive another ad-2600 with the same or similar problems i will not only return it for a refund , but never buy another apex product in the future .
+6  most of the dvds i was trying were fairly new and were in great condition .
+7  it played only one out of three dvd 's without problems , the other two being afflicted by a number of glitches .
+8  had this been my only dvd player , though , it would have been a real problem .
+9  i 've had no problems at all so far and i 'm very happy .
+10  i am surprised amazon still carries this after all of the continued problems .
+11  if problem occurs again i will repost my new rating .
+12  for other problems go to http://www.apexdigitalinc.com/support.asp
+13  unlike some of the other people who received a " lemon " , my dvd player came in perfect working condition .
+14  any possible problems should be weighed against the bang-for-the-buck factor , along with the fact that companies like apex seldom have good after-sale support .
+15  on 2 dvds so far it refuses to play certain episodes with no problems on the others on the dvd .
+16  i am still trying to resolve the problem with the second one .
+17  i searched on the internet and found one tip which solved our problem : press i/p button on the remote control .
+18  besides the one problem , this machine is amazing !
+19  the button on the remote to switch from pal to ntsc was undoubtedly my problem .
+20  they sent me a new ad2600 with the same problem .
+21  the player usually plays dvd 's , but has occasional problems such as : 1 ) not recognizing a dvd 2 ) stopping a particular point in a movie every time we played it 3 ) not being able to access certain special features on a rental dvd .
+22  i call apex customer service and they told me that there is a known problem with the model playing disney and other movies and that it is not there problem so i 'm stuck with a new dvd player that wo n't play my kids disney movies .
+price	 :3.6000001 Stars
+price with a count 18
+1  i was so excited about the price and reviews of this dvd player .
+2  of course , i was hesitant given the price , but i 've been extremely impressed since receiving it , and bought a second one as a christmas present for my parents .
+3  and amazon.com has it for such a great price -- how can you go wrong ?
+4  [t] fantastic dvd player for the price .
+5  i did not want to have high expectations for this apex player because of the price but it is definitely working out much better than what i would expect from an expensive high-end player .
+6  [t] great by for the price .
+7  even if i had paid full price i would have considered this a good deal .
+8  i bought this player during a christmas sale at an excellent price .
+9  my dad also has an apex tv and it was another great value for the money .
+10  [t] great value .
+11  i bought this apex 2600 dvd player for myself at christmas because it got good reviews as a good value for the money on a variety of different sites .
+12  if you 're a bargain hunter and you want a great feature set for a rock-bottom price , i highly recommend this model .
+13  [t] for the price , an excellent buy .
+14  progressive scan player for a relatively low price ( although the better known manufacturers like toshiba , pioneer , and panasonic are now offering lower-priced progressive scan players as well ) .
+15  [t] good price , bad product .
+16  for the price , it 's a very nice dvd player .
+picture	 :3.6956522 Stars
+picture with a count 17
+1  the picture is perfect , although i 'm not watching on an hdtv .
+2  by pressing p/n , you should be able to get a good picture on the screen .
+3  for those of you who has problems with this player , i 'd suggest checking the owners manual to get the right setting so that you are not displaying the wrong mode and have no picture , etc.
+4  the build quality feels solid , it does n't shake or whine while playing discs , and the picture and sound is top notch ( both dts and dd5.1 sound good ) .
+5  also , for some reason the picture looks washed out on s-video , with lots of color bleeding , compared to a component connection ( should not be much of a perceptible difference on a 27 " tv ).
+6  received apex dvd and the picture was great when set up with s connector .
+7  the picture is clear , bright and sharp and the sound is good .
+8  maybe it 's good for tvs with not so good color settings , but not good for my tv that already has very vibrant pictures .
+9  there are really easy directions for setup and fiddling around with the picture , zoom etc .
+10  [t] no picture and / or no sound , try i/p button on the remote .
+unit	 :3.409091 Stars
+unit with a count 15
+1  there were sharp screw tips on the underside of the unit coming from inside that were obviously used to anchor the internal control board .
+2  still , i was willing to overlook those things as this unit looks sleek and has a myriad of features !
+3  i guess i 'm just lucky to get a good working unit !
+4  i do want to mention too that it is certainly worthwhile to read the instruction manual that comes with the unit .
+5  the entire unit was poorly crafted .
+6  another nice thing is that the unit has both optical and coax digital audio outputs , though the latter was not mentioned in the literature i 'd scanned before buying .
+7  unit worked great for 3 weeks then video output failed .
+8  it 's not a listed feature but , the one thing that sold the unit is that it plays mpeg video .
+9  it worked from 12-26 to 1-9 at which time the picture failed completely ( see other negative reviews-my unit was n't the only one this happened to . )
+10  but , dollar for dollar , this dvd player is probably the best out there .
+amazon	 :4.5454545 Stars
+amazon with a count 10
+1  amazon was wonderful about picking it up the next day and paying for the return shipping .
+2  ( good going , amazon ).
+3  amazon , do your customers a big favor , do n't carry this item , and give them refunds !
+4  i purchased the ad2600 after feeling comfortable with the reviews i read here on amazon .
+5  thankfully amazon has free return shipping !
+6  finally , amazon 's free shipping is really getting good , it took only 3 working days for the player to reach me !
+7  i have had great experience with amazon , but i will probably not buy electronics any more from them to avoid any future return problems .
+8  i am surprised amazon still carries this after all of the continued problems .
+9  hopefully the replacement from amazon will work just fine .
+movie	 :3.846154 Stars
+movie with a count 10
+1  the catch is that , while it plays movies just fine , it has refused to read second discs with the movie " extras " on them on the two occaisions when i tried to do that .
+2  the comments i 've read about having problems with this dvd player all seem to stem from pushing the incorrect buttons on the dvd remote.for instance , pushing the button to play pal ( european type ) movies , when an ntsc ( usa type ) movie disk is in the disk tray .
+3  i wish it would do the same for movies , but that 's one rare / cool feature you will have to forgo .
+4  connecting the same outputs to a video card in my computer , there was sound but still no picture .
+5  i have shopped with amazon before and have been very happy with their performance thus far .
+6  output through component connections looks very good , on my non-hd tv .
+7  i call apex customer service and they told me that there is a known problem with the model playing disney and other movies and that it is not there problem so i 'm stuck with a new dvd player that wo n't play my kids disney movies .
+8  the player usually plays dvd 's , but has occasional problems such as : 1 ) not recognizing a dvd 2 ) stopping a particular point in a movie every time we played it 3 ) not being able to access certain special features on a rental dvd .
+product	 :3.0769231 Stars
+product with a count 8
+1  we are overall pleased with product .
+2  i had to return the remote on this product because it appeared to be defective .
+3  because of this , i am disappointed and would not recommend this product .
+4  i figured with a great first product and with this one having more features than the 600 i would buy one .
+5  i am very pleased with this product and the price to match and have n't had any problems .
+everything	 :3.75 Stars
+everything with a count 6
+1  i just hooked it up and everything seemed to be going fine .
+2  it looks really sleek and stylish , and does everything it claims .
+3  for the first few weeks , this player was everything i expected it to be , an affordable multi-format dvd player with a stylish slim case as advertised .
+4  this player seems to work fine with everything else .
+christmas	 :3.125 Stars
+christmas with a count 5
+1  of course , i was hesitant given the price , but i 've been extremely impressed since receiving it , and bought a second one as a christmas present for my parents .
+2  prior to christmas , it seems the reviews were very good but after that it seems the reviews went bad !
+3  one of the dvd 's i received as a christmas present kept freezing .
+4  i bought this player as a christmas present for my wife .
+5  i bought this apex 2600 dvd player for myself at christmas because it got good reviews as a good value for the money on a variety of different sites .
+disc	 :3.3333335 Stars
+disc with a count 4
+1  on several different occasions it has displayed " no disc " with a disc inside .
+2  i 've tried playing all of these discs and they all play great .
+3  i 've had this player for several months and it reads most discs , but it would not recognize several discs that were clean and read on other players ( from friends season 2 ) .
+money	 :2.5 Stars
+money with a count 4
+1  amazon.com promptly refunded my money for the first one , because a replacement was not available ( thanks amazon.com !
+2  for the money , get a better quality player .
+3  do yourself a favor and save your money to get something of better quality , or at least works .
+OverAll Rating is : 3.6564891 Out of 5 Stars
+Negative summery is: 
+1  what disappointed me is the fact that it does not seem to read certain dvds .
+
+2  i bought this dvd player mainly because my old sharp dvd player could not play most of the dvds from the store that i rent from and i had to watch them using my pc 's dvd-rom player .
+
+3  after about an hour it starts skipping like the dvd 's are dirty .
+
+4  seems to read most dvds fine , and reads quietly ( i had a pioneer player that had fairly loud disc spin noise ) .
+
+5  i 've owned a panasonic and sony dvd and this one outperforms in function and image quality and most of all , access speed .
+
+6  so i pop-in my first dvd and start to watch .
+
+7  i only wanted something to play dvds on but this machine has all these other features that i probably will never use but it 's nice to know that there 're there .
+
+8  - not playing some dvds and then finally after less than 60 days , it just would not recognize anything i pop in it .
+
+9  [t] excellent second dvd , or first dvd for hdtv ready tv.
+
+10  [t] has destroyed several of my dvds and cds .
+
+11  there are funny little ridges on the dvd that look like the slice of a tree trunk !
+
+12  i was surprised to find that not only could this dvd player play mpeg2 format which allowed me to stack 2 movies on a dvd , but it also was able to play vob files which i created with smart ripper .
+
+13  after @ 3 months , it stoppped playing higher number scenes on dvds .
+
+1  also , it was only $ 39.99 ( after rebate ) with free shipping and no tax so overall it is a decent player .
+
+2  i did not want to have high expectations for this apex player because of the price but it is definitely working out much better than what i would expect from an expensive high-end player .
+
+3  all in all , trying to save some money on this player resulted in me shelling a great deal more when i purchased a much nicer dvd vcr combo player to make up for blazing crappiness of this very embarrassing gift .
+
+4  one bad thing though , i find the remote-control a bit flimsy and i predict it will most probably ' die ' before the player does .
+
+5  i purchased two of these players for christmas gifts , and both were bad .
+
+6  i took it to my father 's house to play a tom jones concert dvd and he loved the player so much i gave it to him .
+
+7  at first i thought it is only a isolated incident , but i was proven wrong when the player would not read my " alias " dvds as well .
+
+1  tech support from apex is literally - nonexistent .
+
+2  finally you will read a post somewhere that all codes are useless for the apex 2600 .
+
+3  apex is the best cheap quality brand for dvd players .
+
+4  i have tried many times to get a hold of apex who does n't seem to answer their emails and telephone number is constantly busy as ( i believe ) the one lonely customer service rep is probably extremely overworked .
+
+5  if you are skeptical about trying apex .
+
+1  the front door is miss aligned on my unit and you have to manually life it up just so slightly for the door to close , a very annoying thing after ahwile .
+
+2  the unit seems to play all formats that i have put in it ( jpeg , kodak pic 's and dvd-r ) i have read other reviews and some good and soom not so good , but my feeling at this time is " two thumbs up " !
+
+3  it worked from 12-26 to 1-9 at which time the picture failed completely ( see other negative reviews-my unit was n't the only one this happened to . )
+
+1  of course , i was hesitant given the price , but i 've been extremely impressed since receiving it , and bought a second one as a christmas present for my parents .
+
+2  and amazon.com has it for such a great price -- how can you go wrong ?
+
+3  i did not want to have high expectations for this apex player because of the price but it is definitely working out much better than what i would expect from an expensive high-end player .
+
+4  this player is not worth any price and i recommend that you do n't purchase it .
+
+5  either way , can 't go wrong with this price .
+
+6  this player has worked flawlessly for me and at this price , you can 't go wrong .
+
+7  bottom line for me is that for the price i do n't think you can go wrong at all by purchasing this dvd player .
+
+1  [t] poor quality - problem with dual-layer dvd 's .
+
+2  unlike some of the other people who received a " lemon " , my dvd player came in perfect working condition .
+
+3  these problems were consistent , and also not present on another dvd player .
+
+4  the comments i 've read about having problems with this dvd player all seem to stem from pushing the incorrect buttons on the dvd remote.for instance , pushing the button to play pal ( european type ) movies , when an ntsc ( usa type ) movie disk is in the disk tray .
+
+5  have had problems since the first day
+
+6  when i 1st tried it i found that it had no problem playing the more expensive dvd - r media disc 's that other players would play but to my surprise was able to play cheep media that i had burned that i could n't get to work before in anything but the dvd burner itself that i had made the disc with .
+
+1  but about 25 % of dvd 's i 've played on ithave a problem , when watching a movie the picture will freeze , but the dvd still plays , and eventualy the picture kicks back in after skipping a few moments .
+
+2  it sends discoutinous signals to tv , so the tv has the pictures for one moment and has only the white noise for the other moment .
+
+3  maybe it 's good for tvs with not so good color settings , but not good for my tv that already has very vibrant pictures .
+
+4  picture on web site clearly has the play display pictured , yet false silver plate .
+
+1  save money on the long run - buy something decent once instead of buying cheap every month .
+
+2  i bought this to replace an expensive ( $ 300 + ) onkyo dvd player that quit after only 3 years !
+
+3  it is embarrassing getting phone calls from family members telling you that the dvd player you gave them less that 3 months ago is no longer working .
+
+4  for the first few weeks , this player was everything i expected it to be , an affordable multi-format dvd player with a stylish slim case as advertised .
+
+5  we did n't get to use it again for over a month ( sad , i know ) .
+
+1  i had to return the remote on this product because it appeared to be defective .
+
+2  [t] good price , bad product .
+
+3  that makes sense though , with all the substandard products they make .
+
+4  customer service and technical support are overloaded and nonresponsive - tells you about the quality of their products and their willingness to stand behind them .
+
+1  amazon.com promptly refunded my money for the first one , because a replacement was not available ( thanks amazon.com !
+
+2  save money on the long run - buy something decent once instead of buying cheap every month .
+
+3  do not buy this product or any apex product unless you are looking to be frustrated and lose money !
+
+4  i bought this apex 2600 dvd player for myself at christmas because it got good reviews as a good value for the money on a variety of different sites .
+
+1  i wish it would do the same for movies , but that 's one rare / cool feature you will have to forgo .
+
+2  comes with standard rca jacks for output , along with s-video output ( s-video cable not included , must be purchased separately ) and also component video outputs .
+
+1  prior to christmas , it seems the reviews were very good but after that it seems the reviews went bad !
+
+2  first of all , i bought this dvd as a christmas present for my girlfriend and i am somewhat disappointed .
+
+3  [t] a frustrating christmas .
+
+1  for the first few weeks , this player was everything i expected it to be , an affordable multi-format dvd player with a stylish slim case as advertised .
+
+1  it seems to be a little slow when identifying a new disc that 's inserted - maybe 10 seconds of wait .
+
+2  the build quality feels solid , it does n't shake or whine while playing discs , and the picture and sound is top notch ( both dts and dd5.1 sound good ) .
+
+1  first of all , i bought this dvd as a christmas present for my girlfriend and i am somewhat disappointed .
+
+FINAL RESULT: 
+J: 0  1  month  better  1	0
+J: 1  4  player  simple  1	0
+J: 2  16  picture  able  1	1
+J: 3  16  picture  good  1	1
+J: 4  17  problem  other  1	0
+J: 5  19  apex  remote  1	0
+J: 6  20  player  happier  1	1
+J: 7  20  player  i/p  1	1
+J: 8  24  month  occasional  1	-1
+J: 9  33  price  great  1	1
+J: 10  33  price  wrong  -1	0
+J: 11  40  unit  nice  1	1
+J: 12  40  unit  optical  1	1
+J: 13  40  unit  digital  1	1
+J: 14  43  movie  same  -1	-1
+J: 15  43  movie  rare  1	1
+J: 16  43  movie  cool  1	1
+J: 17  45  price  great  1	1
+J: 18  45  price  rock-bottom  1	1
+J: 19  49  apex  last  1	0
+J: 20  50  problem  poor  -1	-1
+J: 21  50  dvd  dual-layer  1	0
+J: 22  51  dvd  dual-layer  1	-1
+J: 23  51  dvd  such  1		0
+J: 24  52  money  better  1	-1
+J: 25  53  dvd  great  1	1
+J: 26  54  month  better  1	-1
+J: 27  56  product  technical  -1	-1	
+J: 28  56  product  nonresponsive  -1	-1
+J: 29  58  dvd  several  -1	-1
+J: 30  59  month  first  -1	-1
+J: 31  59  month  few  -1	-1
+J: 32  59  everything  affordable  1	1
+J: 33  59  everything  multi-format  -1	1
+J: 34  59  everything  stylish  1	1
+J: 35  59  everything  slim  -1		1
+J: 36  63  dvd  funny  -1		-1
+J: 37  63  dvd  little  -1		-1
+J: 38  64  price  worth  -1		-1
+J: 39  72  price  great  1		1	
+J: 40  73  christmas  good  1		1
+J: 41  73  price  good  1		1
+J: 42  73  money  different  -1		1
+J: 43  74  player  much  -1		-1	
+J: 44  79  price  great  1		1
+J: 45  95  problem  first  -1		-1
+J: 46  96  dvd  less  -1		-1
+J: 47  97  money  long  -1		-1
+J: 48  97  month  decent  1		0
+J: 49  97  month  cheap  -1		-1
+J: 50  99  apex  steady  1		1
+J: 51  100  problem  real  1		1
+J: 52  103  problem  only  1		-1
+J: 53  103  problem  able  1		0
+J: 54  103  problem  clear  1		0
+J: 55  104  month  first  1		1
+J: 56  104  month  temporary  1		1
+J: 57  117  problem  possible  1	0
+J: 58  117  apex  good  1		0
+J: 59  117  apex  after-sale  1		0
+J: 60  126  month  able  1		-1
+J: 61  127  apex  many  -1		-1		
+J: 62  127  apex  busy  -1		-1
+J: 63  127  apex  lonely  -1		-1
+J: 64  127  apex  overworked  -1	-1
+J: 65  128  player  only  1		-1
+J: 66  128  player  enought  1		-1
+J: 67  128  player  red  1		-1
+J: 68  129  money  better  1		-1
+J: 69  129  money  least  1		-1
+J: 70  132  amazon  surprised  1	-1
+J: 71  132  problem  continued  1	-1
+J: 72  137  apex  nonexistent  -1	-1
+J: 73  138  amazon  big  1		-1
+J: 74  144  month  embarrassing  -1	-1
+J: 75  147  amazon  great  1		-1
+J: 76  150  problem  occasional  1	-1	
+J: 77  150  problem  such  1		-1
+J: 78  150  movie  particular  1	-1
+J: 79  150  dvd  able  1		-1
+J: 80  150  dvd  certain  1		-1
+J: 81  150  dvd  special  1		-1
+J: 82  150  dvd  rental  1		-1
+J: 83  151  dvd  several  1		-1	
+J: 84  151  dvd  different  1		-1
+J: 85  152  month  them.the  1		-1
+J: 86  152  month  busy  1		-1	
+J: 87  157  dvd  several  1		0	
+J: 88  158  problem  certain  1		-1
+J: 89  165  month  sad  -1		1	
+J: 90  173  player  remote  1		-1
+J: 91  174  apex  universal  1		-1
+J: 92  174  apex  far-all  1		-1
+J: 93  175  player  univ.  1		0
+J: 94  175  player  remote  1		0
+J: 95  175  player  whole  1		0
+J: 96  179  product  remote  1		0
+J: 97  179  product  defective  -1	-1
+J: 98  192  dvd  higher  -1		-1
+J: 99  197  picture  discoutinous  -1	-1
+J: 100  199  picture  good  -1		-1
+J: 101  199  picture  good  -1		-1
+J: 102  199  picture  good  -1		-1
+J: 103  199  picture  vibrant  1	0
+J: 104  201  amazon  comfortable  1	0
+J: 105  203  unit  entire  1		-1
+J: 106  204  unit  sharp  1		-1
+J: 107  204  unit  internal  1		-1
+J: 108  205  dvd  less  1		-1
+J: 109  206  dvd  most  1		1
+J: 110  206  problem  new  1		1
+J: 111  206  problem  great  1		1
+J: 112  223  month  close  1		1
+J: 113  226  dvd  cool  1		1
+J: 114  226  dvd  ad-2600  1		1
+J: 115  226  dvd  different  1		1
+J: 116  227  unit  mpeg  1		1
+J: 117  229  disc  great  1		1
+J: 118  237  month  less  1		-1
+J: 119  239  player  first  1		-1
+J: 120  240  apex  same  1		-1
+J: 121  242  player  best  1		1
+J: 122  243  dvd  able  -1		1
+J: 123  243  dvd  smart  1		1
+J: 124  248  month  busy  1		-1
+J: 125  254  price  excellent  1	1
+J: 126  256  amazon  good  1		1
+J: 127  258  dvd  regular  1		1
+J: 128  258  dvd  regular  1		1
+J: 129  260  unit  worthwhile  1	0
+J: 130  261  problem  incorrect  -1
+J: 131  261  movie  european  1
+J: 132  265  price  wrong  -1
+J: 133  266  dvd  excellent  1
+J: 134  266  dvd  second  -1
+J: 135  266  dvd  first  -1
+J: 136  266  dvd  ready  1
+J: 137  269  movie  standard  -1
+J: 138  269  movie  s-video  -1
+J: 139  283  month  old  1
+J: 140  285  apex  long  1
+J: 141  286  month  less  1
+J: 142  291  dvd  panasonic  -1
+J: 143  291  dvd  sony  -1
+J: 144  291  dvd  most  -1
+J: 145  292  player  right  1
+J: 146  292  picture  wrong  1
+J: 147  293  price  wrong  -1
+J: 148  300  apex  certain  1
+J: 149  300  apex  other  1
+J: 150  301  problem  new  1
+J: 151  301  problem  same  1
+J: 152  302  problem  known  1
+J: 153  302  movie  other  1
+J: 154  302  problem  new  1
+J: 155  304  dvd  old  1
+J: 156  304  dvd  sharp  -1
+J: 157  304  dvd  most  1
+J: 158  304  player  dvd-rom  1
+J: 159  306  month  old  1
+J: 160  306  dvd  rental  1
+J: 161  306  player  old  1
+J: 162  306  player  sharp  1
+J: 163  309  price  high  -1
+J: 164  309  price  better  1
+J: 165  309  player  expensive  -1
+J: 166  309  player  high-end  1
+J: 167  311  unit  lucky  1
+J: 168  311  unit  good  1
+J: 169  314  player  bad  -1
+J: 170  314  player  flimsy  -1
+J: 171  315  amazon  free  1
+J: 172  315  amazon  good  1
+J: 173  317  player  bad  -1
+J: 174  319  month  second  1
+J: 175  320  money  first  1
+J: 176  320  money  available  -1
+J: 177  321  problem  second  1
+J: 178  322  apex  several  1
+J: 179  322  apex  digital  1
+J: 180  322  apex  on-line  1
+J: 181  322  apex  busy  1
+J: 182  323  apex  digital  1
+J: 183  326  picture  few  -1
+J: 184  329  picture  i/p  1
+J: 185  329  picture  remote  1
+J: 186  333  movie  same  1
+J: 187  335  problem  remote  1
+J: 188  338  product  overall  1
+J: 189  338  product  pleased  1
+J: 190  345  unit  other  -1
+J: 191  345  unit  negative  1
+J: 192  346  month  several  1
+J: 193  346  month  busy  1
+J: 194  358  player  progressive  1
+J: 195  358  price  low  1
+J: 196  358  price  known  1
+J: 197  358  player  lower-priced  1
+J: 198  358  player  progressive  1
+J: 199  359  dvd  fine  1
+J: 200  359  dvd  loud  -1
+J: 201  361  movie  good  1
+J: 202  361  movie  non-hd  1
+J: 203  363  month  several  1
+J: 204  363  disc  several  1
+J: 205  363  disc  clean  1
+J: 206  363  player  other  1
+J: 207  368  picture  much  1
+J: 208  368  picture  perceptible  1
+J: 209  372  dvd  widescreen  1
+J: 210  372  dvd  normal  1
+J: 211  382  player  great  1
+J: 212  384  problem  expensive  -1
+J: 213  384  player  other  1
+J: 214  390  month  few  1
+J: 215  390  month  great  1
+J: 216  391  product  great  1
+J: 217  391  product  first  1
+J: 218  391  product  more  1
+J: 219  393  dvd  dirty  -1
+J: 220  394  dvd  several  1
+J: 221  394  dvd  new  1
+J: 222  394  dvd  same  1
+J: 223  397  apex  undeliverable  1
+J: 224  400  product  substandard  -1
+J: 225  401  money  frustrated  -1
+J: 226  408  month  ad-2600  1
+J: 227  408  problem  numerous  1
+J: 228  411  problem  few  1
+J: 229  411  problem  least  1
+J: 230  419  price  good  1
+J: 231  419  product  bad  -1
+J: 232  420  christmas  present  1
+J: 233  423  apex  e-mail  1
+J: 234  423  apex  valid  1
+J: 235  434  price  excellent  1
+J: 236  437  christmas  present  1
+J: 237  441  player  great  1
+J: 238  442  apex  second  1
+J: 239  442  apex  least  1
+J: 240  442  apex  prettier  1
+J: 241  442  apex  last  1
+J: 242  443  apex  physical  1
+J: 243  443  apex  previous  1
+J: 244  443  apex  ad1100w  1
+J: 245  456  month  initial  1
+J: 246  456  month  better  1
+J: 247  456  apex  harder  1
+J: 248  460  christmas  present  -1
+J: 249  460  amazon  disappointed  -1
+J: 250  461  problem  other  1
+J: 251  461  problem  lemon  -1
+J: 252  461  problem  perfect  1
+J: 253  463  dvd  disappointed  -1
+J: 254  463  dvd  certain  1
+J: 255  465  player  first  1
+J: 256  465  player  wrong  -1
+J: 257  466  everything  fine  1
+J: 258  468  product  disappointed  1
+J: 259  474  dvd  great  1
+J: 260  477  apex  best  1
+J: 261  479  apex  most  1
+J: 262  479  apex  happy  1
+J: 263  480  apex  skeptical  -1
+J: 264  485  month  expensive  -1
+J: 265  496  unit  great  1
+J: 266  502  picture  clear  1
+J: 267  502  picture  bright  1
+J: 268  502  picture  sharp  1
+J: 269  502  picture  good  1
+J: 270  504  movie  fine  1
+J: 271  507  problem  only  1
+J: 272  507  problem  real  1
+J: 273  515  picture  great  1
+J: 274  519  christmas  good  1
+J: 275  519  christmas  bad  -1
+J: 276  521  player  great  1
+J: 277  523  player  awesome  1
+J: 278  529  month  easy  1
+J: 279  532  amazon  wonderful  1
+J: 280  536  problem  remote  1
+J: 281  541  amazon  free  1
+J: 282  546  price  great  1
+J: 283  549  unit  dvd-r  -1
+J: 284  549  unit  other  -1
+J: 285  549  unit  good  -1
+J: 286  549  unit  good  -1
+J: 287  565  dvd  sleek  1
+J: 288  570  christmas  frustrating  -1
+J: 289  577  month  second  1
+J: 290  579  player  good  1
+J: 291  579  player  good  1
+J: 292  580  dvd  favorite  1
+J: 293  596  month  best  1
+J: 294  596  month  stable  1
+J: 295  596  player  old  1
+J: 296  597  month  last  1
+J: 297  607  price  nice  1
+J: 298  608  unit  front  -1
+J: 299  608  unit  annoying  -1
+J: 300  615  dvd  other  -1
+J: 301  615  dvd  nice  1
+J: 302  617  problem  happy  1
+J: 303  619  price  good  1
+J: 304  625  dvd  old  1
+J: 305  628  month  progressive  1
+J: 306  630  month  last  1
+J: 307  630  month  satisfied  1
+J: 308  630  month  last  1
+J: 309  637  amazon  fine  1
+J: 310  639  problem  amazing  1
+J: 311  643  problem  new  1
+J: 312  650  apex  remote  1
+J: 313  669  apex  useless  -1
+J: 314  682  player  other  1
+J: 315  683  price  fantastic  1
+J: 316  684  month  old  1
+J: 317  685  price  hesitant  -1
+J: 318  685  price  impressed  1
+J: 319  685  christmas  present  1
+J: 320  686  picture  perfect  1
+J: 321  687  disc  slow  -1
+J: 322  689  unit  best  1
+J: 323  692  dvd  fine  1
+J: 324  699  dvd  good  1
+J: 325  714  apex  good  1
+J: 326  714  apex  other  1
+J: 327  716  problem  other  1
+J: 328  719  problem  consistent  -1
+J: 329  722  player  great  1
+J: 330  722  player  much  -1
+J: 331  722  player  nicer  1
+J: 332  722  player  embarrassing  -1
+J: 333  728  everything  fine  1
+J: 334  731  unit  willing  1
+J: 335  731  unit  sleek  1
+J: 336  732  dvd  first  -1
+J: 337  746  price  excited  1
+J: 338  770  apex  best  1
+J: 339  770  apex  cheap  -1
+J: 340  779  movie  happy  1
+J: 341  785  disc  several  1
+J: 342  787  apex  reliable  1
+J: 343  787  apex  other  1
+J: 344  788  problem  same  1
+J: 345  794  picture  false  -1
+J: 346  804  player  free  -1
+J: 347  804  player  decent  1
+J: 348  816  disc  solid  -1
+J: 349  816  picture  top  1
+J: 350  816  picture  good  1
+J: 351  822  everything  sleek  1
+J: 352  822  everything  stylish  1
+J: 353  824  product  pleased  1
+J: 354  825  picture  easy  1
+J: 355  839  price  wrong  -1
+J: 356  843  dvd  several  1
+j:  357
+i:  452
+BUILD SUCCESSFUL (total time: 2 minutes 48 seconds)

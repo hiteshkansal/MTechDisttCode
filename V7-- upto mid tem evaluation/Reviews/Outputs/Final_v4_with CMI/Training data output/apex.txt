@@ -1,0 +1,647 @@
+run:
+Reading POS tagger model from E:\Disertation\APIs\stanford-postagger-full-2014-01-04\models\english-left3words-distsim.tagger ... done [1.7 sec].
+ApexDVDPlayer.txt output with :DiaperChamp.txt
+Total correction: 0
+Total correction: 0
+Total review: 117
+Total review: 49
+Total Cluster: 638
+Most Important Features: 
+feature customer
+1 : customer=2.1835763
+feature video
+2 : video=1.7156672
+3 : price=2.6344779
+feature quality
+4 : quality=3.509319
+feature player
+5 : player=13.101459
+feature display
+6 : display=1.2477579
+feature signal
+7 : signal=1.4037277
+feature apex
+8 : apex=7.5645328
+feature service
+9 : service=2.417531
+feature dvd
+10 : dvd=15.67496
+feature christmas
+11 : christmas=2.1835763
+feature movie
+12 : movie=3.2753646
+feature disc
+13 : disc=2.5735009
+feature machine
+14 : machine=2.1055915
+feature picture
+15 : picture=2.9634252
+feature amazon
+16 : amazon=2.417531
+sent no: 45  i: 45feature: price  prev adj: rock-bottom  new verb: recommend
+sent no: 58  i: 58feature: dvd  prev adj: several  new verb: destroy
+sent no: 74  i: 74feature: player  prev adj: much  new verb: love
+sent no: 103  i: 103feature: player  prev adj: able  new verb: blow
+sent no: 112  i: 112feature: display  prev adj: most  new verb: interfere
+sent no: 113  i: 113feature: display  prev adj: onscreen  new verb: annoy
+sent no: 116  i: 116feature: dvd  prev adj: theirs  new verb: recommend
+sent no: 128  i: 128feature: player  prev adj: red  new verb: lead
+sent no: 151  i: 151feature: dvd  prev adj: different  new verb: work
+sent no: 151  i: 151feature: dvd  prev adj: several  new verb: work
+sent no: 159  i: 159feature: dvd  prev adj: certain  new verb: refuse
+sent no: 174  i: 174feature: player  prev adj: remote  new verb: frustrate
+sent no: 224  i: 224feature: apex  prev adj: close  new verb: love
+sent no: 238  i: 238feature: disc  prev adj: less  new verb: freeze
+sent no: 248  i: 248feature: signal  prev adj: 1st  new verb: work
+sent no: 260  i: 260feature: quality  prev adj: above  new verb: work
+sent no: 292  i: 292feature: dvd  prev adj: sony  new verb: outperform
+sent no: 307  i: 307feature: dvd  prev adj: rental  new verb: rip
+sent no: 342  i: 342feature: video  prev adj: due  new verb: complain
+sent no: 346  i: 346feature: picture  prev adj: only  new verb: work
+sent no: 346  i: 346feature: picture  prev adj: reviews-my  new verb: fail
+sent no: 372  i: 372feature: amazon  prev adj: mine  new verb: work
+sent no: 391  i: 391feature: apex  prev adj: few  new verb: work
+sent no: 416  i: 416feature: service  prev adj: busy  new verb: dump
+sent no: 444  i: 444feature: apex  prev adj: ad1100w  new verb: appreciate
+sent no: 457  i: 457feature: apex  prev adj: harder  new verb: improve
+sent no: 466  i: 466feature: player  prev adj: first  new verb: isolate
+sent no: 468  i: 468feature: dvd  prev adj: more  new verb: work
+sent no: 477  i: 477feature: dvd  prev adj: dvd-r  new verb: support
+sent no: 497  i: 497feature: movie  prev adj: video  new verb: work
+sent no: 505  i: 505feature: disc  prev adj: second  new verb: refuse
+sent no: 524  i: 524feature: movie  prev adj: video  new verb: work
+sent no: 557  i: 557feature: dvd  prev adj: first  new verb: hack
+sent no: 569  i: 569feature: movie  prev adj: optic  new verb: work
+sent no: 590  i: 590feature: disc  prev adj: first  new verb: break
+sent no: 612  i: 612feature: dvd  prev adj: low  new verb: recommend
+sent no: 626  i: 626feature: dvd  prev adj: back-up  new verb: work
+sent no: 667  i: 667feature: apex  prev adj: remote  new verb: work
+sent no: 696  i: 696feature: player  prev adj: panasonic  new verb: work
+sent no: 717  i: 717feature: dvd  prev adj: other  new verb: afflict
+sent no: 739  i: 739feature: dvd  prev adj: next  new verb: damage
+sent no: 752  i: 752feature: dvd  prev adj: different  new verb: trust
+sent no: 818  i: 818feature: price  prev adj: current  new verb: steal
+rev: 114
+3  video  black  0
+3  video  white  0
+4  player  simple  0
+9  display  i/p  1
+9  display  progressive  1
+15  player  video  0
+16  picture  able  0
+16  picture  good  1
+19  apex  remote  0
+20  player  happier  1
+20  player  i/p  0
+24  player  occasional  0
+32  video  alternate  0
+33  price  great  1
+33  price  wrong  -1
+39  machine  nicer  1
+40  movie  nice  1
+40  movie  optical  0
+40  movie  digital  0
+43  movie  same  -1
+43  movie  rare  1
+43  movie  cool  1
+45  price  great  1
+45  price  recommend  1
+47  movie  new  0
+48  movie  many  0
+49  apex  new  0
+49  movie  able  0
+49  movie  last  0
+50  quality  poor  -1
+50  dvd  dual-layer  0
+51  dvd  dual-layer  0
+51  dvd  such  0
+52  quality  better  1
+53  player  great  1
+54  quality  better  1
+56  service  technical  -1
+56  quality  nonresponsive  -1
+58  dvd  destroy  -1
+59  player  first  0
+59  player  few  0
+59  dvd  affordable  1
+59  dvd  multi-format  0
+59  player  stylish  1
+59  player  slim  0
+63  dvd  funny  -1
+63  dvd  little  0
+64  price  worth  -1
+71  quality  bad  -1
+72  price  great  1
+73  christmas  good  1
+73  price  good  1
+73  price  different  0
+74  player  love  1
+79  price  great  1
+80  quality  great  1
+86  machine  nice  1
+96  dvd  less  0
+99  apex  steady  1
+103  player  only  0
+103  player  blow  -1
+103  player  clear  1
+108  machine  remote  0
+108  machine  okay  0
+108  machine  tiny  0
+112  display  nice  1
+112  display  interfere  -1
+113  video  considerable  0
+113  video  professional  0
+113  display  annoy  -1
+116  dvd  recommend  1
+117  apex  possible  0
+117  apex  good  1
+117  apex  after-sale  0
+126  player  able  0
+127  apex  many  -1
+127  customer  busy  0
+127  customer  lonely  -1
+127  service  overworked  0
+128  player  only  0
+128  player  enought  0
+128  player  lead  1
+129  quality  better  1
+129  quality  least  0
+132  amazon  surprised  0
+132  amazon  continued  0
+134  customer  other  0
+137  apex  nonexistent  -1
+138  customer  big  0
+144  dvd  embarrassing  -1
+147  amazon  great  1
+147  amazon  future  0
+150  dvd  occasional  0
+150  dvd  such  0
+150  movie  particular  0
+150  dvd  able  0
+150  dvd  certain  0
+150  dvd  special  0
+150  dvd  rental  0
+151  dvd  work  -1
+151  dvd  work  1
+153  customer  busy  0
+154  dvd  2nd  0
+158  dvd  several  0
+159  dvd  refuse  -1
+164  christmas  great  1
+168  customer  same  0
+170  apex  late  0
+174  player  frustrate  -1
+175  machine  universal  0
+175  machine  far-all  0
+176  machine  univ.  0
+176  machine  remote  0
+176  player  whole  0
+178  dvd  new  0
+179  customer  poor  -1
+182  service  free  1
+182  service  real  0
+182  service  regular  0
+193  dvd  higher  0
+195  quality  poor  -1
+198  signal  discoutinous  -1
+198  picture  white  0
+198  picture  other  0
+200  picture  good  1
+200  picture  good  -1
+200  picture  good  -1
+200  picture  vibrant  1
+202  amazon  comfortable  1
+206  dvd  less  0
+207  dvd  most  1
+207  dvd  new  1
+207  dvd  great  1
+209  display  more  0
+212  player  raw  0
+214  video  able  0
+216  player  other  0
+216  player  top  1
+217  service  nonexistant  0
+218  dvd  new  -1
+218  player  disapointed  -1
+224  apex  love  1
+225  dvd  non-regional  0
+225  dvd  non-american  0
+227  picture  cool  1
+227  picture  ad-2600  0
+227  picture  different  0
+228  video  mpeg  0
+230  disc  great  1
+231  machine  good  1
+233  quality  low  0
+233  quality  nice  1
+234  apex  great  1
+235  player  free  1
+236  player  free  1
+238  disc  freeze  -1
+239  apex  second  0
+239  player  last  0
+240  player  first  0
+241  service  same  0
+243  player  best  1
+244  dvd  able  0
+244  dvd  smart  1
+248  signal  work  1
+249  service  busy  0
+255  price  excellent  1
+257  amazon  good  1
+258  apex  pleased  1
+259  dvd  regular  0
+259  dvd  regular  0
+260  quality  work  1
+262  dvd  incorrect  -1
+262  movie  european  0
+264  apex  long-term  0
+264  apex  little  0
+266  price  bottom  0
+266  dvd  wrong  -1
+267  dvd  excellent  1
+267  dvd  second  0
+267  dvd  first  0
+267  dvd  ready  1
+270  movie  standard  0
+270  movie  s-video  0
+273  quality  big  1
+273  quality  silent  1
+275  apex  pleased  1
+286  apex  long  0
+291  dvd  best  1
+292  dvd  panasonic  1
+292  dvd  outperform  1
+292  quality  most  0
+293  player  right  1
+293  picture  wrong  1
+294  price  wrong  -1
+301  dvd  certain  0
+301  dvd  other  0
+303  service  known  0
+303  movie  other  0
+303  dvd  new  0
+305  dvd  old  0
+305  dvd  sharp  1
+305  dvd  most  0
+305  player  dvd-rom  0
+306  player  great  1
+307  dvd  old  -1
+307  dvd  rip  -1
+307  player  old  0
+307  player  sharp  1
+310  apex  high  -1
+310  price  better  1
+310  player  expensive  -1
+310  player  high-end  1
+314  player  slim  -1
+314  player  mirror-like  -1
+314  player  sure  -1
+314  player  pricey  -1
+315  player  bad  -1
+315  player  flimsy  -1
+316  amazon  free  1
+316  amazon  good  1
+317  quality  poor  -1
+318  christmas  bad  -1
+320  video  second  0
+323  apex  several  0
+323  apex  digital  0
+323  apex  on-line  0
+323  apex  busy  0
+324  apex  digital  0
+326  dvd  most  0
+326  dvd  good  1
+327  picture  few  0
+330  picture  i/p  0
+330  picture  remote  0
+332  video  old  0
+332  video  composite  0
+334  movie  same  0
+335  customer  correct  1
+335  customer  secure  1
+337  player  progressive  1
+338  video  composite  1
+338  movie  different  1
+338  signal  progressive  1
+342  video  most  0
+342  video  complain  -1
+342  video  wrong  -1
+342  video  progressive  1
+346  picture  other  0
+346  picture  negative  -1
+346  picture  fail  -1
+346  picture  work  1
+347  signal  several  0
+347  signal  busy  0
+348  player  more  0
+359  player  progressive  1
+359  price  low  0
+359  price  known  0
+359  player  lower-priced  1
+359  player  progressive  1
+360  dvd  fine  1
+360  disc  loud  -1
+361  apex  old  0
+362  movie  good  1
+362  movie  non-hd  0
+364  player  several  1
+364  disc  several  1
+364  disc  clean  1
+364  player  other  1
+366  apex  other  0
+366  apex  crappy  -1
+366  apex  remote  0
+366  apex  worse  -1
+366  apex  other  0
+366  apex  cheaper  1
+369  quality  much  0
+369  quality  perceptible  0
+371  dvd  first  0
+372  amazon  pleased  1
+372  amazon  work  1
+372  amazon  fine  1
+373  dvd  widescreen  0
+373  dvd  normal  0
+383  player  great  1
+383  player  dvd  0
+384  player  basic  0
+384  disc  able  0
+385  disc  1st  0
+385  disc  expensive  -1
+385  player  other  0
+385  player  able  0
+388  service  non-existent  0
+391  apex  work  1
+391  apex  great  1
+394  dvd  dirty  -1
+395  dvd  several  0
+395  dvd  new  0
+395  dvd  same  0
+397  player  same  0
+398  apex  undeliverable  0
+402  apex  frustrated  -1
+406  video  several  0
+406  video  different  0
+408  customer  worst  -1
+411  display  red  0
+411  display  green  0
+416  service  dump  -1
+420  price  good  1
+420  price  bad  -1
+421  christmas  present  0
+422  dvd  first  0
+424  signal  e-mail  0
+424  signal  valid  0
+432  service  poor  -1
+433  signal  eamil  0
+435  price  excellent  1
+438  christmas  present  0
+442  player  great  1
+443  apex  second  0
+443  apex  least  0
+443  apex  prettier  0
+443  apex  last  0
+444  quality  physical  0
+444  apex  previous  0
+444  apex  appreciate  1
+446  quality  easy  1
+446  quality  cd-r  0
+452  apex  finest  1
+454  picture  excellent  1
+457  apex  initial  0
+457  apex  better  1
+457  apex  improve  1
+460  dvd  extra  0
+461  christmas  present  -1
+461  amazon  disappointed  -1
+462  dvd  other  0
+462  dvd  lemon  -1
+462  player  perfect  1
+463  dvd  whole  0
+463  player  sleek  1
+464  dvd  disappointed  -1
+464  dvd  certain  0
+465  dvd  new  0
+465  dvd  extra  0
+466  player  isolate  -1
+466  player  wrong  -1
+467  player  fine  1
+468  dvd  work  -1
+471  apex  regular  0
+471  apex  non-progressive  0
+475  dvd  great  1
+477  dvd  support  1
+478  dvd  best  1
+480  apex  most  1
+480  apex  happy  1
+481  apex  skeptical  -1
+486  dvd  expensive  -1
+486  dvd  onkyo  0
+487  quality  many  0
+487  quality  new  0
+488  picture  amazing  1
+488  quality  unmatched  1
+493  dvd  extra  0
+497  movie  great  1
+497  movie  work  1
+499  dvd  second  0
+500  machine  compact  1
+500  machine  attractive  1
+500  machine  easy  1
+502  player  few  0
+503  picture  clear  1
+503  picture  bright  1
+503  picture  sharp  1
+503  picture  good  1
+505  movie  fine  1
+505  disc  refuse  -1
+507  player  extra  0
+508  dvd  only  0
+508  player  real  0
+511  disc  additional  0
+512  player  cautious  0
+516  picture  great  1
+518  picture  viewable  1
+518  picture  sharp  -1
+518  picture  vivid  1
+518  picture  clear  -1
+520  christmas  good  1
+520  christmas  bad  -1
+522  player  great  1
+523  movie  video  0
+524  player  awesome  1
+524  movie  work  -1
+525  movie  lemon  -1
+525  movie  first  0
+525  movie  video  0
+526  dvd  multiformat  0
+529  apex  ad-2600  0
+533  amazon  wonderful  1
+533  amazon  next  0
+541  movie  black  0
+541  movie  white  0
+541  movie  composite  0
+542  amazon  free  1
+543  display  silver  0
+544  display  silver  0
+547  price  great  1
+550  picture  dvd-r  1
+550  picture  other  1
+550  picture  good  1
+550  picture  good  -1
+556  apex  third  0
+557  dvd  hack  -1
+563  dvd  legit  0
+566  dvd  sleek  1
+566  dvd  real  0
+569  movie  video  0
+569  movie  work  1
+571  christmas  frustrating  -1
+580  player  good  1
+580  player  good  1
+581  dvd  favorite  1
+582  display  long  0
+583  video  multilple  1
+583  video  poor  -1
+583  video  available  -1
+590  disc  break  -1
+592  dvd  second  0
+593  apex  absolute  0
+594  dvd  2nd  0
+594  quality  faulty  -1
+597  dvd  best  1
+597  quality  stable  1
+597  quality  standard  0
+597  dvd  old  0
+598  apex  last  0
+601  signal  many  0
+604  amazon  awaesome  0
+608  dvd  nice  1
+611  dvd  able  0
+612  dvd  recommend  1
+613  dvd  first  1
+613  player  satisfied  1
+614  dvd  21st  0
+616  machine  other  -1
+616  machine  nice  1
+617  machine  light  0
+617  machine  slim  0
+620  price  full  0
+620  price  good  1
+626  dvd  old  0
+626  dvd  non-progressive  0
+626  dvd  work  1
+629  dvd  progressive  1
+629  quality  higher  0
+633  machine  sure  0
+635  disc  technical  0
+637  amazon  other  0
+637  player  original  0
+638  amazon  fine  1
+640  machine  amazing  1
+646  machine  capable  1
+651  apex  remote  0
+662  dvd  wrong  -1
+667  apex  universal  0
+667  apex  work  -1
+670  apex  useless  -1
+680  player  fine  1
+681  dvd  remote  0
+683  player  little  0
+683  player  other  0
+684  dvd  fantastic  1
+685  player  few  0
+685  player  old  0
+686  price  hesitant  -1
+686  price  impressed  1
+686  christmas  second  0
+686  christmas  present  0
+687  picture  perfect  1
+688  disc  little  0
+688  disc  slow  -1
+688  disc  new  0
+690  player  best  1
+693  dvd  fine  1
+696  dvd  different  0
+696  player  work  1
+696  player  fine  1
+700  dvd  good  1
+700  dvd  long  0
+703  quality  awkward  -1
+703  quality  remote  0
+703  quality  flimsy  -1
+713  dvd  more  0
+713  dvd  better  1
+715  apex  good  1
+715  apex  other  0
+717  dvd  afflict  -1
+720  dvd  consistent  1
+723  player  great  1
+723  dvd  much  0
+723  dvd  nicer  1
+723  player  embarrassing  -1
+728  dvd  inexpensive  1
+728  player  more  0
+728  player  standard  0
+728  player  best  1
+730  quality  annoying  -1
+731  display  external  1
+731  display  small  1
+731  display  significant  1
+733  dvd  first  0
+739  dvd  damage  -1
+747  price  excited  1
+751  apex  numerous  0
+752  dvd  trust  1
+754  dvd  few  0
+759  dvd  audio  0
+764  display  cheap  -1
+764  display  small  0
+764  display  overall  0
+764  display  plasticky  -1
+767  machine  minor  0
+769  dvd  wonderful  1
+769  dvd  first  0
+771  quality  best  1
+771  quality  cheap  -1
+778  customer  disipointed  0
+780  movie  happy  1
+783  quality  most  0
+786  disc  several  0
+786  disc  different  0
+788  apex  reliable  1
+788  apex  other  0
+789  apex  same  0
+789  apex  similar  0
+791  display  false  -1
+792  display  false  -1
+795  display  false  -1
+802  dvd  original  0
+805  player  free  1
+805  player  overall  0
+805  player  decent  1
+806  quality  good  1
+807  apex  ad-2600  0
+810  machine  unplayable  0
+810  machine  older  0
+813  price  mixed  0
+814  player  great  1
+815  apex  third  0
+817  quality  solid  1
+817  picture  top  1
+817  picture  sound  0
+817  picture  good  1
+818  price  steal  -1
+821  dvd  good  1
+825  price  pleased  1
+826  picture  easy  1
+828  amazon  24hrs  0
+837  apex  underrated  0
+839  movie  heavy  0
+839  movie  every-day  0
+840  price  wrong  -1
+844  dvd  several  0
+j:  291
+i:  560
+BUILD SUCCESSFUL (total time: 3 minutes 20 seconds)

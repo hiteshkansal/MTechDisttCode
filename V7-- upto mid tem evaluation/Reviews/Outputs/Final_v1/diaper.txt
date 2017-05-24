@@ -1,0 +1,406 @@
+run:
+Reading POS tagger model from E:\Disertation\APIs\stanford-postagger-full-2014-01-04\models\english-left3words-distsim.tagger ... done [1.5 sec].
+wrong: becasue  corrected: because
+wrong: useing  corrected: using
+wrong: childrens  corrected: children's
+wrong: alot  corrected: a lot
+wrong: alot  corrected: a lot
+wrong: reccommend  corrected: recommend
+Total correction: 6
+Total correction: 0
+Total review: 49
+Total review: 51
+Most Important Features: 
+1 : diaper=12.006579
+2 : refill=2.7960527
+3 : odor=6.9078946
+4 : bag=8.717106
+5 : son=1.6447369
+6 : month=3.4606607
+7 : smell=2.9605265
+8 : pail=4.111842
+9 : baby=2.7904584
+10 : product=1.361663
+11 : champ=5.4276314
+12 : toddler=3.2894738
+13 : room=1.9736842
+14 : top=1.3896348
+15 : lid=1.8092105
+rev: 48
+Cluster Count: 
+15
+14
+11
+9
+7
+7
+6
+5
+4
+4
+4
+3
+2
+bag	 :2.586207 Stars
+bag with a count 15
+1   Too costly and not efficient if you ask me!
+2  3.  Bags are easy to change.
+3  We resorted to using small plastic bags to store the dirty diapers and dumping them in a trash can and using the Diaper Champ for wet diapers only.
+4  We opted to purchase this diaper pail even though my SIL gave us her used diaper pail (the other popular pail. one that uses its own brand of bags) for free--and we are VERY glad we did.
+5  Opening the Champ to empty out the bag is a little tricky- I pinched my thumb a few times before I got the hang of it.
+6  Being a very economical person, I appreciate the fact that any plastic bag can be used with this system- I never did like the prospect of buying special Diaper Genie refills.
+7  If you have a really sensitive nose, I can suggest buying some scented kitchen trash bags to use with the Diaper Champ- since the odor is contained in the Champ, once you have to open it to empty out the full bag, you're quite often greeted with a rather unpleasant blast of odor, and scented bags help with that.
+8  As one other reviewer pointed out, it does occasionally take a little effort to push down the "plunger" to get the diapers in the pail, even though upon inspection the bag doesn't really look full.
+9  But from my experience, by the time it gets to that point, the bag is really heavy, so I think this is kind of helpful- it's a built-in way of keeping the bag manageable upon emptying.
+10  The thought of not having to buy refills and just using regular bags is awesome!
+11  I use the scented bags and even if I don't no smell!
+12  Save your money invest in plastic bags and dispose of diapers by sealing them in the bags and placing them in the regular garbage.
+diaper	 :1.9444444 Stars
+diaper with a count 14
+1  FANTASTIC!
+2  He thinks it is magic when the diaper "disappears".
+3  I mean, with babies it's already far too easy to run out of diapers or formula.
+4  It's much better than putting diapers in a downstairs trashcan.
+5  With the enormous numbers of diapers that you go through with a newborn, it was great how easy it was to dispose of the dirty ones.
+6  I use the same store-brand tall kitchen trash bags I already use in the kitchen for it -- no special "diaper" trash bags necessary.
+7  It holds quite a few diapers, and pops them in quickly and easily.
+8  This is easy to work and easy to dispose of the dirty diapers.
+9  It was easy to assemble, and the diapers fit perfectly into the little nook before they make their way into the pail portion.
+10  Even with newborn diapers it filled way too fast.
+11  Makes life easier and keeps baby's room smelling like baby, not dirty diapers!
+12  I had no problem with stuck diapers and if I did it wasn't often but I can see how it would happen.
+13  Also, making sure that the tape on the diapers is secure will prevent that from happening as well.
+month	 :3.9285712 Stars
+month with a count 11
+1  So far so good.
+2  We have been using our Diaper Champ for almost 14 months now and we are very happy with it.
+3  Now it will start smelling if you leave it with diapers in it for an extended period but all of them will!
+4  Well the Champ has survived it's first year with our son and it is great!!
+5  For the first 9 months or so, we only needed to empty this once a week.
+6  We have been using the Diaper Genie for the past 17 months and are very happy with it.
+7  The hole to put the diaper in needs to be larger as I am now using medium diapers (I have a 3 month old) and they're on the brink of being too large to fit no matter how compact I make then and how un-soiled they are.
+8  *holds a LOT of diapers--a full week of toddler diapers!
+9  I have no issues w/ odor but baby poop doesn't start to smell really bad till they start on soilid so odor will not be a problem no matter what till then and that's many many months down the road.
+refill	 :3.0 Stars
+refill with a count 9
+1  And the biggest plus is that you don't have to buy any expensive refills.
+2  It holds almost a week's worth of diapers, and you don't need expensive refills - any kitchen bags work.
+3  No need to pay for the special refills that the other brands require!
+4  it's easier and much more convenient to use because it doesn't have CLUMSY and CONFUSING (not to mention expensive) refills.
+5  1.  The Diaper Champ doesn't require special refills that are expensive and hard to find!
+product	 :4.375 Stars
+product with a count 7
+1  This is a GREAT product!
+2  Here's the catch for us- our daughter never drank formula, which is what gives baby waste a foul smell, and when she was eating solids we followed the American Pediatric Association recommendation to flush solid products instead of disposing of them.
+3  Great product, easy to use, economical, effective, absolutly fabulous.
+pail	 :3.8888888 Stars
+pail with a count 7
+1  Even the old pail hardly smelled bad to me, I think after you have changed diapers for 4 years, you get somewhat immune to it.
+2  Well, I suppose this is better than an open pail, but to have a nursery in which there is no unpleasant smell is quite impossible no matter what you use.
+3  (every now and then I spray down the inside of the pail with Lysol) *easy one-hand use *impossible for my inquisitive child to get the dirty diapers OUT of the pail Every now and then odors do escape the pail, but that is rare--and it usually just means that we've crammed too much in there and need to change the bag.
+4  We opted to purchase this diaper pail even though my SIL gave us her used diaper pail (the other popular pail. one that uses its own brand of bags) for free--and we are VERY glad we did.
+5  The other pail I used started to smell after 2 weeks of use.
+6  I have tried other pails, but none have compared positively to the Champ.
+odor	 :5.0 Stars
+odor with a count 6
+1  There is no odor and extremely easy to use.
+2  THIS ITEM IS EXCEPTIONAL I like the ease of use and it held the odor in great.
+3  Regardless to this fact, I believe the Champ is the best way to go.
+4  There is no odor and it is very easy to use.
+5  But from my experience, by the time it gets to that point, the bag is really heavy, so I think this is kind of helpful- it's a built-in way of keeping the bag manageable upon emptying.
+6  There is no comparison, the chanp is easy and smell free, the genie was difficult to use one handed (which is absolutly vital if you have a little one on a changing pad) and there was a deffinite odor eminating from the genie plus we found that the quick tie garbage bags where the ties are integrated into the bag work really well because there isn't any added bulk around the sealing edge of the champ.
+toddler	 :3.125 Stars
+toddler with a count 5
+1  Its stable, so a curious toddler can't easily tip it over.
+2  (every now and then I spray down the inside of the pail with Lysol) *easy one-hand use *impossible for my inquisitive child to get the dirty diapers OUT of the pail Every now and then odors do escape the pail, but that is rare--and it usually just means that we've crammed too much in there and need to change the bag.
+3  We received this diaper pail as a gift while expecting our second child.
+4  I have to say that I am very happy with it so far.
+5  It was so easy my toddler would dispose of her on diapers.
+son	 :5.0 Stars
+son with a count 4
+1  I have heard that it will eventually become my sons favorite place to put his toys when he becomes a toddler, but I've got 2 years to worry about that and I'm sure I'll figure out preventative measures like any other mom.
+2  The latch isn't terribly difficult, and I wouldn't want it to be too easy since it sits in my son's room.
+3  Well the Champ has survived it's first year with our son and it is great!!
+smell	 :3.3333335 Stars
+smell with a count 4
+1  No smell, easy to use with one hand free, and best of all it uses regular tall kitchen garbage bags so you don't get suckered in to using only the bags made for the pail that are imposible to find!
+2  Well, I suppose this is better than an open pail, but to have a nursery in which there is no unpleasant smell is quite impossible no matter what you use.
+3  So I can't tell you if Diaper Champ will be as good at containing the formula generated poop smell, but it's excellent at containing the smell of poop of my breastfed baby!
+4  There is no comparison, the chanp is easy and smell free, the genie was difficult to use one handed (which is absolutly vital if you have a little one on a changing pad) and there was a deffinite odor eminating from the genie plus we found that the quick tie garbage bags where the ties are integrated into the bag work really well because there isn't any added bulk around the sealing edge of the champ.
+champ	 :2.0 Stars
+champ with a count 4
+1  I actually took a friends word on it and went with this Champ when registering and I am glad I did.
+2  (I never know when the Champ is full as there is no way too tell.  Even though not particularly aesthetic, how about making the Champ clear and see-through?) So, I lift the lid and find a wad of diaper, which I must remove, usually stuck inside the lid itself because the bag is too full.
+3  The Champ works great.
+4  1) The champ is easy to use.
+baby	 :5.0 Stars
+baby with a count 3
+1  In talking with other parents, I get the same feedback - as babies get older and become toddlers, ALL DIAPER PAILS become gradually less and less effective until they are just no longer useful.
+2  The container is hard to open, which is exactly what you want when your baby becomes a toddler, and you do have to flip the handle carefully (which has saved more than a few of her toys,too.) I don't consider these difficulties but features for the older baby.
+3  Update (March 2005): My son has been out of diapers for almost 2 years now, but the Diaper Champ hung in there till the very end - easy to use, no problems with odors, and one of the best bargains among all of the paraphernalia required for the modern baby :-)
+lid	 :2.5 Stars
+lid with a count 2
+1  It's also easy to empty out.
+2  It's easy to use (just a flip of the lid, and the diaper is gone!).
+OverAll Rating is : 3.5139575 Out of 5 Stars
+Negative summery is: 
+1  We keep the Diaper Champ in our daughter's nursery and her room definitely does NOT smell like dirty diapers.
+
+2  I'm concerned that as she gets older the #2 diapers will only get worse.
+
+3  I find the major problem with this item is that if you have a very messy diaper and can't tightly bundle it without a mess, the mess gets all over the module that dumps the diaper and the stink is OUTSIDE of the diaper pail.
+
+4  it can be frustrating and messy when you put that last diaper in before realizing the unit is full.
+
+5  In fact, people who have been present while I changed my almost 3 month old son's diaper have been amazed at how the very 'potent' smell of the dirty diaper seems to disappear once I dispose of the diaper in the Diaper Champ.
+
+6  This is easy to work and easy to dispose of the dirty diapers.
+
+7  A couple of tips to having a clean-smelling nursery even with the Champ: Double bagging- Get those diaper sacks you would use to dispose of diapers if you're in a place where you don't want to dump a dirty diaper, like in your friend's wastebasket or kitchen garbage.
+
+8  Remember, it does hold dirty diapers!
+
+9  As she entered into toddlerhood we started having some bad diapers just because of her cutting teeth and diet changes.
+
+10  CONS - Difficult to open to change bag-twice my bags caught on a sharp edge inside and snagged as I was pulling out-leaving dirty diapers all over the floor.
+
+11  Pop the lid, fold it back on its hinge, pull the trash bag through the ring, and take out the dirty diapers.
+
+12  It is easy to install and change the ordinary trash bags, easy to clean, and most important, easy to use one handed - just insert folded dirty diaper and flip the handle.
+
+13  We resorted to using small plastic bags to store the dirty diapers and dumping them in a trash can and using the Diaper Champ for wet diapers only.
+
+14  I'd abhor having to drive all the way to a baby superstore to purchase bags her dirty diapers are just going to get thrown away in.
+
+15  With the Champ all you had to do was drop the dirty diaper into the opening and flip the lid.
+
+16  The diaper champ turns the smelly diaper into "what diaper smell" in less time than that.
+
+17  We found that when you put a dirty diaper into the top loader, there was a tendency to get streaks which would then get on the plunger which would then have to get cleaned each time it was used.
+
+18  We have never had any problems with anything like loose wipes getting stuck (we always wrap them in the dirty diaper).
+
+19  One pail that I used was so difficult to change the bag and insert the dirty diaper.
+
+1  Special bags are expensive, hard to find, and you never have enough.
+
+2  Works great, no odor, and uses regular bags.
+
+3   Too costly and not efficient if you ask me!
+
+4  The container is hard to open, which is exactly what you want when your baby becomes a toddler, and you do have to flip the handle carefully (which has saved more than a few of her toys,too.) I don't consider these difficulties but features for the older baby.
+
+5  Another tip is to wash out the Champ frequently and spray the inside and lid with Lysol after every full bag is removed.
+
+6  We resorted to using small plastic bags to store the dirty diapers and dumping them in a trash can and using the Diaper Champ for wet diapers only.
+
+7  Opening the Champ to empty out the bag is a little tricky- I pinched my thumb a few times before I got the hang of it.
+
+8  Bag the diaper in this small clean-smelling bag and then chuck it in the Champ.
+
+9  null
+
+10  The bags never fit right and then it never spun right.
+
+11  The thought of not having to buy refills and just using regular bags is awesome!
+
+12  One pail that I used was so difficult to change the bag and insert the dirty diaper.
+
+1  And the biggest plus is that you don't have to buy any expensive refills.
+
+2  1.  The Diaper Champ doesn't require special refills that are expensive and hard to find!
+
+3  I love that you don't have to purchase expensive refills.
+
+4  For my first I had a diaper genie which was not only costly with the refills but it was also very stinky.
+
+1  A couple of tips to having a clean-smelling nursery even with the Champ: Double bagging- Get those diaper sacks you would use to dispose of diapers if you're in a place where you don't want to dump a dirty diaper, like in your friend's wastebasket or kitchen garbage.
+
+2  (I never know when the Champ is full as there is no way too tell.  Even though not particularly aesthetic, how about making the Champ clear and see-through?) So, I lift the lid and find a wad of diaper, which I must remove, usually stuck inside the lid itself because the bag is too full.
+
+3  But, sometimes, if the Champ is too full, the flip handle won't function.
+
+4  (I never know when the Champ is full as there is no way too tell.  Even though not particularly aesthetic, how about making the Champ clear and see-through?) So, I lift the lid and find a wad of diaper, which I must remove, usually stuck inside the lid itself because the bag is too full.
+
+1  Wow - was that disappointing and we didn't even have it 6 months before it broke.
+
+2  You will be sorry after a few months.
+
+3  My daughter is only 4 months old and we do notice an odor.
+
+1  You had to remove the entire lid and lay it on the floor (which led to my toddler running away with it which is gross) while trying to fit the bag correctly into the slot.
+
+2  My second child I didn't get any.
+
+3  Now for our third child I saw the Diaper Champ and figured why not register for it and try it out.
+
+1  You had to remove the entire lid and lay it on the floor (which led to my toddler running away with it which is gross) while trying to fit the bag correctly into the slot.
+
+2  It's easy to use (just a flip of the lid, and the diaper is gone!).
+
+1  No smell, easy to use with one hand free, and best of all it uses regular tall kitchen garbage bags so you don't get suckered in to using only the bags made for the pail that are imposible to find!
+
+2  Well, I suppose this is better than an open pail, but to have a nursery in which there is no unpleasant smell is quite impossible no matter what you use.
+
+1  Here's the catch for us- our daughter never drank formula, which is what gives baby waste a foul smell, and when she was eating solids we followed the American Pediatric Association recommendation to flush solid products instead of disposing of them.
+
+2  The product also leaves a faint smell in the room.
+
+1  I just knew all along what products I would not use, but was undecided on the actual one I wanted.
+
+FINAL RESULT: 
+J: 0  1  bag  regular  -1
+J: 1  12  bag  right  -1
+J: 2  14  diaper  bad  -1
+J: 3  22  month  extended  1
+J: 4  27  refill  expensive  -1
+J: 5  31  month  old  -1
+J: 6  32  diaper  concerned  -1
+J: 7  32  diaper  older  -1
+J: 8  32  diaper  worse  -1
+J: 9  36  refill  easier  1
+J: 10  36  refill  convenient  1
+J: 11  36  refill  clumsy  1
+J: 12  36  refill  confusing  1
+J: 13  36  refill  expensive  1
+J: 14  38  odor  easy  1
+J: 15  50  smell  foul  -1
+J: 16  50  product  solid  1
+J: 17  53  bag  hard  -1
+J: 18  54  baby  older  1
+J: 19  58  diaper  newborn  1
+J: 20  60  bag  plastic  1
+J: 21  67  diaper  easy  1
+J: 22  67  diaper  easy  1
+J: 23  67  diaper  dirty  -1
+J: 24  68  diaper  fantastic  1
+J: 25  70  diaper  messy  -1
+J: 26  73  month  old  1
+J: 27  74  month  many  1
+J: 28  74  month  many  1
+J: 29  80  toddler  second  1
+J: 30  91  refill  costly  -1
+J: 31  91  refill  stinky  -1
+J: 32  93  toddler  second  -1
+J: 33  94  toddler  third  -1
+J: 34  95  toddler  happy  1
+J: 35  102  pail  better  1
+J: 36  102  pail  open  -1
+J: 37  102  smell  unpleasant  1
+J: 38  106  champ  full  -1
+J: 39  106  champ  flip  -1
+J: 40  107  champ  full  -1
+J: 41  108  champ  aesthetic  -1
+J: 42  108  champ  clear  1
+J: 43  108  champ  see-through  -1
+J: 44  109  bag  full  -1
+J: 45  110  champ  double  -1
+J: 46  110  diaper  dirty  -1
+J: 47  111  bag  small  -1
+J: 48  111  bag  clean-smelling  -1
+J: 49  112  bag  full  -1
+J: 50  119  refill  biggest  1
+J: 51  119  refill  expensive  -1
+J: 52  128  odor  great  1
+J: 53  130  diaper  stuck  1
+J: 54  134  lid  easy  1
+J: 55  134  lid  flip  -1
+J: 56  135  lid  easy  1
+J: 57  144  bag  little  1
+J: 58  144  bag  tricky  -1
+J: 59  145  bag  plastic  1
+J: 60  146  bag  full  1
+J: 61  146  bag  scented  1
+J: 62  147  bag  full  1
+J: 63  148  bag  heavy  1
+J: 64  148  odor  built-in  1
+J: 65  148  bag  manageable  1
+J: 66  156  diaper  newborn  1
+J: 67  158  refill  special  1
+J: 68  161  month  past  1
+J: 69  161  month  happy  1
+J: 70  162  pail  other  1
+J: 71  162  pail  popular  1
+J: 72  163  bag  free  1
+J: 73  163  bag  glad  1
+J: 74  165  month  full  1
+J: 75  168  toddler  inquisitive  1
+J: 76  168  pail  rare  1
+J: 77  170  diaper  dirty  -1
+J: 78  172  diaper  few  1
+J: 79  173  diaper  special  1
+J: 80  177  diaper  smelly  -1
+J: 81  181  product  great  1
+J: 82  181  product  easy  1
+J: 83  181  product  economical  1
+J: 84  181  product  effective  1
+J: 85  181  product  fabulous  1
+J: 86  183  smell  free  1
+J: 87  183  odor  deffinite  1
+J: 88  186  smell  easy  1
+J: 89  186  pail  imposible  -1
+J: 90  187  son  favorite  1
+J: 91  209  pail  other  1
+J: 92  210  champ  easy  1
+J: 93  211  bag  difficult  -1
+J: 94  211  diaper  dirty  -1
+J: 95  212  lid  entire  -1
+J: 96  212  toddler  gross  -1
+J: 97  214  diaper  dirty  -1
+J: 98  215  toddler  easy  1
+J: 99  220  bag  expensive  -1
+J: 100  220  bag  hard  -1
+J: 101  228  pail  other  1
+J: 102  229  odor  best  1
+J: 103  240  bag  scented  1
+J: 104  245  diaper  dirty  -1
+J: 105  246  bag  small  -1
+J: 106  246  bag  plastic  1
+J: 107  246  diaper  dirty  -1
+J: 108  252  refill  expensive  1
+J: 109  256  son  difficult  1
+J: 110  256  son  easy  1
+J: 111  266  diaper  dirty  -1
+J: 112  270  odor  easy  1
+J: 113  279  diaper  frustrating  -1
+J: 114  279  diaper  messy  -1
+J: 115  284  smell  faint  -1
+J: 116  291  diaper  better  1
+J: 117  294  month  happy  1
+J: 118  296  diaper  dirty  -1
+J: 119  298  month  first  1
+J: 120  300  diaper  dirty  -1
+J: 121  302  baby  modern  1
+J: 122  306  bag  costly  1
+J: 123  306  bag  efficient  -1
+J: 124  310  diaper  dirty  -1
+J: 125  316  diaper  secure  1
+J: 126  324  baby  older  1
+J: 127  343  toddler  stable  1
+J: 128  344  diaper  dirty  -1
+J: 129  356  product  great  1
+J: 130  359  diaper  easy  1
+J: 131  361  champ  great  1
+J: 132  364  diaper  easy  1
+J: 133  367  diaper  dirty  1
+J: 134  376  smell  excellent  1
+J: 135  390  month  sorry  -1
+J: 136  392  month  good  1
+J: 137  395  pail  bad  1
+J: 138  400  champ  glad  1
+J: 139  401  product  undecided  -1
+J: 140  402  month  first  1
+J: 141  402  son  great  1
+J: 142  404  bag  regular  -1
+J: 143  404  bag  awesome  1
+J: 144  416  month  disappointing  -1
+J: 145  419  refill  special  1
+J: 146  419  refill  expensive  -1
+J: 147  419  refill  hard  -1
+J: 148  427  diaper  magic  1
+J: 149  429  bag  easy  1
+J: 150  430  diaper  dirty  -1
+J: 151  436  diaper  dirty  -1
+j:  152
+i:  195
+BUILD SUCCESSFUL (total time: 2 minutes 13 seconds)

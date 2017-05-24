@@ -1,0 +1,995 @@
+run:
+Reading POS tagger model from E:\Disertation\APIs\stanford-postagger-full-2014-01-04\models\english-left3words-distsim.tagger ... done [1.6 sec].
+CanonG3.txt output with :DiaperChamp.txt
+Total correction: 0
+Total correction: 0
+Total review: 51
+Total review: 49
+Total Cluster: 688
+Most Important Features: 
+feature zoom
+1 : zoom=1.6156462
+feature image
+2 : image=2.9761906
+feature quality
+3 : quality=6.802721
+feature battery
+4 : battery=2.4659865
+feature lcd
+5 : lcd=1.8707484
+feature software
+6 : software=1.3605442
+feature lens
+7 : lens=5.6122446
+feature speed
+8 : speed=1.4455782
+feature megapixel
+9 : megapixel=1.2755102
+feature color
+10 : color=1.2755102
+feature olympus
+11 : olympus=1.3605442
+feature card
+12 : card=1.8707484
+feature shutter
+13 : shutter=1.3605442
+feature canon
+14 : canon=4.846939
+feature result
+15 : result=1.4455782
+feature setting
+16 : setting=1.5306122
+feature camera
+17 : camera=19.47279
+feature flash
+18 : flash=3.8265307
+feature range
+19 : range=1.7857143
+feature mode
+20 : mode=2.7210884
+feature shot
+21 : shot=1.7857143
+feature picture
+22 : picture=9.438775
+feature film
+23 : film=2.3809524
+sent no: 7  i: 7feature: canon  prev adj: few  new verb: recommend
+sent no: 11  i: 11feature: quality  prev adj: many  new verb: like
+sent no: 45  i: 45feature: lcd  prev adj: much  new verb: bother
+sent no: 46  i: 46feature: canon  prev adj: surprised  new verb: correct
+sent no: 47  i: 47feature: canon  prev adj: digital  new verb: recommend
+sent no: 52  i: 52feature: camera  prev adj: little  new verb: love
+sent no: 74  i: 74feature: zoom  prev adj: optical  new verb: work
+sent no: 93  i: 93feature: camera  prev adj: digital  new verb: recommend
+sent no: 99  i: 99feature: card  prev adj: least  new verb: recommend
+sent no: 110  i: 110feature: battery  prev adj: other  new verb: disappoint
+sent no: 120  i: 120feature: quality  prev adj: located  new verb: fumble
+sent no: 122  i: 122feature: speed  prev adj: shutter  new verb: fumble
+sent no: 127  i: 127feature: camera  prev adj: lexar  new verb: recommend
+sent no: 202  i: 202feature: film  prev adj: point-and-shoot  new verb: satisfy
+sent no: 210  i: 210feature: quality  prev adj: ultimate  new verb: like
+sent no: 222  i: 222feature: image  prev adj: raw  new verb: oppose
+sent no: 238  i: 238feature: camera  prev adj: most  new verb: love
+sent no: 289  i: 289feature: setting  prev adj: white  new verb: lack
+sent no: 289  i: 289feature: setting  prev adj: much  new verb: clean
+sent no: 290  i: 290feature: picture  prev adj: straight  new verb: amaze
+sent no: 292  i: 292feature: camera  prev adj: other  new verb: outperform
+sent no: 293  i: 293feature: color  prev adj: real  new verb: outperform
+sent no: 295  i: 295feature: image  prev adj: little  new verb: criticize
+sent no: 321  i: 321feature: software  prev adj: least  new verb: overlook
+sent no: 323  i: 323feature: camera  prev adj: own  new verb: beg
+sent no: 389  i: 389feature: camera  prev adj: previous  new verb: like
+sent no: 400  i: 400feature: picture  prev adj: few  new verb: lose
+sent no: 400  i: 400feature: picture  prev adj: few  new verb: regret
+sent no: 402  i: 402feature: canon  prev adj: obvious  new verb: limit
+sent no: 411  i: 411feature: quality  prev adj: long  new verb: die
+sent no: 426  i: 426feature: camera  prev adj: digital  new verb: afford
+sent no: 479  i: 479feature: camera  prev adj: digital  new verb: ruin
+sent no: 481  i: 481feature: camera  prev adj: digital  new verb: shun
+sent no: 500  i: 500feature: camera  prev adj: 4mp  new verb: surpass
+sent no: 521  i: 521feature: range  prev adj: main  new verb: lose
+sent no: 524  i: 524feature: camera  prev adj: minor  new verb: afford
+sent no: 538  i: 538feature: color  prev adj: electronic  new verb: work
+sent no: 539  i: 539feature: picture  prev adj: medical  new verb: work
+sent no: 543  i: 543feature: canon  prev adj: new  new verb: improve
+sent no: 552  i: 552feature: shot  prev adj: certain  new verb: lose
+sent no: 569  i: 569feature: lens  prev adj: previous  new verb: obstruct
+sent no: 618  i: 618feature: camera  prev adj: lock-out  new verb: depress
+sent no: 642  i: 642feature: quality  prev adj: hands-on  new verb: lack
+sent no: 644  i: 644feature: camera  prev adj: many  new verb: exploit
+rev: 50
+0  picture  excellent  1
+2  camera  easy  1
+2  camera  recent  0
+2  picture  past  0
+2  picture  elderly  0
+4  range  green  0
+7  canon  recommend  1
+8  picture  visible  1
+8  setting  best  1
+8  setting  possible  1
+8  setting  super  1
+9  flash  larger  0
+9  flash  larger  0
+9  flash  larger  0
+9  camera  4mp  0
+10  camera  bottom  0
+10  camera  easy  1
+10  camera  flexible  1
+10  quality  powerful  1
+10  flash  external  0
+11  quality  excellent  1
+11  quality  like  1
+12  canon  great  1
+15  camera  first  0
+15  camera  digital  0
+16  software  keen  1
+16  software  technical  0
+16  camera  digital  0
+16  camera  worth  1
+16  camera  single  0
+17  canon  little  0
+17  camera  slr-like  0
+17  quality  full  0
+17  quality  manual  0
+19  lens  different  0
+20  quality  4mp  0
+20  quality  bigger  0
+20  quality  high  0
+21  olympus  great  1
+22  image  good  1
+22  image  cf  0
+26  lens  visible  0
+26  lens  optical  0
+27  lens  old-school  0
+27  lens  die-hard  -1
+27  lens  optical  0
+27  lcd  brilliant  1
+30  camera  incredible  1
+31  megapixel  extensive  0
+31  megapixel  different  0
+32  camera  online  0
+32  camera  helpful  1
+32  camera  complete  0
+32  camera  exhaustive  0
+32  range  great  1
+32  range  high  0
+34  camera  awesome  1
+35  range  online  0
+35  range  great  1
+35  speed  pleased  1
+35  camera  functional  0
+36  setting  automatic  0
+36  picture  bad  1
+37  mode  panoramic  1
+37  picture  multiple  0
+37  image  seamless  1
+37  image  panoramic  1
+38  quality  enormous  0
+40  camera  great  1
+41  canon  satisfied  1
+43  camera  many  0
+43  camera  useful  1
+43  camera  many  0
+43  camera  smaller  0
+43  camera  digital  0
+43  camera  easy  1
+43  shutter  steady  1
+43  shutter  slower  -1
+45  lens  visible  1
+45  speed  wide  1
+45  lcd  most  -1
+45  lcd  bother  -1
+46  canon  little  0
+46  canon  correct  -1
+47  canon  minor  0
+47  canon  serious  0
+47  canon  recommend  1
+49  camera  full  1
+49  camera  wonderful  1
+50  quality  photo  0
+50  quality  amazing  1
+51  camera  most  0
+51  camera  own  0
+51  camera  digital  0
+52  camera  love  1
+54  lens  small  -1
+54  lens  hard  -1
+54  lens  accurate  1
+55  camera  much  1
+55  camera  more  1
+55  camera  accurate  1
+58  quality  creative  1
+58  picture  excellent  1
+59  range  excellent  1
+60  lcd  great  1
+61  camera  right  1
+61  camera  semi-serious  0
+61  camera  amateur  0
+62  zoom  nice  1
+63  result  great  1
+63  result  digital  0
+63  result  general  0
+65  mode  on-screen  0
+65  mode  helpful  1
+65  mode  tough  1
+67  battery  bulky  -1
+67  battery  same  0
+67  battery  heavy  0
+67  battery  solid  -1
+68  lens  ergonomical  -1
+68  lens  point-and-shoot  0
+70  camera  fantastic  1
+70  camera  digital  0
+71  camera  wonderful  1
+72  picture  easy  1
+74  zoom  work  1
+74  zoom  great  1
+74  zoom  digital  0
+74  picture  nice  1
+74  zoom  highest  0
+74  zoom  digital  0
+74  zoom  little  0
+74  zoom  blurry  -1
+75  zoom  highest  0
+75  zoom  optical  0
+75  picture  perfect  1
+76  picture  usual  0
+76  picture  digital  0
+76  picture  purple  0
+76  picture  pleased  1
+77  picture  digital  0
+77  picture  nice  1
+77  picture  easy  1
+78  camera  only  0
+78  camera  minor  0
+78  lens  snug  0
+80  camera  fantastic  1
+82  camera  recent  0
+82  camera  best  1
+82  camera  digital  0
+82  camera  available  1
+83  quality  advanced  1
+83  quality  creative  1
+83  quality  imaginable  0
+84  setting  full  0
+84  picture  perfect  1
+85  quality  photo  0
+85  quality  awesome  1
+88  camera  comfortable  1
+88  camera  friendly  1
+89  speed  more  0
+89  speed  huge  0
+89  quality  moderate  0
+90  zoom  extended  1
+90  lens  faster  1
+92  quality  pure  1
+93  camera  potential  0
+93  camera  first-class  1
+93  camera  recommend  1
+93  camera  reasonable  1
+93  camera  better  -1
+94  picture  great  1
+94  quality  easy  1
+94  software  single  0
+94  software  user-friendly  1
+94  software  beautiful  1
+94  software  chrome  0
+98  olympus  clumsy-looking  -1
+98  canon  user-interface  0
+98  canon  friendly  -1
+98  camera  other  0
+99  card  larger  0
+99  card  compact-flash  0
+99  card  recommend  1
+100  canon  great  1
+101  camera  great  1
+103  camera  good  1
+105  card  larger  0
+107  canon  great  1
+109  card  256mb  0
+109  quality  highest  0
+110  battery  other  -1
+110  battery  disappoint  -1
+110  lcd  optical  0
+110  film  less  0
+111  battery  proprietary  -1
+111  battery  long  0
+111  quality  more  0
+111  battery  spare  0
+113  camera  great  1
+114  mode  easy  1
+115  picture  great  1
+116  speed  shutter  0
+117  picture  able  0
+117  picture  great  1
+117  picture  4th  0
+117  shot  amazing  1
+119  quality  intuitive  1
+120  quality  manual  1
+120  quality  able  1
+120  quality  fumble  1
+121  speed  quick  0
+121  speed  shutter  0
+121  speed  high  0
+121  mode  focal  0
+121  mode  full  0
+121  quality  ideal  1
+121  quality  photo  0
+122  mode  manual  0
+122  mode  easy  1
+122  mode  fast  1
+122  speed  fumble  1
+123  camera  good  1
+124  camera  great  1
+127  camera  recommend  1
+127  card  small  0
+127  card  slow  -1
+129  camera  outstanding  1
+130  camera  first  1
+130  camera  digital  1
+130  camera  pleased  1
+131  camera  whole  -1
+131  camera  happy  1
+133  picture  same  0
+133  picture  wonderful  1
+133  mode  average  0
+134  megapixel  great  1
+135  camera  fine  1
+137  camera  simple  0
+138  camera  outstanding  1
+138  camera  simple  0
+143  picture  excellent  1
+144  mode  clear  1
+145  camera  easy  1
+146  lens  only  0
+147  lcd  minor  0
+148  camera  best  1
+151  camera  more  0
+151  camera  nikon  0
+152  picture  brilliant  1
+153  camera  few  0
+155  color  great  1
+155  color  digital  0
+156  lens  loose  -1
+156  lens  finger-printed  0
+156  lens  few  0
+156  lens  potential  0
+164  picture  great  1
+165  color  great  1
+165  picture  white  0
+166  zoom  optical  0
+166  zoom  higher  0
+166  range  other  0
+166  range  same  0
+168  camera  digital  0
+169  camera  disappointing  -1
+170  shot  few  0
+170  shot  expensive  -1
+173  result  superior  1
+173  result  minimal  0
+175  camera  low  0
+175  camera  light  0
+180  flash  next  0
+181  picture  great  -1
+182  picture  outdoor  1
+182  picture  awesome  1
+187  range  extra  0
+189  quality  high  0
+193  film  versatile  -1
+195  film  long-time  -1
+195  film  responsive  1
+195  quality  professional  0
+195  quality  external  0
+196  zoom  first  0
+197  lens  digital  0
+197  lens  full  0
+200  quality  high  0
+200  image  clean  1
+201  quality  long  0
+201  quality  focus-locks  0
+201  quality  bright  1
+201  quality  unsatisfactory  -1
+201  quality  light  0
+201  flash  built-in  0
+202  film  focus-lock  0
+202  film  satisfy  1
+202  film  modern  -1
+203  shutter  least  0
+203  shutter  youve  0
+203  shutter  second  0
+203  shutter  better  1
+203  shutter  available  1
+204  range  focus-lock  0
+204  range  extreme  0
+204  range  obtainable  1
+205  shutter  restless  -1
+205  shutter  amusing  1
+205  shutter  reasonable  1
+207  flash  relative  0
+207  flash  external  0
+207  flash  internal  0
+207  image  harsh  -1
+207  image  flat  0
+207  image  ugly  -1
+207  image  hot  1
+208  flash  hot  1
+208  flash  external  0
+208  quality  highest  0
+208  quality  external  0
+209  flash  external  -1
+209  camera  proper  1
+210  quality  absolute  0
+210  quality  like  1
+211  mode  manual  0
+211  speed  f-stop  0
+212  flash  contrary  0
+212  flash  second  0
+212  flash  third-party  0
+212  flash  dedicated  1
+213  shutter  second  0
+213  shutter  most  0
+215  flash  most  0
+217  card  neutral  0
+217  flash  available  -1
+217  flash  first  0
+219  range  acceptable  0
+219  image  stunning  1
+220  mode  tilted  0
+221  image  shadow-free  0
+221  image  gentlest  1
+221  image  natural  0
+222  software  more  -1
+222  image  raw  -1
+222  image  raw  -1
+222  mode  first  -1
+222  image  oppose  -1
+223  image  raw  0
+223  image  present  0
+223  image  raw  0
+223  image  raw  0
+223  setting  image-affecting  0
+224  camera  second  0
+225  image  true  0
+225  image  raw  0
+227  camera  raw  0
+227  camera  plug-in  0
+228  quality  plug-in  0
+228  quality  stunning  1
+228  quality  raw  0
+229  color  accurate  1
+229  color  realistic  1
+229  color  ive  0
+229  image  raw  0
+230  camera  raw  0
+230  camera  plug-in  0
+231  image  raw  0
+231  picture  uncritical  0
+232  picture  plug-in  0
+233  image  least  0
+233  image  photorealistic  0
+233  image  ive  0
+234  quality  stunned  1
+234  image  raw  0
+234  flash  professional  0
+234  camera  ive  0
+234  range  better  -1
+237  camera  perfect  1
+237  quality  easy  1
+238  camera  love  1
+239  camera  most  0
+239  camera  digital  0
+241  picture  manual  0
+241  picture  excellent  1
+241  picture  quick  0
+241  quality  astounding  1
+242  camera  good  1
+242  camera  other  0
+242  camera  similar  0
+242  camera  digital  0
+242  camera  best  1
+243  lens  perfect  -1
+243  lcd  enough  1
+243  lcd  cheapest  -1
+243  lcd  best  1
+244  camera  many  0
+244  camera  digital  0
+246  camera  great  1
+246  camera  digital  0
+247  camera  positive  1
+247  camera  leading  1
+247  camera  online  0
+248  camera  different  0
+251  camera  perfect  1
+252  picture  more  0
+252  picture  topnotch  1
+255  setting  ready  1
+255  picture  able  0
+255  picture  excellent  1
+255  picture  contrary  0
+255  picture  other  0
+256  shutter  tremendous  0
+256  mode  manual  0
+257  picture  coastal  0
+257  picture  able  0
+257  picture  additional  0
+257  picture  macro-focussing  0
+257  picture  wonderful  1
+257  picture  other  0
+258  lens  only  0
+258  lens  legitimate  0
+258  lens  online  0
+262  camera  positive  1
+262  camera  great  1
+262  camera  little  0
+268  quality  raw  0
+268  quality  incredible  1
+268  quality  post-processing  0
+270  battery  most  0
+272  software  remote  1
+272  picture  mind-blowing  1
+273  olympus  easy  1
+273  olympus  intuitive  1
+282  result  selectable  0
+282  mode  available  1
+283  setting  vivid  1
+283  setting  neutral  0
+283  setting  low  0
+285  software  new  0
+285  picture  panoramic  1
+287  canon  neat  1
+289  setting  white  0
+289  setting  clean  1
+289  setting  sharper  1
+289  setting  lack  -1
+290  picture  english  0
+290  picture  amaze  1
+292  setting  dim  -1
+292  camera  outperform  1
+293  color  less  1
+293  color  outperform  1
+294  image  best  1
+294  quality  current  0
+294  megapixel  >  0
+294  color  tonal  0
+295  image  criticize  -1
+301  picture  low  0
+301  shutter  few  0
+302  mode  many  0
+302  picture  blurry  -1
+304  camera  awesome  1
+304  camera  pro-sumer  0
+305  camera  digital  0
+306  camera  5mp  0
+306  quality  more  0
+306  quality  megapixel  0
+307  camera  casual  0
+307  camera  artistic  0
+307  camera  photographic  0
+308  camera  main  0
+308  camera  easy  1
+309  camera  great  1
+310  zoom  great  1
+310  zoom  great  1
+310  zoom  optical  0
+310  picture  great  1
+311  lcd  friendly  -1
+311  lcd  casual  0
+311  lcd  little  0
+311  lcd  small  0
+311  picture  raw  0
+312  camera  solid  1
+313  picture  sharp  1
+313  picture  5mp  0
+313  picture  great  1
+313  picture  easy  1
+314  lcd  limited  -1
+314  lcd  useful  -1
+318  camera  nice  1
+318  picture  sharp  -1
+321  zoom  4mp  0
+321  zoom  4x  0
+321  zoom  optical  0
+321  picture  beautiful  1
+321  camera  above  0
+321  camera  5mp  0
+321  camera  easy  1
+321  lcd  great  1
+321  lcd  swivel  0
+321  software  add-on  0
+321  software  great  1
+321  software  last  0
+321  software  overlook  1
+322  camera  digital  0
+323  camera  other  0
+323  camera  great  1
+323  camera  sure  0
+323  camera  many  0
+323  camera  beg  -1
+325  picture  great  -1
+327  camera  great  1
+329  picture  so-so  0
+329  picture  spectacular  1
+330  megapixel  plenty  0
+332  card  sure  0
+332  card  big  0
+332  card  compactflash  0
+332  card  32mb  0
+332  card  512mb  0
+332  card  inexpensive  1
+334  camera  digital  0
+334  shot  precious  1
+335  camera  digital  0
+337  film  same  0
+338  film  cool  1
+340  camera  most  0
+340  camera  well-behaved  1
+342  picture  indefinite  0
+348  camera  new  0
+351  lens  first  0
+353  camera  many  0
+353  camera  unresponsive  -1
+353  camera  film-based  0
+354  canon  own  0
+356  picture  bright  1
+359  olympus  direct  0
+359  olympus  fast  1
+359  olympus  responsive  1
+365  camera  blow-out-the-candles  0
+366  camera  digital  0
+371  quality  same  0
+371  film  current  0
+372  olympus  disposable  0
+375  camera  first  -1
+375  camera  digital  -1
+375  camera  happier  -1
+379  picture  better  1
+379  lens  good  1
+380  speed  easier  1
+382  camera  best  1
+382  camera  4mp  0
+383  picture  digital  0
+385  quality  easy  1
+386  camera  exhustive  0
+389  camera  like  -1
+390  camera  loose  -1
+392  lens  concerned  -1
+400  picture  regret  -1
+400  picture  lose  -1
+402  canon  limit  1
+404  canon  needless  -1
+406  film  more  0
+406  film  perfect  1
+407  mode  new  0
+407  mode  advanced  1
+408  camera  worth  1
+409  battery  incredible  1
+411  quality  die  -1
+413  camera  last  0
+413  camera  digital  0
+414  camera  digital  0
+414  camera  long  0
+416  camera  glad  1
+417  camera  happy  1
+419  mode  able  0
+420  quality  intuitive  1
+420  quality  big  0
+422  battery  standard  0
+424  zoom  optical  0
+424  zoom  awesome  1
+425  camera  little  0
+425  camera  minor  0
+425  lens  visible  0
+426  camera  last  0
+426  camera  afford  1
+426  camera  best  1
+427  camera  last  -1
+427  camera  few  -1
+427  camera  digital  -1
+427  shot  hard  -1
+428  zoom  best  1
+428  zoom  optical  0
+428  camera  available  1
+428  camera  easy  1
+430  camera  more  0
+430  camera  digital  0
+433  film  other  0
+435  camera  beautiful  1
+438  camera  stunning  1
+438  camera  sharp  1
+438  camera  excellent  1
+438  camera  better  1
+438  camera  other  0
+439  camera  little  0
+439  camera  digital  0
+439  camera  best-designed  0
+439  camera  most-elegant  0
+439  camera  squashed  0
+440  range  good  1
+441  camera  first  0
+441  camera  digital  0
+443  quality  able  -1
+443  quality  high  -1
+443  picture  bulky  1
+445  olympus  nikon  0
+446  camera  best  1
+446  camera  round  0
+449  camera  easier  1
+449  camera  5mp  0
+453  picture  raw  0
+454  shutter  complete  0
+456  camera  first  0
+456  camera  digital  0
+459  software  much  0
+459  software  other  0
+460  camera  happy  1
+466  picture  cool  1
+467  olympus  digital  0
+468  picture  hi-ti  0
+468  picture  dye-sub  0
+469  picture  more  0
+470  camera  many  0
+471  picture  better  1
+471  film  most  0
+475  range  best  1
+475  range  extra  0
+476  picture  easier  1
+478  camera  digital  0
+479  quality  poor  -1
+479  battery  short  0
+479  battery  slow  -1
+479  camera  ruin  -1
+481  camera  new  -1
+481  camera  shun  -1
+482  picture  many  1
+482  camera  good  1
+482  camera  many  1
+484  lens  short  0
+484  lens  new  0
+484  lens  expensive  -1
+484  film  several  0
+486  camera  professional  0
+488  camera  excellent  1
+489  camera  different  1
+489  camera  such  1
+489  camera  best  1
+489  camera  digital  1
+491  camera  excellent  1
+492  battery  beautiful  1
+492  battery  easy  1
+492  battery  configurable  0
+492  battery  customizable  0
+492  battery  amazing  1
+495  card  bad  -1
+495  card  pitiful  -1
+495  card  32mb  0
+495  card  compactflash  0
+495  card  most  0
+496  camera  general  0
+496  camera  most  0
+496  camera  digital  0
+497  camera  good  1
+497  camera  less  0
+497  camera  dark  -1
+499  camera  short  0
+500  camera  greatest  1
+500  camera  surpass  1
+505  quality  easy  1
+506  range  pro  0
+506  range  good  1
+506  range  manual  0
+507  result  good  1
+509  result  better  1
+512  card  small  0
+513  card  256meg  0
+513  card  worth  1
+515  camera  unnerving  -1
+517  lens  fragile  -1
+517  camera  worth  1
+517  camera  good  1
+520  mode  fragile  -1
+521  flash  built-in  0
+521  camera  small  0
+521  range  lose  -1
+522  canon  other  0
+522  canon  powerful  1
+522  canon  expensive  -1
+523  mode  horrible  -1
+524  camera  better  1
+524  camera  afford  1
+526  camera  mind-blowing  1
+527  quality  easy  1
+529  quality  excellent  1
+530  result  good  1
+530  result  excellent  1
+532  quality  advanced  1
+532  quality  serious  0
+533  camera  first  0
+533  camera  digital  0
+534  film  relevant  0
+536  camera  best  1
+537  camera  finest  1
+538  color  few  0
+538  color  work  1
+539  picture  great  1
+539  picture  work  1
+539  mode  terrific  1
+540  camera  closest  0
+540  camera  perfect  1
+541  camera  closest  0
+541  camera  perfect  1
+541  megapixel  other  0
+543  canon  glad  1
+543  canon  4mp  0
+543  canon  improve  1
+552  picture  digital  0
+552  picture  other  0
+552  shot  lose  -1
+552  result  other  0
+554  camera  great  1
+555  picture  fabulous  1
+555  picture  short  0
+556  battery  important  1
+556  battery  extra  0
+557  shot  full  0
+557  shot  least  0
+558  flash  512mb  0
+558  flash  compact  1
+558  shot  full  0
+558  shot  4mp  0
+558  quality  3lb  0
+558  shot  hard  -1
+558  quality  long  0
+558  quality  extra  0
+559  flash  compact  1
+559  flash  delicate  1
+563  lens  only  0
+563  lens  many  0
+563  lens  clean  1
+564  lens  best  1
+568  picture  great  1
+568  picture  solid  1
+569  lens  obstruct  -1
+569  lens  negative  -1
+569  lens  lower  0
+569  lens  left  0
+569  lens  stunning  1
+570  quality  several  0
+570  quality  such  0
+570  shot  continuous  0
+570  lens  optical  0
+574  speed  second  0
+575  camera  expedited  0
+582  card  busy  0
+582  card  enough  -1
+585  mode  timely  1
+588  camera  major  0
+589  lcd  bottom  0
+589  lcd  left  0
+590  canon  technical  0
+590  camera  defective  -1
+591  lcd  most  0
+592  camera  great  1
+594  lens  much  0
+597  zoom  longer  0
+597  zoom  more  0
+597  flash  hot  1
+597  flash  external  0
+597  quality  remote  0
+598  canon  nikon  1
+598  canon  due  0
+598  canon  comfortable  1
+601  quality  noticeable  0
+602  lens  larger  0
+602  picture  better  1
+602  quality  low  0
+602  zoom  4-times  0
+602  zoom  optical  0
+603  lcd  moveable  0
+603  lcd  great  1
+604  shot  best  1
+605  shutter  tiny  0
+605  shutter  postage-stamp  0
+605  shutter  remote  0
+605  shutter  wonderful  1
+606  camera  good  1
+606  camera  sturdy  1
+606  camera  new  0
+606  quality  remote  0
+606  quality  remarkable  1
+606  quality  indoor  0
+606  quality  natural-light  0
+607  flash  hot  1
+607  flash  sophisticated  1
+609  quality  greatest  1
+609  flash  built-in  0
+609  picture  flat  0
+609  picture  annoying  -1
+609  flash  good  1
+609  flash  add-on  0
+609  flash  almost-natural  0
+610  battery  real  0
+612  battery  different  0
+612  canon  smaller  0
+613  shutter  aperature  -1
+613  shutter  light  -1
+613  quality  clear  1
+614  setting  automatic  0
+614  setting  comfortable  1
+614  setting  manual  0
+617  mode  digital  0
+618  camera  on-off  0
+618  camera  flimsy  -1
+618  camera  awkward  -1
+618  camera  tiny  0
+618  camera  little  0
+618  camera  depress  -1
+620  picture  highest  0
+622  shot  remote  0
+622  image  digital  0
+623  image  internal  0
+624  camera  same  0
+626  camera  digital  0
+626  camera  easier  1
+627  camera  bottom  0
+627  camera  serious  0
+627  camera  digital  0
+627  camera  digital  0
+628  flash  sure  0
+628  flash  separate  0
+628  flash  same  0
+630  camera  pleased  1
+631  card  gray  0
+632  setting  mixed-light  0
+633  card  gray  0
+633  card  plain  0
+633  card  white  0
+634  shutter  first  0
+634  shutter  camera-determined  0
+634  shutter  lighter  1
+634  shutter  darker  -1
+639  camera  comfortable  1
+639  camera  easy  1
+639  picture  best  1
+639  picture  digital  0
+640  camera  best  1
+640  camera  non-slr  0
+640  camera  digital  0
+642  quality  lack  -1
+642  image  outstanding  1
+642  quality  superior  1
+643  flash  external  0
+643  quality  available  1
+644  camera  exploit  -1
+645  camera  point-and-shoot  -1
+645  camera  finer  1
+646  camera  best  1
+646  camera  non-slr  0
+646  camera  digital  0
+648  film  nikon  1
+648  battery  amazing  1
+649  canon  better  1
+650  camera  best  1
+650  camera  digital  0
+651  flash  compact  1
+652  setting  fine  1
+652  setting  close  0
+653  camera  nikon  1
+653  camera  better  1
+654  camera  only  -1
+654  camera  minor  -1
+654  camera  boxy  -1
+654  shot  slow  -1
+655  camera  best  1
+655  camera  digital  0
+655  camera  available  1
+656  camera  great  1
+656  camera  same  0
+656  camera  less  0
+657  camera  great  1
+658  canon  proven  1
+660  camera  heavy  1
+660  camera  great  1
+j:  436
+i:  892
+BUILD SUCCESSFUL (total time: 4 minutes 25 seconds)
